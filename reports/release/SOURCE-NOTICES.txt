@@ -1,0 +1,53 @@
+The Unicode Standard, Version 18.0
+Consolidated Code Charts
+ 
+This file contains the complete set of character code tables and list of character names for
+The Unicode Standard, Version 18.0
+ 
+This file will not be updated with errata, or when additional characters are assigned to the Unicode Standard.
+ 
+See https://www.unicode.org/errata/ for an up-to-date list of errata.
+ 
+See https://www.unicode.org/charts/ for access to a complete list of the latest character code charts. See
+https://www.unicode.org/charts/PDF/Unicode-18.0/ for charts showing only the characters added in Unicode 18.0. See
+https://www.unicode.org/Public/18.0.0/charts/ for a complete set of character code charts for Unicode 18.0. See
+https://www.unicode.org/Public/18.0.0/charts/About.html#Conventions for conventions used in these code charts, and
+other general information.
+ 
+Disclaimer
+These charts are provided as the online reference to the character contents of the Unicode Standard, Version 18.0 but do
+not provide all the information needed to fully support individual scripts using the Unicode Standard. For a complete
+understanding of the use of the characters contained in this file, please consult the appropriate sections of The Unicode
+Standard, Version 18.0, online at:
+ 
+https://www.unicode.org/versions/Unicode18.0.0/
+ 
+Fonts
+The shapes of the reference glyphs used in these code charts are not prescriptive. Considerable variation is to be
+expected in actual fonts.
+ 
+See https://www.unicode.org/charts/fonts.html for a list.
+ 
+Terms of Use
+© 1991–2026 Unicode, Inc. This publication is protected by copyright, and permission must be obtained from Unicode,
+Inc. prior to any reproduction, modification, or other use not permitted by the Terms of Use
+(https://www.unicode.org/copyright.html). Specifically, you may make copies of this publication and may annotate and
+translate it solely for personal or internal business purposes and not for public distribution, provided that any such
+permitted copies and modifications fully reproduce all copyright and other legal notices contained in the original. You
+may not make copies of or modifications to this publication for public distribution, or incorporate it in whole or in part
+into any product or publication without the express written permission of Unicode.
+ 
+The Unicode Consortium specifically grants ISO a license to produce such code charts with their associated character
+names list to show the repertoire of characters for that standard, as a normatively referenced, integral part of that
+standard.
+ 
+Unicode uses most fonts under restricted license from the original font owner. You may not extract, copy, modify, or
+distribute fonts or font data from any Unicode Products, including this publication, without license from the font owner.
+ 
+Use of all Unicode Products, including this publication, is governed by the Unicode Terms of Use
+(https://www.unicode.org/copyright.html). The authors, contributors, and publishers have taken care in the preparation of
+this publication, but make no express or implied representation or warranty of any kind and assume no responsibility or
+liability for errors or omissions or for consequential or incidental damages that may arise therefrom. This publication is
+provided “AS-IS” without charge as a convenience to users.
+ 
+Unicode and the Unicode Logo are registered trademarks of Unicode, Inc., in the United States and other countries.

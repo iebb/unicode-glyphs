@@ -1,0 +1,53 @@
+{
+  "unicode_version": "18.0.0",
+  "files": [
+    {
+      "file": "CodeCharts.pdf",
+      "url": "https://www.unicode.org/Public/18.0.0/charts/CodeCharts.pdf",
+      "bytes": 178618345,
+      "sha256": "2d0220e2a717bffccc9505515078b74635ac071f1e0069cd31a265a586299b68"
+    },
+    {
+      "file": "UnicodeData.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/UnicodeData.txt",
+      "bytes": 2243593,
+      "sha256": "0736451de439ae7baf1425136617da495e09ee5afbe6e394374db7009ea08950"
+    },
+    {
+      "file": "Unihan.zip",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/Unihan.zip",
+      "bytes": 8340649,
+      "sha256": "4c93ea9c1f636451729a840978f1667a53886af37ba854fdcce109721c63d43e"
+    },
+    {
+      "file": "SealSources.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/SealSources.txt",
+      "bytes": 1871006,
+      "sha256": "05ba2c220c4f34a0f1ef54676e7d2033963a9baed1acafd079f00f13da11aa90"
+    },
+    {
+      "file": "JurchenSources.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/JurchenSources.txt",
+      "bytes": 78463,
+      "sha256": "e4135d2776ff18232dfe2d59b71ac0775f74f8704f141527079b9b8d6832cdaf"
+    },
+    {
+      "file": "TangutSources.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/TangutSources.txt",
+      "bytes": 395829,
+      "sha256": "ae440bd9bba89b2610cfe6b498ac462d2763dd32bfead8ac30d32988b5b67a27"
+    },
+    {
+      "file": "NushuSources.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/NushuSources.txt",
+      "bytes": 23960,
+      "sha256": "b8fbcccce66163fc4808894a18e120bb04490013e0e027c1ae9335faabc22138"
+    },
+    {
+      "file": "StandardizedVariants.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/StandardizedVariants.txt",
+      "bytes": 77478,
+      "sha256": "c7ae634a7e2bb0932258548a1e81df984fbb38e30cecf4269391d6a4f94581ac"
+    }
+  ]
+}

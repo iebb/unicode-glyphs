@@ -1,0 +1,6703 @@
+{
+  "passed": true,
+  "svg_files_checked": 372521,
+  "codepoints_checked": 172939,
+  "source_identity_checks": 320512,
+  "variation_sequence_checks": 286,
+  "raster_samples": 669,
+  "max_normalized_ink_error": 0.038611,
+  "missing_font_identities": 0,
+  "errors": [],
+  "raster_comparisons": [
+    {
+      "path": "U00/00/5C.svg",
+      "page": 2,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.120412,
+      "pixels": 3360,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/00/8C.svg",
+      "page": 8,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.068583,
+      "pixels": 8280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/01/2F.svg",
+      "page": 13,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.103843,
+      "pixels": 2640,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/01/D4.svg",
+      "page": 18,
+      "normalized_ink_error": 0.000597,
+      "raw_ink_error": 0.067404,
+      "pixels": 3519,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/02/7D.svg",
+      "page": 25,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.084557,
+      "pixels": 2470,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/02/FD.svg",
+      "page": 30,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.186214,
+      "pixels": 1081,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/03/25.svg",
+      "page": 34,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.147821,
+      "pixels": 3220,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/03/EB.svg",
+      "page": 38,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.090004,
+      "pixels": 3685,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/04/76.svg",
+      "page": 42,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.163153,
+      "pixels": 6776,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/05/08.svg",
+      "page": 48,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.139743,
+      "pixels": 6256,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/05/86.svg",
+      "page": 50,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.075791,
+      "pixels": 6039,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/05/C7.svg",
+      "page": 53,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.204736,
+      "pixels": 3240,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/06/1C.svg",
+      "page": 56,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.057916,
+      "pixels": 8280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/07/42.svg",
+      "page": 63,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.064095,
+      "pixels": 2806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/07/69.svg",
+      "page": 66,
+      "normalized_ink_error": 7.9e-05,
+      "raw_ink_error": 0.173847,
+      "pixels": 3634,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/07/8F.svg",
+      "page": 68,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.066374,
+      "pixels": 1806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/07/FA.svg",
+      "page": 69,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.070596,
+      "pixels": 828,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/08/02.svg",
+      "page": 71,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.022361,
+      "pixels": 4002,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/08/4E.svg",
+      "page": 73,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.074865,
+      "pixels": 2378,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/08/6A.svg",
+      "page": 74,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.092485,
+      "pixels": 3420,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/08/82.svg",
+      "page": 75,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.036856,
+      "pixels": 1885,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/08/A2.svg",
+      "page": 77,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.138472,
+      "pixels": 5544,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/09/52.svg",
+      "page": 80,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.19688,
+      "pixels": 2385,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/09/85.svg",
+      "page": 83,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.072167,
+      "pixels": 4248,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/09/AC.svg",
+      "page": 83,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.037457,
+      "pixels": 3596,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0A/5C.svg",
+      "page": 86,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.059158,
+      "pixels": 3658,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0A/ED.svg",
+      "page": 89,
+      "normalized_ink_error": 0.000113,
+      "raw_ink_error": 0.132126,
+      "pixels": 3591,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0B/18.svg",
+      "page": 92,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.181927,
+      "pixels": 2793,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0B/87.svg",
+      "page": 95,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.11427,
+      "pixels": 6264,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0C/79.svg",
+      "page": 98,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.032343,
+      "pixels": 1024,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0C/80.svg",
+      "page": 101,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.149055,
+      "pixels": 1584,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0D/2A.svg",
+      "page": 104,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.155361,
+      "pixels": 2970,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0D/E9.svg",
+      "page": 107,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.115358,
+      "pixels": 4982,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0E/18.svg",
+      "page": 110,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.107767,
+      "pixels": 2408,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0E/DC.svg",
+      "page": 113,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.071609,
+      "pixels": 7006,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/0F/21.svg",
+      "page": 116,
+      "normalized_ink_error": 0.000116,
+      "raw_ink_error": 0.105128,
+      "pixels": 1736,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/10/2E.svg",
+      "page": 121,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.097287,
+      "pixels": 3266,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/10/C7.svg",
+      "page": 124,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.012368,
+      "pixels": 4661,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/11/23.svg",
+      "page": 126,
+      "normalized_ink_error": 2.2e-05,
+      "raw_ink_error": 0.250081,
+      "pixels": 3150,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/13/53.svg",
+      "page": 131,
+      "normalized_ink_error": 0.0014,
+      "raw_ink_error": 0.100791,
+      "pixels": 5360,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/13/95.svg",
+      "page": 136,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.188948,
+      "pixels": 4200,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/13/E4.svg",
+      "page": 137,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.03984,
+      "pixels": 5396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/14/66.svg",
+      "page": 139,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.12385,
+      "pixels": 1160,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/15/D8.svg",
+      "page": 141,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.116412,
+      "pixels": 4402,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/16/84.svg",
+      "page": 149,
+      "normalized_ink_error": 0.00337,
+      "raw_ink_error": 0.088258,
+      "pixels": 3280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/16/EA.svg",
+      "page": 150,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.072206,
+      "pixels": 5440,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/17/1F.svg",
+      "page": 152,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.060556,
+      "pixels": 5576,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/17/30.svg",
+      "page": 153,
+      "normalized_ink_error": 2.9e-05,
+      "raw_ink_error": 0.047763,
+      "pixels": 7644,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/17/49.svg",
+      "page": 154,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.080867,
+      "pixels": 5544,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/17/60.svg",
+      "page": 155,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.082455,
+      "pixels": 5256,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/17/9B.svg",
+      "page": 156,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.071162,
+      "pixels": 4640,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/17/C3.svg",
+      "page": 156,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.151966,
+      "pixels": 7134,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/18/74.svg",
+      "page": 160,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.070328,
+      "pixels": 6032,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/18/CE.svg",
+      "page": 163,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.096711,
+      "pixels": 4680,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/19/1A.svg",
+      "page": 165,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.104079,
+      "pixels": 2542,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/19/59.svg",
+      "page": 167,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087227,
+      "pixels": 1786,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/19/96.svg",
+      "page": 168,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.154151,
+      "pixels": 5775,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/19/FE.svg",
+      "page": 170,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.105814,
+      "pixels": 4131,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1A/0F.svg",
+      "page": 171,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.048731,
+      "pixels": 4968,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1A/5E.svg",
+      "page": 172,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.093602,
+      "pixels": 3504,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1A/DA.svg",
+      "page": 175,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.215646,
+      "pixels": 5280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1B/2A.svg",
+      "page": 178,
+      "normalized_ink_error": 0.001763,
+      "raw_ink_error": 0.225614,
+      "pixels": 1472,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1B/89.svg",
+      "page": 181,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.03569,
+      "pixels": 4158,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1B/D3.svg",
+      "page": 183,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.106634,
+      "pixels": 3478,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1C/2D.svg",
+      "page": 185,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.256893,
+      "pixels": 3510,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1C/6F.svg",
+      "page": 187,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.093571,
+      "pixels": 4884,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1C/81.svg",
+      "page": 188,
+      "normalized_ink_error": 0.001628,
+      "raw_ink_error": 0.203981,
+      "pixels": 3332,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1C/B4.svg",
+      "page": 189,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.048796,
+      "pixels": 4720,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1C/C7.svg",
+      "page": 190,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.02489,
+      "pixels": 8174,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 915
+    },
+    {
+      "path": "U00/1C/DB.svg",
+      "page": 191,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.120625,
+      "pixels": 3726,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1D/47.svg",
+      "page": 194,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.16348,
+      "pixels": 1598,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1D/B8.svg",
+      "page": 198,
+      "normalized_ink_error": 0.000809,
+      "raw_ink_error": 0.312381,
+      "pixels": 1156,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1D/CB.svg",
+      "page": 201,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.201762,
+      "pixels": 3658,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1E/A1.svg",
+      "page": 204,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.101759,
+      "pixels": 2925,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/1F/0B.svg",
+      "page": 211,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.075229,
+      "pixels": 5538,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/20/37.svg",
+      "page": 218,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.075142,
+      "pixels": 1734,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/20/91.svg",
+      "page": 224,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.162443,
+      "pixels": 1020,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/20/B8.svg",
+      "page": 226,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.147034,
+      "pixels": 3224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/20/DF.svg",
+      "page": 229,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.189398,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/21/4E.svg",
+      "page": 231,
+      "normalized_ink_error": 0.000563,
+      "raw_ink_error": 0.089435,
+      "pixels": 2112,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/21/6D.svg",
+      "page": 236,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.102794,
+      "pixels": 4410,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/21/DE.svg",
+      "page": 239,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.065819,
+      "pixels": 3234,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/22/F9.svg",
+      "page": 242,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.066826,
+      "pixels": 2916,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/23/04.svg",
+      "page": 251,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.10594,
+      "pixels": 2107,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/24/29.svg",
+      "page": 257,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.034071,
+      "pixels": 9409,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/24/48.svg",
+      "page": 259,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.080711,
+      "pixels": 2756,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/24/F3.svg",
+      "page": 260,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.047027,
+      "pixels": 8190,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/25/2F.svg",
+      "page": 264,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.060747,
+      "pixels": 5626,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/25/8C.svg",
+      "page": 267,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003235,
+      "pixels": 5141,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/25/DF.svg",
+      "page": 268,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.078912,
+      "pixels": 1764,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/26/4F.svg",
+      "page": 271,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.023293,
+      "pixels": 7728,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/27/68.svg",
+      "page": 278,
+      "normalized_ink_error": 2.2e-05,
+      "raw_ink_error": 0.079642,
+      "pixels": 2736,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/27/CA.svg",
+      "page": 283,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.09869,
+      "pixels": 1725,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/27/FD.svg",
+      "page": 286,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.190952,
+      "pixels": 7182,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 513
+    },
+    {
+      "path": "U00/28/D3.svg",
+      "page": 287,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.072763,
+      "pixels": 4472,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/29/28.svg",
+      "page": 291,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.12241,
+      "pixels": 6084,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/29/E4.svg",
+      "page": 295,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.0516,
+      "pixels": 4984,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2A/22.svg",
+      "page": 300,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067909,
+      "pixels": 4368,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2B/18.svg",
+      "page": 306,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.081352,
+      "pixels": 5852,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2B/3E.svg",
+      "page": 306,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.086957,
+      "pixels": 3234,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2C/47.svg",
+      "page": 313,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.029152,
+      "pixels": 3575,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2C/76.svg",
+      "page": 315,
+      "normalized_ink_error": 9e-06,
+      "raw_ink_error": 0.149537,
+      "pixels": 1960,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2C/AF.svg",
+      "page": 317,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.038671,
+      "pixels": 4104,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2C/B6.svg",
+      "page": 317,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.073829,
+      "pixels": 5037,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2D/05.svg",
+      "page": 320,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.089652,
+      "pixels": 5320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2D/47.svg",
+      "page": 321,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.073816,
+      "pixels": 3657,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2D/83.svg",
+      "page": 323,
+      "normalized_ink_error": 0.000398,
+      "raw_ink_error": 0.093167,
+      "pixels": 5037,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2D/EC.svg",
+      "page": 325,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.09301,
+      "pixels": 3910,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2E/41.svg",
+      "page": 326,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.104317,
+      "pixels": 704,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2E/E3.svg",
+      "page": 330,
+      "normalized_ink_error": 6.3e-05,
+      "raw_ink_error": 0.14154,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2F/33.svg",
+      "page": 335,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.145308,
+      "pixels": 7134,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2F/D5.svg",
+      "page": 335,
+      "normalized_ink_error": 6.3e-05,
+      "raw_ink_error": 0.11866,
+      "pixels": 8280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/2F/FD.svg",
+      "page": 342,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.348234,
+      "pixels": 6806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/30/2C.svg",
+      "page": 343,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.110135,
+      "pixels": 2754,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/30/5A.svg",
+      "page": 347,
+      "normalized_ink_error": 4.2e-05,
+      "raw_ink_error": 0.10758,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/30/BF.svg",
+      "page": 350,
+      "normalized_ink_error": 6e-06,
+      "raw_ink_error": 0.11765,
+      "pixels": 5451,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/31/18.svg",
+      "page": 353,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.088979,
+      "pixels": 6320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/31/7D.svg",
+      "page": 354,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.14465,
+      "pixels": 4015,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/31/9B.svg",
+      "page": 357,
+      "normalized_ink_error": 3.6e-05,
+      "raw_ink_error": 0.154042,
+      "pixels": 2024,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/31/A8.svg",
+      "page": 358,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.086756,
+      "pixels": 5548,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/31/D5/FE00.svg",
+      "page": 362,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.056499,
+      "pixels": 4095,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/31/F6.svg",
+      "page": 363,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.096363,
+      "pixels": 2907,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/32/59.svg",
+      "page": 364,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.092946,
+      "pixels": 8190,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/33/39.svg",
+      "page": 370,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.149868,
+      "pixels": 8075,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/33/AD.svg",
+      "page": 370,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.094823,
+      "pixels": 7544,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/36/10/G3-3677.svg",
+      "page": 389,
+      "normalized_ink_error": 5.2e-05,
+      "raw_ink_error": 0.188726,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/36/E0.svg",
+      "page": 394,
+      "normalized_ink_error": 1.9e-05,
+      "raw_ink_error": 0.202823,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/37/33/K3-2354.svg",
+      "page": 396,
+      "normalized_ink_error": 0.00039,
+      "raw_ink_error": 0.187161,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/37/95/G5-3E55.svg",
+      "page": 398,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.146803,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/37/F4/G5-3B4F.svg",
+      "page": 400,
+      "normalized_ink_error": 6e-05,
+      "raw_ink_error": 0.17177,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/39/68/JMJ-001242.svg",
+      "page": 409,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.153045,
+      "pixels": 6972,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/3A/67/G3-4B54.svg",
+      "page": 416,
+      "normalized_ink_error": 2e-06,
+      "raw_ink_error": 0.167257,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/3C/20/KP1-4E75.svg",
+      "page": 428,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.115135,
+      "pixels": 6806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/3D/37/V2-8952.svg",
+      "page": 435,
+      "normalized_ink_error": 0.002078,
+      "raw_ink_error": 0.219631,
+      "pixels": 7209,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/3E/7B/G3-443C.svg",
+      "page": 444,
+      "normalized_ink_error": 3e-06,
+      "raw_ink_error": 0.048045,
+      "pixels": 7480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/3F/A3/KP1-5BCE.svg",
+      "page": 452,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.083773,
+      "pixels": 7140,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/3F/ED/G3-5F78.svg",
+      "page": 454,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.061527,
+      "pixels": 7654,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/42/18/GKX-0891_22.svg",
+      "page": 471,
+      "normalized_ink_error": 0.000176,
+      "raw_ink_error": 0.219515,
+      "pixels": 7052,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/45/9A/KP1-70FA.svg",
+      "page": 495,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.082622,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/46/B7/JMJ-004552.svg",
+      "page": 503,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.213084,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/46/FC/T7-334D.svg",
+      "page": 505,
+      "normalized_ink_error": 6e-06,
+      "raw_ink_error": 0.224582,
+      "pixels": 7138,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/48/5E/T4-4E2A.svg",
+      "page": 516,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.064234,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/49/17/G3-6F27.svg",
+      "page": 521,
+      "normalized_ink_error": 0.000644,
+      "raw_ink_error": 0.322755,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/4B/D2/T4-5532.svg",
+      "page": 541,
+      "normalized_ink_error": 9.8e-05,
+      "raw_ink_error": 0.205165,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/4B/E0/KP1-8AFD.svg",
+      "page": 541,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.078484,
+      "pixels": 6885,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/4C/04/JMJ-005882.svg",
+      "page": 542,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.21633,
+      "pixels": 6889,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/4D/C3.svg",
+      "page": 556,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.177657,
+      "pixels": 6715,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/4E/5C/T2-2122.svg",
+      "page": 560,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.247451,
+      "pixels": 7047,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/4F/87/T2-2537.svg",
+      "page": 567,
+      "normalized_ink_error": 6.7e-05,
+      "raw_ink_error": 0.233074,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/52/9E/KP1-3825.svg",
+      "page": 588,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.160675,
+      "pixels": 6720,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/53/5B/T4-6630.svg",
+      "page": 592,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.187344,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/53/C4/MD-53C4.svg",
+      "page": 595,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.192325,
+      "pixels": 7308,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/53/D1/H-8959.svg",
+      "page": 595,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.050271,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/55/89/KP0-F4E6.svg",
+      "page": 607,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.188891,
+      "pixels": 6478,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/58/8D/J14-252B.svg",
+      "page": 626,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.264542,
+      "pixels": 6972,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/59/FC/JMJ-009687.svg",
+      "page": 636,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.180258,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/5B/99/G0-5666.svg",
+      "page": 646,
+      "normalized_ink_error": 4.7e-05,
+      "raw_ink_error": 0.216291,
+      "pixels": 7138,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/5C/08/KP0-E7E2.svg",
+      "page": 649,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.12182,
+      "pixels": 6888,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/5C/3E/KP0-DBF8.svg",
+      "page": 650,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.214654,
+      "pixels": 6888,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/5D/9C/KP1-3FED.svg",
+      "page": 659,
+      "normalized_ink_error": 3.8e-05,
+      "raw_ink_error": 0.23822,
+      "pixels": 6552,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/5F/7B/G0-3339.svg",
+      "page": 671,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.208162,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/60/99/KP1-4323.svg",
+      "page": 679,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.162825,
+      "pixels": 6889,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/63/E6/K2-3626.svg",
+      "page": 700,
+      "normalized_ink_error": 0.000124,
+      "raw_ink_error": 0.125758,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/65/E8/HB1-A6AE.svg",
+      "page": 713,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.136789,
+      "pixels": 5934,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/67/56/T1-4A5C.svg",
+      "page": 722,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.200412,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/67/9C/V1-594D.svg",
+      "page": 724,
+      "normalized_ink_error": 4.7e-05,
+      "raw_ink_error": 0.140296,
+      "pixels": 7120,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/67/A8.svg",
+      "page": 724,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.188788,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/69/B2/H-A0D1.svg",
+      "page": 738,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.15972,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/69/DE/GE-3D62.svg",
+      "page": 739,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.213628,
+      "pixels": 7830,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/69/E1/GE-3D63.svg",
+      "page": 739,
+      "normalized_ink_error": 3.7e-05,
+      "raw_ink_error": 0.087337,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/6A/2D/T3-6530.svg",
+      "page": 741,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.135608,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/6B/45/KP1-4ECE.svg",
+      "page": 748,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.132846,
+      "pixels": 6806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/6B/E0/K2-3E7E.svg",
+      "page": 752,
+      "normalized_ink_error": 0.000358,
+      "raw_ink_error": 0.205456,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/6D/B9/J1-4752.svg",
+      "page": 764,
+      "normalized_ink_error": 2e-06,
+      "raw_ink_error": 0.087086,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/71/99/HB1-BAB3.svg",
+      "page": 789,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.200248,
+      "pixels": 7140,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/72/48/HB1-AAA9.svg",
+      "page": 793,
+      "normalized_ink_error": 5.3e-05,
+      "raw_ink_error": 0.117565,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/72/9B/HB1-BCF9.svg",
+      "page": 795,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.032203,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/73/B9/J14-7063.svg",
+      "page": 803,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.071517,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/75/26/GKX-0755_15.svg",
+      "page": 812,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.178539,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/76/48/J0-6173.svg",
+      "page": 819,
+      "normalized_ink_error": 1.2e-05,
+      "raw_ink_error": 0.050929,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/77/BB/J0-625D.svg",
+      "page": 829,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.055351,
+      "pixels": 7138,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/78/3F/J0-395C.svg",
+      "page": 832,
+      "normalized_ink_error": 1.6e-05,
+      "raw_ink_error": 0.070552,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/78/BE/K1-5C3E.svg",
+      "page": 835,
+      "normalized_ink_error": 0.000213,
+      "raw_ink_error": 0.06404,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/79/DD/J1-507D.svg",
+      "page": 842,
+      "normalized_ink_error": 1.7e-05,
+      "raw_ink_error": 0.169664,
+      "pixels": 7138,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/7B/B5/T2-5266.svg",
+      "page": 854,
+      "normalized_ink_error": 9.3e-05,
+      "raw_ink_error": 0.242209,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/7C/B0/K2-5154.svg",
+      "page": 861,
+      "normalized_ink_error": 0.000253,
+      "raw_ink_error": 0.173045,
+      "pixels": 6889,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/7D/31/T1-5C5E.svg",
+      "page": 864,
+      "normalized_ink_error": 3e-06,
+      "raw_ink_error": 0.225198,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/7D/36/K2-5222.svg",
+      "page": 864,
+      "normalized_ink_error": 0.000194,
+      "raw_ink_error": 0.142798,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/7F/3D/K2-5356.svg",
+      "page": 877,
+      "normalized_ink_error": 0.000527,
+      "raw_ink_error": 0.040796,
+      "pixels": 6972,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/80/2C/HB2-EDE7.svg",
+      "page": 884,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.176199,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/81/98/KP1-6BC7.svg",
+      "page": 893,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.202199,
+      "pixels": 6804,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/82/D6/G3-684F.svg",
+      "page": 901,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.186693,
+      "pixels": 7565,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/87/5A/G3-625D.svg",
+      "page": 930,
+      "normalized_ink_error": 3.5e-05,
+      "raw_ink_error": 0.268124,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/87/7C/J4-7763.svg",
+      "page": 931,
+      "normalized_ink_error": 1.6e-05,
+      "raw_ink_error": 0.167199,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/88/0B/T2-666D.svg",
+      "page": 935,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.117153,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/89/80/H-98E2.svg",
+      "page": 944,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.031194,
+      "pixels": 3780,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/89/A3/K2-5F60.svg",
+      "page": 945,
+      "normalized_ink_error": 0.000192,
+      "raw_ink_error": 0.145567,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/8A/91/J0-6B54.svg",
+      "page": 951,
+      "normalized_ink_error": 9e-06,
+      "raw_ink_error": 0.121128,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/8E/AB/V1-6865.svg",
+      "page": 977,
+      "normalized_ink_error": 0.002718,
+      "raw_ink_error": 0.22193,
+      "pixels": 6853,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/8E/FE/K0-635C.svg",
+      "page": 979,
+      "normalized_ink_error": 0.001627,
+      "raw_ink_error": 0.092631,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/90/0A.svg",
+      "page": 986,
+      "normalized_ink_error": 4.1e-05,
+      "raw_ink_error": 0.240855,
+      "pixels": 7654,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/91/92/T1-725E.svg",
+      "page": 996,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.22115,
+      "pixels": 7392,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/93/7E/HB1-C1E9.svg",
+      "page": 1009,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.159799,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/93/DD/G1-6F5C.svg",
+      "page": 1011,
+      "normalized_ink_error": 4.5e-05,
+      "raw_ink_error": 0.249712,
+      "pixels": 8008,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/94/70/T1-7D2C.svg",
+      "page": 1015,
+      "normalized_ink_error": 1e-05,
+      "raw_ink_error": 0.148964,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/95/9A/GE-5265.svg",
+      "page": 1022,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.150839,
+      "pixels": 6873,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/97/0F/HB1-C050.svg",
+      "page": 1032,
+      "normalized_ink_error": 0.000189,
+      "raw_ink_error": 0.118482,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/97/5B/K1-6C36.svg",
+      "page": 1034,
+      "normalized_ink_error": 0.000338,
+      "raw_ink_error": 0.136416,
+      "pixels": 7055,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/97/A4/HB2-F17D.svg",
+      "page": 1036,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.088768,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/97/B0/T4-617C.svg",
+      "page": 1036,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.232188,
+      "pixels": 7654,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/97/CF/KP1-8617.svg",
+      "page": 1037,
+      "normalized_ink_error": 4e-06,
+      "raw_ink_error": 0.156527,
+      "pixels": 6972,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/98/1F/H-9657.svg",
+      "page": 1039,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.147106,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/9B/9A/G1-765A.svg",
+      "page": 1061,
+      "normalized_ink_error": 5e-06,
+      "raw_ink_error": 0.272782,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/9C/D4.svg",
+      "page": 1069,
+      "normalized_ink_error": 4.8e-05,
+      "raw_ink_error": 0.238838,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A3/7A.svg",
+      "page": 1094,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.117435,
+      "pixels": 5022,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A4/BE.svg",
+      "page": 1106,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.062683,
+      "pixels": 4510,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A4/FA.svg",
+      "page": 1107,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.122869,
+      "pixels": 756,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A5/B9.svg",
+      "page": 1109,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.071171,
+      "pixels": 3724,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A6/70.svg",
+      "page": 1113,
+      "normalized_ink_error": 8e-05,
+      "raw_ink_error": 0.205988,
+      "pixels": 5396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A6/EB.svg",
+      "page": 1116,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.092305,
+      "pixels": 3124,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A7/08.svg",
+      "page": 1118,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.066851,
+      "pixels": 1960,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A7/6A.svg",
+      "page": 1119,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.059778,
+      "pixels": 2414,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A8/0F.svg",
+      "page": 1125,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.191487,
+      "pixels": 4675,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A8/34.svg",
+      "page": 1126,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.019753,
+      "pixels": 2279,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A8/63.svg",
+      "page": 1127,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.088643,
+      "pixels": 6003,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A8/98.svg",
+      "page": 1131,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.071667,
+      "pixels": 4410,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A8/FB.svg",
+      "page": 1133,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.131006,
+      "pixels": 810,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A9/2A.svg",
+      "page": 1135,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.130667,
+      "pixels": 3266,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A9/42.svg",
+      "page": 1136,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.176331,
+      "pixels": 4130,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A9/77.svg",
+      "page": 1137,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.126808,
+      "pixels": 3036,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A9/98.svg",
+      "page": 1138,
+      "normalized_ink_error": 0.000519,
+      "raw_ink_error": 0.218986,
+      "pixels": 2809,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/A9/F6.svg",
+      "page": 1141,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.043282,
+      "pixels": 3358,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AA/09.svg",
+      "page": 1142,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.068522,
+      "pixels": 4929,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AA/66.svg",
+      "page": 1144,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.116953,
+      "pixels": 3256,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AA/82.svg",
+      "page": 1145,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.025995,
+      "pixels": 3480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AA/EE.svg",
+      "page": 1147,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.068178,
+      "pixels": 6314,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 77
+    },
+    {
+      "path": "U00/AB/29.svg",
+      "page": 1148,
+      "normalized_ink_error": 4.6e-05,
+      "raw_ink_error": 0.024486,
+      "pixels": 6237,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AB/5F.svg",
+      "page": 1149,
+      "normalized_ink_error": 0.00026,
+      "raw_ink_error": 0.078538,
+      "pixels": 1326,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AB/84.svg",
+      "page": 1152,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067063,
+      "pixels": 2695,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/AB/E3.svg",
+      "page": 1154,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.156247,
+      "pixels": 5986,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/B2/A5.svg",
+      "page": 1162,
+      "normalized_ink_error": 3.3e-05,
+      "raw_ink_error": 0.081476,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/B5/40.svg",
+      "page": 1165,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.076319,
+      "pixels": 8008,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/B8/01.svg",
+      "page": 1168,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.106799,
+      "pixels": 6230,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/BC/D7.svg",
+      "page": 1172,
+      "normalized_ink_error": 1.8e-05,
+      "raw_ink_error": 0.083183,
+      "pixels": 7268,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/BD/64.svg",
+      "page": 1173,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.103477,
+      "pixels": 6586,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/BF/F0.svg",
+      "page": 1175,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.023836,
+      "pixels": 7128,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/C0/54.svg",
+      "page": 1176,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.084872,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/C9/FD.svg",
+      "page": 1185,
+      "normalized_ink_error": 5e-06,
+      "raw_ink_error": 0.075784,
+      "pixels": 7371,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/CD/42.svg",
+      "page": 1189,
+      "normalized_ink_error": 3e-06,
+      "raw_ink_error": 0.016791,
+      "pixels": 6916,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/CE/60.svg",
+      "page": 1190,
+      "normalized_ink_error": 1.8e-05,
+      "raw_ink_error": 0.118544,
+      "pixels": 6873,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/CE/FD.svg",
+      "page": 1190,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.098706,
+      "pixels": 6622,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/D0/E1.svg",
+      "page": 1192,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.158799,
+      "pixels": 7110,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/D3/BE.svg",
+      "page": 1195,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.188459,
+      "pixels": 6992,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/D7/F2.svg",
+      "page": 1200,
+      "normalized_ink_error": 5e-05,
+      "raw_ink_error": 0.061498,
+      "pixels": 3075,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FA/D0.svg",
+      "page": 1214,
+      "normalized_ink_error": 7.6e-05,
+      "raw_ink_error": 0.134822,
+      "pixels": 6806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FB/3A.svg",
+      "page": 1216,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.090209,
+      "pixels": 4850,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FB/BF.svg",
+      "page": 1219,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.139042,
+      "pixels": 550,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FC/D2.svg",
+      "page": 1220,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.059674,
+      "pixels": 3871,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FD/D0.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003228,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1656
+    },
+    {
+      "path": "U00/FD/D1.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002148,
+      "pixels": 20480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1538
+    },
+    {
+      "path": "U00/FD/D2.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004844,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1287
+    },
+    {
+      "path": "U00/FD/D3.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.001879,
+      "pixels": 20480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1538
+    },
+    {
+      "path": "U00/FD/D4.svg",
+      "page": 1221,
+      "normalized_ink_error": 6e-06,
+      "raw_ink_error": 0.003424,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1287
+    },
+    {
+      "path": "U00/FD/D5.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003211,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1410
+    },
+    {
+      "path": "U00/FD/D6.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002504,
+      "pixels": 20480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1538
+    },
+    {
+      "path": "U00/FD/D7.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004466,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1287
+    },
+    {
+      "path": "U00/FD/D8.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.00205,
+      "pixels": 20480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1538
+    },
+    {
+      "path": "U00/FD/D9.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003854,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1287
+    },
+    {
+      "path": "U00/FD/DA.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002885,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1410
+    },
+    {
+      "path": "U00/FD/DB.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002298,
+      "pixels": 20480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1538
+    },
+    {
+      "path": "U00/FD/DC.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004602,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1287
+    },
+    {
+      "path": "U00/FD/DD.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.001794,
+      "pixels": 20480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1538
+    },
+    {
+      "path": "U00/FD/DE.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003758,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1287
+    },
+    {
+      "path": "U00/FD/DF.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003172,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1779
+    },
+    {
+      "path": "U00/FD/E0.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.00291,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1497
+    },
+    {
+      "path": "U00/FD/E1.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.001733,
+      "pixels": 20320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1378
+    },
+    {
+      "path": "U00/FD/E2.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004841,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1128
+    },
+    {
+      "path": "U00/FD/E3.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.001352,
+      "pixels": 20320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1378
+    },
+    {
+      "path": "U00/FD/E4.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003297,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1128
+    },
+    {
+      "path": "U00/FD/E5.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003029,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1251
+    },
+    {
+      "path": "U00/FD/E6.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.001951,
+      "pixels": 20320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1378
+    },
+    {
+      "path": "U00/FD/E7.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004465,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1128
+    },
+    {
+      "path": "U00/FD/E8.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.001433,
+      "pixels": 20320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1378
+    },
+    {
+      "path": "U00/FD/E9.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003634,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1128
+    },
+    {
+      "path": "U00/FD/EA.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003346,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1251
+    },
+    {
+      "path": "U00/FD/EB.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002454,
+      "pixels": 20320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1378
+    },
+    {
+      "path": "U00/FD/EC.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004962,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1128
+    },
+    {
+      "path": "U00/FD/ED.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002005,
+      "pixels": 20320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1378
+    },
+    {
+      "path": "U00/FD/EE.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004003,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1128
+    },
+    {
+      "path": "U00/FD/EF.svg",
+      "page": 1221,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003089,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1620
+    },
+    {
+      "path": "U00/FE/08.svg",
+      "page": 1237,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.317779,
+      "pixels": 8372,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FE/15.svg",
+      "page": 1238,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.075765,
+      "pixels": 1560,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FE/2C.svg",
+      "page": 1239,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.07787,
+      "pixels": 3315,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FE/4E.svg",
+      "page": 1240,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.088323,
+      "pixels": 806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FE/52.svg",
+      "page": 1242,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.127507,
+      "pixels": 272,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FE/C8.svg",
+      "page": 1244,
+      "normalized_ink_error": 4.7e-05,
+      "raw_ink_error": 0.14885,
+      "pixels": 5159,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FF/95.svg",
+      "page": 1248,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.042059,
+      "pixels": 2900,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FF/FA.svg",
+      "page": 1255,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.254277,
+      "pixels": 8280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U00/FF/FE.svg",
+      "page": 1255,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003681,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2058
+    },
+    {
+      "path": "U00/FF/FF.svg",
+      "page": 1255,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002868,
+      "pixels": 20193,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2526
+    },
+    {
+      "path": "U01/00/56.svg",
+      "page": 1256,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.223254,
+      "pixels": 2457,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/00/94.svg",
+      "page": 1258,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.037737,
+      "pixels": 2788,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/01/01.svg",
+      "page": 1261,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.074592,
+      "pixels": 361,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/01/88.svg",
+      "page": 1262,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.146788,
+      "pixels": 5760,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/01/97.svg",
+      "page": 1264,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.074919,
+      "pixels": 4692,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/01/EC.svg",
+      "page": 1265,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067755,
+      "pixels": 2597,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/02/99.svg",
+      "page": 1266,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.145524,
+      "pixels": 3658,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/02/C5.svg",
+      "page": 1267,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.130435,
+      "pixels": 3162,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/02/F8.svg",
+      "page": 1268,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.131505,
+      "pixels": 6156,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/03/06.svg",
+      "page": 1269,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.219618,
+      "pixels": 2940,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/03/3B.svg",
+      "page": 1270,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.041374,
+      "pixels": 4864,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/03/53.svg",
+      "page": 1271,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.152923,
+      "pixels": 4160,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/03/92.svg",
+      "page": 1272,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.011625,
+      "pixels": 2352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/03/D0.svg",
+      "page": 1273,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.147814,
+      "pixels": 1892,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/04/4C.svg",
+      "page": 1274,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.064644,
+      "pixels": 1344,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/04/64.svg",
+      "page": 1276,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087423,
+      "pixels": 1271,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/04/95.svg",
+      "page": 1277,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.081051,
+      "pixels": 3780,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/04/EF.svg",
+      "page": 1278,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.072893,
+      "pixels": 3534,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/05/0D.svg",
+      "page": 1280,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.050545,
+      "pixels": 2376,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/05/36.svg",
+      "page": 1281,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.044107,
+      "pixels": 3834,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/05/7E.svg",
+      "page": 1282,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.063036,
+      "pixels": 2795,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/05/92.svg",
+      "page": 1282,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.060503,
+      "pixels": 4089,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/05/E8.svg",
+      "page": 1284,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.101997,
+      "pixels": 3564,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/06/20.svg",
+      "page": 1285,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067019,
+      "pixels": 7007,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/07/87.svg",
+      "page": 1292,
+      "normalized_ink_error": 0.000455,
+      "raw_ink_error": 0.099902,
+      "pixels": 2208,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/08/32.svg",
+      "page": 1295,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.198049,
+      "pixels": 2438,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/08/47.svg",
+      "page": 1297,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.05562,
+      "pixels": 3055,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/08/74.svg",
+      "page": 1298,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.036551,
+      "pixels": 5632,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/08/A7.svg",
+      "page": 1299,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.195713,
+      "pixels": 1022,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/08/E1.svg",
+      "page": 1300,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.044225,
+      "pixels": 3472,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/09/0F.svg",
+      "page": 1301,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.13786,
+      "pixels": 784,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/09/37.svg",
+      "page": 1302,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.11644,
+      "pixels": 3410,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/09/4D.svg",
+      "page": 1303,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.174437,
+      "pixels": 952,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/09/99.svg",
+      "page": 1304,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.056858,
+      "pixels": 2565,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/09/D2.svg",
+      "page": 1306,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.060926,
+      "pixels": 3960,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0A/1C.svg",
+      "page": 1309,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.056589,
+      "pixels": 2816,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0A/78.svg",
+      "page": 1311,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.095498,
+      "pixels": 4752,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0A/9E.svg",
+      "page": 1313,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.039371,
+      "pixels": 2116,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0A/E4.svg",
+      "page": 1315,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.056297,
+      "pixels": 3422,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0B/2F.svg",
+      "page": 1318,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.083068,
+      "pixels": 2968,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0B/40.svg",
+      "page": 1320,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.064878,
+      "pixels": 3850,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0B/65.svg",
+      "page": 1321,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.076162,
+      "pixels": 2208,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0B/8C.svg",
+      "page": 1322,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.027911,
+      "pixels": 4200,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0C/43.svg",
+      "page": 1323,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.114461,
+      "pixels": 3283,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0C/A0.svg",
+      "page": 1325,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.057057,
+      "pixels": 2448,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0D/01.svg",
+      "page": 1328,
+      "normalized_ink_error": 0.000108,
+      "raw_ink_error": 0.057774,
+      "pixels": 3726,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0D/6A.svg",
+      "page": 1330,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.263401,
+      "pixels": 2790,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0E/72.svg",
+      "page": 1332,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.032348,
+      "pixels": 2688,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0E/84.svg",
+      "page": 1333,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.029111,
+      "pixels": 2448,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0E/E6.svg",
+      "page": 1334,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.130117,
+      "pixels": 5760,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0F/23.svg",
+      "page": 1337,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.10318,
+      "pixels": 3710,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0F/4C.svg",
+      "page": 1338,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.075726,
+      "pixels": 3358,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0F/83.svg",
+      "page": 1339,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.344681,
+      "pixels": 3036,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0F/B8.svg",
+      "page": 1340,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067723,
+      "pixels": 1485,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/0F/E1.svg",
+      "page": 1341,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.054355,
+      "pixels": 2600,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/10/0F.svg",
+      "page": 1342,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.038208,
+      "pixels": 4896,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/10/83.svg",
+      "page": 1345,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.091792,
+      "pixels": 4012,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/10/F7.svg",
+      "page": 1347,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.017599,
+      "pixels": 2720,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/11/45.svg",
+      "page": 1348,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.082748,
+      "pixels": 4880,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/11/64.svg",
+      "page": 1350,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.01454,
+      "pixels": 3212,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/11/9E.svg",
+      "page": 1351,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.023777,
+      "pixels": 3534,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/11/E2.svg",
+      "page": 1354,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.030563,
+      "pixels": 6528,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/12/39.svg",
+      "page": 1355,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.101645,
+      "pixels": 3717,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/12/9C.svg",
+      "page": 1357,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.02825,
+      "pixels": 3905,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/12/E4.svg",
+      "page": 1358,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.080461,
+      "pixels": 3285,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/13/70.svg",
+      "page": 1360,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.198524,
+      "pixels": 3910,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/13/BF.svg",
+      "page": 1363,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.204348,
+      "pixels": 4345,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/14/23.svg",
+      "page": 1365,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.115641,
+      "pixels": 3618,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/14/B9.svg",
+      "page": 1368,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.072011,
+      "pixels": 5544,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/15/A3.svg",
+      "page": 1370,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.083163,
+      "pixels": 3658,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/16/27.svg",
+      "page": 1373,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.043629,
+      "pixels": 4453,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/16/60.svg",
+      "page": 1375,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.159919,
+      "pixels": 2835,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/16/8A.svg",
+      "page": 1376,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.052522,
+      "pixels": 4095,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/16/E0.svg",
+      "page": 1378,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.100958,
+      "pixels": 2970,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/17/1A.svg",
+      "page": 1379,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.059944,
+      "pixels": 2695,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/18/09.svg",
+      "page": 1381,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.02249,
+      "pixels": 5310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/18/B7.svg",
+      "page": 1383,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.070464,
+      "pixels": 5624,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/19/1E.svg",
+      "page": 1385,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067108,
+      "pixels": 4628,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/19/E1.svg",
+      "page": 1387,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.089276,
+      "pixels": 2860,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1A/0F.svg",
+      "page": 1389,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.104078,
+      "pixels": 2793,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1A/90.svg",
+      "page": 1392,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.251865,
+      "pixels": 3060,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1A/B5.svg",
+      "page": 1394,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.093598,
+      "pixels": 4860,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1A/C3.svg",
+      "page": 1395,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087688,
+      "pixels": 3717,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1A/E1.svg",
+      "page": 1395,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.121812,
+      "pixels": 3276,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1B/08.svg",
+      "page": 1397,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.065667,
+      "pixels": 4488,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1B/64.svg",
+      "page": 1399,
+      "normalized_ink_error": 0.000231,
+      "raw_ink_error": 0.064671,
+      "pixels": 4200,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1B/E1.svg",
+      "page": 1400,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087032,
+      "pixels": 5950,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1C/08.svg",
+      "page": 1401,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.111941,
+      "pixels": 3304,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1C/B0.svg",
+      "page": 1403,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.105705,
+      "pixels": 4738,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1D/47.svg",
+      "page": 1405,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.222096,
+      "pixels": 3300,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1D/78.svg",
+      "page": 1407,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.156025,
+      "pixels": 5307,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1D/C3.svg",
+      "page": 1409,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.07702,
+      "pixels": 3819,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1D/F1.svg",
+      "page": 1411,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.084951,
+      "pixels": 3658,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1E/E2.svg",
+      "page": 1412,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.05076,
+      "pixels": 3087,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1F/17.svg",
+      "page": 1413,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.094884,
+      "pixels": 1680,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1F/B0.svg",
+      "page": 1415,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.099381,
+      "pixels": 4248,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/1F/CC.svg",
+      "page": 1416,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.081868,
+      "pixels": 7772,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/23/1E.svg",
+      "page": 1422,
+      "normalized_ink_error": 0.00412,
+      "raw_ink_error": 0.201356,
+      "pixels": 5063,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/24/07.svg",
+      "page": 1432,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.135145,
+      "pixels": 4485,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/24/BB.svg",
+      "page": 1436,
+      "normalized_ink_error": 0.009375,
+      "raw_ink_error": 0.226427,
+      "pixels": 4788,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/25/57.svg",
+      "page": 1439,
+      "normalized_ink_error": 0.000867,
+      "raw_ink_error": 0.052477,
+      "pixels": 6188,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 52
+    },
+    {
+      "path": "U01/2F/B1.svg",
+      "page": 1445,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.119843,
+      "pixels": 4884,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/32/E6.svg",
+      "page": 1450,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.159145,
+      "pixels": 28600,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 8,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/33/8A.svg",
+      "page": 1451,
+      "normalized_ink_error": 0.007547,
+      "raw_ink_error": 0.238318,
+      "pixels": 7020,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/34/54.svg",
+      "page": 1480,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.048875,
+      "pixels": 8190,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/35/F8.svg",
+      "page": 1483,
+      "normalized_ink_error": 0.013202,
+      "raw_ink_error": 0.275565,
+      "pixels": 5856,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/3A/4F.svg",
+      "page": 1487,
+      "normalized_ink_error": 8.3e-05,
+      "raw_ink_error": 0.053302,
+      "pixels": 7663,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/3F/07.svg",
+      "page": 1492,
+      "normalized_ink_error": 2.5e-05,
+      "raw_ink_error": 0.142118,
+      "pixels": 9409,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/44/33.svg",
+      "page": 1567,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.145465,
+      "pixels": 9877,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 166
+    },
+    {
+      "path": "U01/61/11.svg",
+      "page": 1579,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.145558,
+      "pixels": 4047,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/68/52.svg",
+      "page": 1581,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.017694,
+      "pixels": 6885,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6A/4E.svg",
+      "page": 1590,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.08335,
+      "pixels": 2881,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6A/B9.svg",
+      "page": 1591,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.082104,
+      "pixels": 4200,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6A/D1.svg",
+      "page": 1593,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087845,
+      "pixels": 4270,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6B/8A.svg",
+      "page": 1594,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.0685,
+      "pixels": 5112,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6D/6A.svg",
+      "page": 1597,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.066014,
+      "pixels": 6570,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6E/65.svg",
+      "page": 1599,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.027474,
+      "pixels": 4500,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6E/A4.svg",
+      "page": 1601,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.092474,
+      "pixels": 4312,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6F/9A.svg",
+      "page": 1602,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.190407,
+      "pixels": 1333,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/6F/E3.svg",
+      "page": 1605,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.180906,
+      "pixels": 1728,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/75/D6.svg",
+      "page": 1620,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.268061,
+      "pixels": 7470,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/82/3F.svg",
+      "page": 1652,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.127272,
+      "pixels": 7470,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/82/7D.svg",
+      "page": 1653,
+      "normalized_ink_error": 2.9e-05,
+      "raw_ink_error": 0.15891,
+      "pixels": 7830,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/84/2D.svg",
+      "page": 1657,
+      "normalized_ink_error": 2.5e-05,
+      "raw_ink_error": 0.151355,
+      "pixels": 7912,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8A/A1.svg",
+      "page": 1670,
+      "normalized_ink_error": 1.3e-05,
+      "raw_ink_error": 0.156919,
+      "pixels": 4876,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8B/BD.svg",
+      "page": 1678,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.052778,
+      "pixels": 6561,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8D/12.svg",
+      "page": 1685,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.201076,
+      "pixels": 7452,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8D/91.svg",
+      "page": 1686,
+      "normalized_ink_error": 0.00018,
+      "raw_ink_error": 0.146201,
+      "pixels": 5734,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8D/94.svg",
+      "page": 1686,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.121499,
+      "pixels": 4606,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8E/62.svg",
+      "page": 1689,
+      "normalized_ink_error": 4.9e-05,
+      "raw_ink_error": 0.117562,
+      "pixels": 6300,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/8F/1E.svg",
+      "page": 1691,
+      "normalized_ink_error": 3.4e-05,
+      "raw_ink_error": 0.158633,
+      "pixels": 4575,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/91/BA.svg",
+      "page": 1699,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087042,
+      "pixels": 1702,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/AF/F1.svg",
+      "page": 1700,
+      "normalized_ink_error": 0.000365,
+      "raw_ink_error": 0.196376,
+      "pixels": 2808,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/B0/A3.svg",
+      "page": 1701,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.112738,
+      "pixels": 6059,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/B1/03.svg",
+      "page": 1707,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.176696,
+      "pixels": 5767,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/B1/67.svg",
+      "page": 1709,
+      "normalized_ink_error": 0.000102,
+      "raw_ink_error": 0.117693,
+      "pixels": 3416,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/B1/F4.svg",
+      "page": 1710,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.068548,
+      "pixels": 4074,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/B2/27.svg",
+      "page": 1710,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.186562,
+      "pixels": 3880,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/B2/63.svg",
+      "page": 1711,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.097499,
+      "pixels": 5376,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/BC/51.svg",
+      "page": 1716,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.078844,
+      "pixels": 900,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/BC/A0.svg",
+      "page": 1722,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.228287,
+      "pixels": 8280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/CC/A8.svg",
+      "page": 1723,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.077143,
+      "pixels": 9409,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/CE/F7.svg",
+      "page": 1733,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.040323,
+      "pixels": 4680,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/CF/A0.svg",
+      "page": 1735,
+      "normalized_ink_error": 0.000161,
+      "raw_ink_error": 0.121092,
+      "pixels": 4818,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D0/A0.svg",
+      "page": 1739,
+      "normalized_ink_error": 0.0126,
+      "raw_ink_error": 0.255154,
+      "pixels": 990,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D1/FE.svg",
+      "page": 1744,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.099688,
+      "pixels": 2320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D2/41.svg",
+      "page": 1749,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.051882,
+      "pixels": 4830,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D2/72.svg",
+      "page": 1752,
+      "normalized_ink_error": 0.001227,
+      "raw_ink_error": 0.200638,
+      "pixels": 896,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D2/D1.svg",
+      "page": 1754,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.156288,
+      "pixels": 4050,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D2/E9.svg",
+      "page": 1755,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.035493,
+      "pixels": 4876,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D3/2D.svg",
+      "page": 1756,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.089315,
+      "pixels": 6715,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D3/63.svg",
+      "page": 1758,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.172645,
+      "pixels": 3328,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D6/6D.svg",
+      "page": 1761,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.110447,
+      "pixels": 2688,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/D7/5F.svg",
+      "page": 1762,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.025421,
+      "pixels": 4092,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/DA/38.svg",
+      "page": 1786,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.091562,
+      "pixels": 1140,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/DB/07.svg",
+      "page": 1796,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.045785,
+      "pixels": 4346,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/DF/4F.svg",
+      "page": 1799,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.05986,
+      "pixels": 3960,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E0/0E.svg",
+      "page": 1804,
+      "normalized_ink_error": 0.000109,
+      "raw_ink_error": 0.177083,
+      "pixels": 3496,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E0/24.svg",
+      "page": 1804,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.096246,
+      "pixels": 3496,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E0/3C.svg",
+      "page": 1805,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.057204,
+      "pixels": 1225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E1/2B.svg",
+      "page": 1808,
+      "normalized_ink_error": 7.3e-05,
+      "raw_ink_error": 0.139981,
+      "pixels": 1767,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E2/9D.svg",
+      "page": 1811,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.105148,
+      "pixels": 5280,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E2/E9.svg",
+      "page": 1812,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.049993,
+      "pixels": 4307,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E4/F4.svg",
+      "page": 1814,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.020526,
+      "pixels": 2132,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E5/E8.svg",
+      "page": 1815,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.122055,
+      "pixels": 4599,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E6/D0.svg",
+      "page": 1816,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.187385,
+      "pixels": 5103,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E7/E0.svg",
+      "page": 1817,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.055929,
+      "pixels": 5112,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E8/7C.svg",
+      "page": 1818,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.027678,
+      "pixels": 4836,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/E9/19.svg",
+      "page": 1822,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.039843,
+      "pixels": 4275,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/EC/93.svg",
+      "page": 1824,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.131148,
+      "pixels": 4524,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/ED/30.svg",
+      "page": 1826,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.076163,
+      "pixels": 2068,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/EE/0B.svg",
+      "page": 1828,
+      "normalized_ink_error": 0.001938,
+      "raw_ink_error": 0.226135,
+      "pixels": 3483,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F0/1D.svg",
+      "page": 1833,
+      "normalized_ink_error": 0.031292,
+      "raw_ink_error": 0.65495,
+      "pixels": 6862,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F0/6B.svg",
+      "page": 1835,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.141602,
+      "pixels": 5022,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F0/AC.svg",
+      "page": 1837,
+      "normalized_ink_error": 0.008523,
+      "raw_ink_error": 0.05442,
+      "pixels": 4960,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F1/65.svg",
+      "page": 1840,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.021134,
+      "pixels": 8190,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F2/32.svg",
+      "page": 1845,
+      "normalized_ink_error": 6e-06,
+      "raw_ink_error": 0.118681,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F4/08.svg",
+      "page": 1849,
+      "normalized_ink_error": 0.001273,
+      "raw_ink_error": 0.427289,
+      "pixels": 4320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F6/29.svg",
+      "page": 1864,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.084315,
+      "pixels": 6241,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F6/6C.svg",
+      "page": 1867,
+      "normalized_ink_error": 0.016529,
+      "raw_ink_error": 0.169868,
+      "pixels": 4048,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F6/90.svg",
+      "page": 1869,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.08521,
+      "pixels": 3640,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F7/68.svg",
+      "page": 1872,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.162702,
+      "pixels": 5848,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F7/F6.svg",
+      "page": 1876,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087372,
+      "pixels": 6320,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F8/1A.svg",
+      "page": 1880,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.053387,
+      "pixels": 3139,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F8/24.svg",
+      "page": 1880,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.054541,
+      "pixels": 3139,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/F9/F1.svg",
+      "page": 1884,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.165733,
+      "pixels": 6800,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/FA/36.svg",
+      "page": 1889,
+      "normalized_ink_error": 1.9e-05,
+      "raw_ink_error": 0.243986,
+      "pixels": 5767,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/FA/8C.svg",
+      "page": 1892,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.235795,
+      "pixels": 6804,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/FB/83.svg",
+      "page": 1895,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.023711,
+      "pixels": 4074,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U01/FF/FE.svg",
+      "page": 1900,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004659,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U01/FF/FF.svg",
+      "page": 1900,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002356,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U02/07/E9/T5-4C24.svg",
+      "page": 1938,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.118145,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/0B/97/JMJ-032101.svg",
+      "page": 1955,
+      "normalized_ink_error": 2e-06,
+      "raw_ink_error": 0.152504,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/0B/A8/H-9262.svg",
+      "page": 1955,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.135128,
+      "pixels": 6970,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/10/A1/GKX-0213_08.svg",
+      "page": 1978,
+      "normalized_ink_error": 0.008894,
+      "raw_ink_error": 0.162828,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/11/E6/JMJ-032863.svg",
+      "page": 1984,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.17311,
+      "pixels": 6314,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/12/28/JMJ-032916.svg",
+      "page": 1985,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.030408,
+      "pixels": 6314,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/12/BA/T6-2F61.svg",
+      "page": 1988,
+      "normalized_ink_error": 1.1e-05,
+      "raw_ink_error": 0.138835,
+      "pixels": 6970,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/14/AD.svg",
+      "page": 1996,
+      "normalized_ink_error": 0.001393,
+      "raw_ink_error": 0.108768,
+      "pixels": 7832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/16/3A/T6-3E40.svg",
+      "page": 2003,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.170899,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/18/27/T4-426E.svg",
+      "page": 2012,
+      "normalized_ink_error": 2.3e-05,
+      "raw_ink_error": 0.154505,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/1B/13/T5-7925.svg",
+      "page": 2025,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.05501,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/1D/16/T6-3678.svg",
+      "page": 2034,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.208115,
+      "pixels": 7744,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/23/3F/GHZ-10516_06.svg",
+      "page": 2063,
+      "normalized_ink_error": 0.011293,
+      "raw_ink_error": 0.132536,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/23/E9/JMJ-035629.svg",
+      "page": 2066,
+      "normalized_ink_error": 9e-06,
+      "raw_ink_error": 0.226318,
+      "pixels": 6720,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/24/48/JMJ-035702.svg",
+      "page": 2068,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.198564,
+      "pixels": 7140,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/24/DF/JMJ-035821.svg",
+      "page": 2071,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.05447,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/25/00/JMJ-035846.svg",
+      "page": 2071,
+      "normalized_ink_error": 1.8e-05,
+      "raw_ink_error": 0.228441,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/25/87.svg",
+      "page": 2074,
+      "normalized_ink_error": 0.00396,
+      "raw_ink_error": 0.270827,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/28/B7.svg",
+      "page": 2089,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.1291,
+      "pixels": 7221,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/2D/F3.svg",
+      "page": 2114,
+      "normalized_ink_error": 0.008319,
+      "raw_ink_error": 0.228695,
+      "pixels": 7560,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/2E/30/JMJ-037131.svg",
+      "page": 2115,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.113731,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/32/DD.svg",
+      "page": 2137,
+      "normalized_ink_error": 0.000428,
+      "raw_ink_error": 0.117652,
+      "pixels": 7380,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/34/B8/T5-3278.svg",
+      "page": 2146,
+      "normalized_ink_error": 2e-06,
+      "raw_ink_error": 0.036284,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/39/D2/JMJ-038756.svg",
+      "page": 2171,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.224746,
+      "pixels": 7134,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/3A/75/GHC-0211760.svg",
+      "page": 2175,
+      "normalized_ink_error": 0.002884,
+      "raw_ink_error": 0.216463,
+      "pixels": 8099,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/3B/45/JMJ-039014.svg",
+      "page": 2179,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.034876,
+      "pixels": 7134,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/3F/1B/JMJ-059817.svg",
+      "page": 2198,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.125787,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/41/BD/T6-324C.svg",
+      "page": 2210,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.115551,
+      "pixels": 7476,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/42/7B/T6-4A77.svg",
+      "page": 2214,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.18011,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/43/D6.svg",
+      "page": 2220,
+      "normalized_ink_error": 0.003587,
+      "raw_ink_error": 0.122902,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/49/B1/T4-3E5B.svg",
+      "page": 2249,
+      "normalized_ink_error": 1e-05,
+      "raw_ink_error": 0.135823,
+      "pixels": 7138,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/4E/11/GKX-0777_12.svg",
+      "page": 2271,
+      "normalized_ink_error": 0.012905,
+      "raw_ink_error": 0.293054,
+      "pixels": 8010,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/4E/36/GKX-0778_12.svg",
+      "page": 2272,
+      "normalized_ink_error": 0.038611,
+      "raw_ink_error": 0.359212,
+      "pixels": 8100,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/50/B8/JMJ-042136.svg",
+      "page": 2285,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.147981,
+      "pixels": 7047,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/51/6B/GKX-0808_01.svg",
+      "page": 2289,
+      "normalized_ink_error": 0.003381,
+      "raw_ink_error": 0.286818,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/51/89/T5-337C.svg",
+      "page": 2289,
+      "normalized_ink_error": 7e-06,
+      "raw_ink_error": 0.112393,
+      "pixels": 7304,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/54/ED/T6-5570.svg",
+      "page": 2307,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.151103,
+      "pixels": 7921,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/5A/8D/KP1-6392.svg",
+      "page": 2335,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.05482,
+      "pixels": 6806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/5A/AB/JMJ-043615.svg",
+      "page": 2336,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.050354,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/5B/A8/T5-4847.svg",
+      "page": 2341,
+      "normalized_ink_error": 3e-06,
+      "raw_ink_error": 0.083396,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/62/6D/JMJ-044825.svg",
+      "page": 2375,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.134823,
+      "pixels": 6237,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/63/8A/T5-4169.svg",
+      "page": 2380,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.118823,
+      "pixels": 7482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/65/20/T5-6362.svg",
+      "page": 2389,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.087242,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/67/7B.svg",
+      "page": 2401,
+      "normalized_ink_error": 2.4e-05,
+      "raw_ink_error": 0.230664,
+      "pixels": 7392,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/67/A8/T5-4878.svg",
+      "page": 2401,
+      "normalized_ink_error": 4.6e-05,
+      "raw_ink_error": 0.075628,
+      "pixels": 7565,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/6A/FD.svg",
+      "page": 2418,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.230327,
+      "pixels": 6794,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/6C/48/GKX-1039_27.svg",
+      "page": 2424,
+      "normalized_ink_error": 0.001559,
+      "raw_ink_error": 0.16342,
+      "pixels": 8010,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/6E/A1/GKX-1057_23.svg",
+      "page": 2435,
+      "normalized_ink_error": 0.014548,
+      "raw_ink_error": 0.219851,
+      "pixels": 8008,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/70/F4.svg",
+      "page": 2446,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.111786,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/71/57/JMJ-047320.svg",
+      "page": 2448,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.113448,
+      "pixels": 7138,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/73/11/KP1-71B4.svg",
+      "page": 2456,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.167437,
+      "pixels": 6889,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/73/62/JMJ-047678.svg",
+      "page": 2458,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.157934,
+      "pixels": 7140,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/73/6F/GKX-1091_19.svg",
+      "page": 2458,
+      "normalized_ink_error": 0.002514,
+      "raw_ink_error": 0.168764,
+      "pixels": 7744,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/75/FE/GCESI-00070.svg",
+      "page": 2471,
+      "normalized_ink_error": 0.006462,
+      "raw_ink_error": 0.303171,
+      "pixels": 8010,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/7A/DD/T4-5D59.svg",
+      "page": 2496,
+      "normalized_ink_error": 7e-06,
+      "raw_ink_error": 0.096325,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/7D/3E.svg",
+      "page": 2509,
+      "normalized_ink_error": 5.2e-05,
+      "raw_ink_error": 0.308208,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/7E/64.svg",
+      "page": 2515,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.247445,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/7F/D6/GKX-1222_14.svg",
+      "page": 2522,
+      "normalized_ink_error": 0.002381,
+      "raw_ink_error": 0.113723,
+      "pixels": 7387,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/83/43/T7-2961.svg",
+      "page": 2540,
+      "normalized_ink_error": 8e-06,
+      "raw_ink_error": 0.195114,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/84/1A.svg",
+      "page": 2545,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.220419,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/84/75/T6-2E3A.svg",
+      "page": 2546,
+      "normalized_ink_error": 2.7e-05,
+      "raw_ink_error": 0.053118,
+      "pixels": 7387,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/85/33.svg",
+      "page": 2550,
+      "normalized_ink_error": 0.005245,
+      "raw_ink_error": 0.235872,
+      "pixels": 7480,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/89/73/JMJ-051727.svg",
+      "page": 2570,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.195625,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8A/E6.svg",
+      "page": 2577,
+      "normalized_ink_error": 5.5e-05,
+      "raw_ink_error": 0.218264,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8B/2D.svg",
+      "page": 2579,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.264508,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8C/B5/GHZ-64055_21.svg",
+      "page": 2586,
+      "normalized_ink_error": 0.01678,
+      "raw_ink_error": 0.279097,
+      "pixels": 8008,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8C/C2/T5-7841.svg",
+      "page": 2586,
+      "normalized_ink_error": 2e-06,
+      "raw_ink_error": 0.164868,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8D/0E/JMJ-052131.svg",
+      "page": 2588,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.113305,
+      "pixels": 6636,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8E/C2/JMJ-052392.svg",
+      "page": 2597,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.16331,
+      "pixels": 6888,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8E/CE/GKX-1359_06.svg",
+      "page": 2597,
+      "normalized_ink_error": 0.003255,
+      "raw_ink_error": 0.235214,
+      "pixels": 7917,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/8F/4E/JMJ-052474.svg",
+      "page": 2599,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.167876,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/91/E3/K6-1180.svg",
+      "page": 2613,
+      "normalized_ink_error": 0.000536,
+      "raw_ink_error": 0.112983,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/92/4B/T7-597C.svg",
+      "page": 2616,
+      "normalized_ink_error": 1.2e-05,
+      "raw_ink_error": 0.21108,
+      "pixels": 7392,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/92/84/KP1-8552.svg",
+      "page": 2617,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.100039,
+      "pixels": 6804,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/93/04/KP1-85C7.svg",
+      "page": 2620,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.128486,
+      "pixels": 7056,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/93/9B/JMJ-053308.svg",
+      "page": 2623,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.132049,
+      "pixels": 7310,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/95/89/GKX-1410_37.svg",
+      "page": 2634,
+      "normalized_ink_error": 0.013948,
+      "raw_ink_error": 0.373803,
+      "pixels": 8010,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/95/8A/JMJ-053677.svg",
+      "page": 2634,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.056291,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/98/3A.svg",
+      "page": 2649,
+      "normalized_ink_error": 9.2e-05,
+      "raw_ink_error": 0.189012,
+      "pixels": 7224,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/9B/8A.svg",
+      "page": 2667,
+      "normalized_ink_error": 0.012461,
+      "raw_ink_error": 0.17917,
+      "pixels": 8099,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/9F/1E/T7-6045.svg",
+      "page": 2686,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.145531,
+      "pixels": 7654,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/A3/BA/JMJ-056163.svg",
+      "page": 2711,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.161223,
+      "pixels": 7395,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/AA/E9/TC-3B51.svg",
+      "page": 2742,
+      "normalized_ink_error": 6e-06,
+      "raw_ink_error": 0.124865,
+      "pixels": 7055,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/B0/A8.svg",
+      "page": 2761,
+      "normalized_ink_error": 0.000788,
+      "raw_ink_error": 0.261202,
+      "pixels": 7209,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/B1/A7.svg",
+      "page": 2764,
+      "normalized_ink_error": 0.000231,
+      "raw_ink_error": 0.049313,
+      "pixels": 7387,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/B5/3E/GZJW-00651.svg",
+      "page": 2776,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.239264,
+      "pixels": 7225,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/B8/0D/JMJ-059149.svg",
+      "page": 2786,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.164454,
+      "pixels": 7476,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/BC/F2.svg",
+      "page": 2802,
+      "normalized_ink_error": 0.000156,
+      "raw_ink_error": 0.288594,
+      "pixels": 7565,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/C1/3C.svg",
+      "page": 2816,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.110188,
+      "pixels": 7565,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/C9/DD/GWY-44119.svg",
+      "page": 2844,
+      "normalized_ink_error": 0.018481,
+      "raw_ink_error": 0.282219,
+      "pixels": 7743,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/CA/42.svg",
+      "page": 2845,
+      "normalized_ink_error": 0.000531,
+      "raw_ink_error": 0.133685,
+      "pixels": 7826,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/CA/49.svg",
+      "page": 2845,
+      "normalized_ink_error": 0.000688,
+      "raw_ink_error": 0.249041,
+      "pixels": 6966,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/CE/AD.svg",
+      "page": 2859,
+      "normalized_ink_error": 0.00015,
+      "raw_ink_error": 0.223986,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/D4/7A.svg",
+      "page": 2878,
+      "normalized_ink_error": 0.000538,
+      "raw_ink_error": 0.178063,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/D4/B4.svg",
+      "page": 2879,
+      "normalized_ink_error": 0.000285,
+      "raw_ink_error": 0.056454,
+      "pixels": 7917,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/D6/7C.svg",
+      "page": 2885,
+      "normalized_ink_error": 0.002647,
+      "raw_ink_error": 0.17437,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/D7/38.svg",
+      "page": 2887,
+      "normalized_ink_error": 0.000857,
+      "raw_ink_error": 0.080344,
+      "pixels": 7569,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/DC/71.svg",
+      "page": 2904,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.079027,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/E2/18.svg",
+      "page": 2922,
+      "normalized_ink_error": 3e-05,
+      "raw_ink_error": 0.120376,
+      "pixels": 7396,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/E3/62.svg",
+      "page": 2926,
+      "normalized_ink_error": 0.001123,
+      "raw_ink_error": 0.215237,
+      "pixels": 7656,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/E5/00.svg",
+      "page": 2931,
+      "normalized_ink_error": 0.000431,
+      "raw_ink_error": 0.255019,
+      "pixels": 7140,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/E6/70.svg",
+      "page": 2936,
+      "normalized_ink_error": 0.000245,
+      "raw_ink_error": 0.092722,
+      "pixels": 7308,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/E7/51.svg",
+      "page": 2939,
+      "normalized_ink_error": 0.001214,
+      "raw_ink_error": 0.162129,
+      "pixels": 6806,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/EC/65.svg",
+      "page": 2955,
+      "normalized_ink_error": 0.006784,
+      "raw_ink_error": 0.086571,
+      "pixels": 6930,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/F8/63.svg",
+      "page": 2964,
+      "normalized_ink_error": 1.7e-05,
+      "raw_ink_error": 0.195296,
+      "pixels": 8464,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/F8/A7/KP1-43D2.svg",
+      "page": 2966,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.141617,
+      "pixels": 6972,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U02/FF/FE.svg",
+      "page": 2978,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004913,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U02/FF/FF.svg",
+      "page": 2978,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002845,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U03/03/31.svg",
+      "page": 2990,
+      "normalized_ink_error": 0.028626,
+      "raw_ink_error": 0.347432,
+      "pixels": 8010,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/04/40.svg",
+      "page": 2993,
+      "normalized_ink_error": 0.000176,
+      "raw_ink_error": 0.142374,
+      "pixels": 7209,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/0E/97.svg",
+      "page": 3026,
+      "normalized_ink_error": 2e-05,
+      "raw_ink_error": 0.031709,
+      "pixels": 7568,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/10/7A/UK-02274.svg",
+      "page": 3032,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.114333,
+      "pixels": 7654,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/17/8E.svg",
+      "page": 3055,
+      "normalized_ink_error": 0.010561,
+      "raw_ink_error": 0.286329,
+      "pixels": 7134,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/19/29.svg",
+      "page": 3060,
+      "normalized_ink_error": 0.002114,
+      "raw_ink_error": 0.098244,
+      "pixels": 7298,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/1D/0D/UK-10830.svg",
+      "page": 3073,
+      "normalized_ink_error": 2e-05,
+      "raw_ink_error": 0.084186,
+      "pixels": 7392,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/1E/A3/GDM-00956.svg",
+      "page": 3078,
+      "normalized_ink_error": 0.003163,
+      "raw_ink_error": 0.219043,
+      "pixels": 7744,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/33/11.svg",
+      "page": 3144,
+      "normalized_ink_error": 0.008794,
+      "raw_ink_error": 0.331082,
+      "pixels": 7134,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D0/6D/K-00104.svg",
+      "page": 3151,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.090182,
+      "pixels": 5254,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D2/A3/TH-00642.svg",
+      "page": 3161,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.220853,
+      "pixels": 4503,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D3/B6/C-00933.svg",
+      "page": 3165,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.100216,
+      "pixels": 4368,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D3/C4/C-00947.svg",
+      "page": 3166,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.164866,
+      "pixels": 3950,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D6/2D/C-01556.svg",
+      "page": 3176,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.11603,
+      "pixels": 4408,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D6/9E/TH-01603.svg",
+      "page": 3178,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.202343,
+      "pixels": 4424,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D8/9A/K-02100.svg",
+      "page": 3186,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.102176,
+      "pixels": 5544,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/D9/C5/D-02368.svg",
+      "page": 3191,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.148513,
+      "pixels": 5695,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/DA/02/D-02423.svg",
+      "page": 3192,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.114279,
+      "pixels": 3591,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/DB/DF/D-02882.svg",
+      "page": 3200,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.159181,
+      "pixels": 5695,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/DB/EA/C-03004.svg",
+      "page": 3200,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.051054,
+      "pixels": 4482,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/DC/A2/K-03094.svg",
+      "page": 3204,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.127884,
+      "pixels": 5082,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/DF/6D/K-03777.svg",
+      "page": 3215,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.112641,
+      "pixels": 5913,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E0/46/C-04101.svg",
+      "page": 3219,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.097248,
+      "pixels": 4028,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E3/38/D-04693.svg",
+      "page": 3232,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.042714,
+      "pixels": 4554,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E4/4A/D-04937.svg",
+      "page": 3236,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.184375,
+      "pixels": 5103,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E5/85/TH-05252.svg",
+      "page": 3241,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.103959,
+      "pixels": 4240,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E9/6C/TH-06186.svg",
+      "page": 3258,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.173936,
+      "pixels": 4560,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E9/98/K-06239.svg",
+      "page": 3259,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.112971,
+      "pixels": 6232,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E9/B2/C-06473.svg",
+      "page": 3259,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.067191,
+      "pixels": 3645,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/E9/FD/K-06333.svg",
+      "page": 3261,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.117327,
+      "pixels": 5265,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/EA/36/TH-Y122.svg",
+      "page": 3261,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.053443,
+      "pixels": 5185,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/EB/7C/K-06674.svg",
+      "page": 3267,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.126091,
+      "pixels": 5832,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/EF/6E/K-07627.svg",
+      "page": 3284,
+      "normalized_ink_error": 4e-06,
+      "raw_ink_error": 0.087811,
+      "pixels": 6290,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/EF/94/D-07639.svg",
+      "page": 3284,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.195941,
+      "pixels": 5025,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/F2/7C/C-08669.svg",
+      "page": 3297,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.131779,
+      "pixels": 4389,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/F4/16/TH-08742.svg",
+      "page": 3304,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.175243,
+      "pixels": 4293,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/F7/C5/D-09630.svg",
+      "page": 3319,
+      "normalized_ink_error": 6.6e-05,
+      "raw_ink_error": 0.168771,
+      "pixels": 5200,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/F7/D1/TH-09645.svg",
+      "page": 3320,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.25548,
+      "pixels": 4872,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/F9/B8/K-10108.svg",
+      "page": 3328,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.060763,
+      "pixels": 5400,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/FB/79/D-10522.svg",
+      "page": 3335,
+      "normalized_ink_error": 4.2e-05,
+      "raw_ink_error": 0.10627,
+      "pixels": 4686,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U03/FF/FE.svg",
+      "page": 3339,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.005067,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U03/FF/FF.svg",
+      "page": 3339,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002793,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U04/FF/FE.svg",
+      "page": 3341,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004797,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U04/FF/FF.svg",
+      "page": 3341,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002626,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U05/FF/FE.svg",
+      "page": 3343,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.005168,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U05/FF/FF.svg",
+      "page": 3343,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002845,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U06/FF/FE.svg",
+      "page": 3345,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.005251,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U06/FF/FF.svg",
+      "page": 3345,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002827,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U07/FF/FE.svg",
+      "page": 3347,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004653,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U07/FF/FF.svg",
+      "page": 3347,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002607,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U08/FF/FE.svg",
+      "page": 3349,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.005289,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U08/FF/FF.svg",
+      "page": 3349,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.00282,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U09/FF/FE.svg",
+      "page": 3351,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.00527,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U09/FF/FF.svg",
+      "page": 3351,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.00278,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U0A/FF/FE.svg",
+      "page": 3353,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003719,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U0A/FF/FF.svg",
+      "page": 3353,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002991,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U0B/FF/FE.svg",
+      "page": 3355,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004183,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U0B/FF/FF.svg",
+      "page": 3355,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003397,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U0C/FF/FE.svg",
+      "page": 3357,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004117,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U0C/FF/FF.svg",
+      "page": 3357,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003095,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U0D/FF/FE.svg",
+      "page": 3359,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004258,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U0D/FF/FF.svg",
+      "page": 3359,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003198,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U0E/00/5B.svg",
+      "page": 3361,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.155843,
+      "pixels": 8372,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U0E/01/B8.svg",
+      "page": 3363,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.17488,
+      "pixels": 8190,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 0
+    },
+    {
+      "path": "U0E/FF/FE.svg",
+      "page": 3366,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004156,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U0E/FF/FF.svg",
+      "page": 3366,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003472,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U0F/FF/FE.svg",
+      "page": 3368,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.004549,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U0F/FF/FF.svg",
+      "page": 3368,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.002879,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    },
+    {
+      "path": "U10/FF/FE.svg",
+      "page": 3370,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.005416,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 1752
+    },
+    {
+      "path": "U10/FF/FF.svg",
+      "page": 3370,
+      "normalized_ink_error": 0.0,
+      "raw_ink_error": 0.003317,
+      "pixels": 20352,
+      "edge_tolerance_pdf_points": 0.25,
+      "raster_scale": 4,
+      "ignored_chart_rule_pixels": 2232
+    }
+  ]
+}

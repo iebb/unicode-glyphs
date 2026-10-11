@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Unicode reference — Glyph atlas</title>
+  <meta name="description" content="Explore reference specimens from Unicode code charts, with regional variants and PDF provenance. Reference only; restrictive font licenses apply.">
+  <link rel="stylesheet" href="style.css"><script src="app.js" type="module"></script>
+</head>
+<body>
+  <header class="site-header"><a class="brand" href="./"><span class="brand-mark">U</span>unicode<span class="brand-light">reference</span></a><nav aria-label="Project"><a href="navigation.html">All blocks</a><a href="https://github.com/iebb/unicode-glyph-extractor">Extractor ↗</a><a href="https://github.com/iebb/unicode-glyphs">GitHub ↗</a></nav></header>
+  <div class="license-strip"><span class="notice-dot"></span><strong>Reference only.</strong><span>Restrictive source font licenses apply. No reuse or redistribution rights are granted.</span><a href="reference-only.html">Read the terms →</a></div>
+  <main>
+    <section class="intro"><div><p class="eyebrow">THE UNICODE CODE CHARTS / A SPECIMEN ATLAS</p><h1>A world of characters.<br><em>One reference.</em></h1><p class="intro-copy">Explore the actual vector specimens printed in Unicode’s PDF charts, from a single letter to regional CJK forms.</p><div class="release-status"><span id="release-version">Loading release…</span><span class="draft-status" id="draft-status"></span></div></div><div class="hero-specimen" aria-hidden="true"><span class="specimen-label">U+4E00</span><span class="hero-symbol">一</span><span class="specimen-caption">ONE CODEPOINT / MANY FORMS</span></div></section>
+    <section class="stats" aria-label="Collection statistics"><div><strong id="stat-codepoints">—</strong><span>chart codepoints</span></div><div><strong id="stat-glyphs">—</strong><span>reference specimens</span></div><div><strong id="stat-blocks">—</strong><span>chart blocks</span></div><div><strong>SVGZ</strong><span>lossless vector paths</span></div></section>
+    <section class="workspace">
+      <aside class="sidebar"><p class="eyebrow">BROWSE THE REPERTOIRE</p><label for="plane-select">Unicode plane</label><select id="plane-select"><option value="">All planes</option></select><label for="block-filter">Find a block</label><input id="block-filter" placeholder="Latin, CJK, symbols…"><button class="overview-button" id="overview">Selected specimens <span>↗</span></button><div id="block-list" class="block-list" aria-label="Chart blocks"></div></aside>
+      <div class="collection"><div class="search-wrap"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><label class="sr-only" for="search">Search codepoint, character or name</label><input id="search" type="search" placeholder="Search a name, character, or U+11111" autocomplete="off"><kbd>/</kbd></div><div class="collection-toolbar"><div><p class="eyebrow" id="collection-range">CROSSING SCRIPTS & SYSTEMS</p><h2 id="collection-title">Selected specimens</h2><p id="result-count" class="muted" aria-live="polite">Loading the atlas…</p></div><label class="draft-toggle"><input id="draft-only" type="checkbox"> Draft only <span class="red-dot"></span></label></div><div id="glyph-grid" class="glyph-grid" aria-live="polite"></div><div class="pagination"><button id="previous">← Previous</button><span id="page-status"></span><button id="next">Next →</button></div></div>
+    </section>
+    <section class="about-note"><span class="eyebrow">READING THE ATLAS</span><p>These shapes document a character repertoire. Reference glyphs are illustrative; real typefaces may vary considerably. Combining marks retain the chart’s dotted circle. Noncharacters retain their visible chart conventions.</p><a href="reference-only.html">Source, methodology & restrictions →</a></section>
+  </main>
+  <footer><span>Independent reference project · Not affiliated with Unicode, Inc.</span><a href="https://www.unicode.org/charts/">Original Unicode charts ↗</a></footer>
+  <dialog id="specimen-dialog"><button class="close-dialog" id="close-dialog" aria-label="Close specimen">×</button><div id="detail"></div></dialog>
+  <noscript><p class="document">This interactive browser needs JavaScript. <a href="navigation.html">Browse the static block navigation pages.</a></p></noscript>
+</body>
+</html>

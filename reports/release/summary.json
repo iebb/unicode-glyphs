@@ -1,0 +1,23 @@
+{
+  "unicode_version": "18.0.0",
+  "source_url": "https://www.unicode.org/Public/18.0.0/charts/CodeCharts.pdf",
+  "pdf_sha256": "2d0220e2a717bffccc9505515078b74635ac071f1e0069cd31a265a586299b68",
+  "pdf_pages": 3371,
+  "processed_pages": 3371,
+  "layouts": {
+    "annotations": 675,
+    "grid": 440,
+    "sources": 2256
+  },
+  "codepoints": 172939,
+  "svg_files": 372521,
+  "multiple_form_codepoints": 68311,
+  "noncharacter_reference_codepoints": 66,
+  "noncharacter_chart_cells": 66,
+  "expected_codepoints": 172873,
+  "missing_codepoints": 0,
+  "unexpected_codepoints": [],
+  "issues": 0,
+  "complete_pdf": true,
+  "elapsed_seconds": 19.15
+}
