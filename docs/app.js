@@ -8,6 +8,7 @@ const blobCache = new Map();
 let catalog, searchIndex, searchPromise;
 let result = [], currentPage = 0, currentBlock = null, renderGeneration = 0, detailGeneration = 0;
 let lastQuery = '', updatingHash = false;
+let selectionGeneration = 0;
 const cpText = cp => `U+${cp.toString(16).toUpperCase().padStart(4,'0')}`;
 const num = value => value.toLocaleString('en-US');
 const el = (tag, cls, text) => {const node=document.createElement(tag);if(cls)node.className=cls;if(text!==undefined)node.textContent=text;return node;};
@@ -61,39 +62,45 @@ function drawBlocks() {
   }
 }
 async function chooseBlock(id, page=0) {
+  const generation=++selectionGeneration;
   currentBlock=id;currentPage=page;$('search').value='';lastQuery='';
   const block=catalog.blocks.find(b=>b.id===id);
   if(!block)return overview();
   $('collection-title').textContent=block.name;
   $('collection-range').textContent=`${cpText(block.first)}–${cpText(block.last)}`;
-  result=await json(`blocks/${id}.json`);drawBlocks();await render();
+  const codepoints=await json(`blocks/${id}.json`);if(generation!==selectionGeneration)return;
+  result=codepoints;drawBlocks();await render();if(generation!==selectionGeneration)return;
   setHash({block:id,...(page?{page}:{}),...($('draft-only').checked?{draft:'1'}:{})});
 }
 async function overview() {
+  const generation=++selectionGeneration;
   currentBlock=null;currentPage=0;$('search').value='';lastQuery='';
   $('collection-title').textContent='Selected specimens';$('collection-range').textContent='CROSSING SCRIPTS & SYSTEMS';
-  result=FEATURED;drawBlocks();await render();setHash($('draft-only').checked?{draft:'1'}:{});
+  result=FEATURED;drawBlocks();await render();if(generation!==selectionGeneration)return;setHash($('draft-only').checked?{draft:'1'}:{});
 }
 async function allNames() {
   if(!searchPromise)searchPromise=json('search.json').then(data=>{searchIndex=data;return data;});
   return searchPromise;
 }
 async function search(query, page=0) {
+  const generation=++selectionGeneration;
   query=query.trim();lastQuery=query;currentPage=page;currentBlock=null;drawBlocks();
   if(!query)return overview();
   $('collection-title').textContent=`Results for “${query}”`;$('collection-range').textContent='SEARCH THE FULL REPERTOIRE';
   $('result-count').textContent='Searching…';
   let match=query.match(/^(?:U\+|0x)([0-9a-f]{1,6})$/i);
   if(!match&&/^[0-9a-f]{4,6}$/i.test(query))match=[query,query];
-  if(match){const cp=parseInt(match[1],16);result=cp<=0x10FFFF&&await record(cp)?[cp]:[];}
-  else if(Array.from(query).length===1){const cp=query.codePointAt(0);result=await record(cp)?[cp]:[];}
+  let matches;
+  if(match){const cp=parseInt(match[1],16);matches=cp<=0x10FFFF&&await record(cp)?[cp]:[];}
+  else if(Array.from(query).length===1){const cp=query.codePointAt(0);matches=await record(cp)?[cp]:[];}
   else{
     const terms=query.toUpperCase().split(/\s+/);
-    const entries=await allNames();if(lastQuery!==query)return;
+    const entries=await allNames();if(lastQuery!==query||generation!==selectionGeneration)return;
     const plane=$('plane-select').value;
-    result=entries.filter(([cp,name,block])=>(plane===''||cp>>16===Number(plane))&&terms.every(t=>(name+' '+block).toUpperCase().includes(t))).map(r=>r[0]);
+    matches=entries.filter(([cp,name,block])=>(plane===''||cp>>16===Number(plane))&&terms.every(t=>(name+' '+block).toUpperCase().includes(t))).map(r=>r[0]);
   }
-  await render();setHash({q:query,...(page?{page}:{}),...($('draft-only').checked?{draft:'1'}:{})});
+  if(generation!==selectionGeneration)return;result=matches;
+  await render();if(generation!==selectionGeneration)return;setHash({q:query,...(page?{page}:{}),...($('draft-only').checked?{draft:'1'}:{})});
 }
 async function render() {
   const generation=++renderGeneration;let filtered=result;
