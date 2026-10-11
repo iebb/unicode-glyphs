@@ -1,0 +1,11 @@
+# U+20DAE — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=20DAE)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GCA-J0132](GCA-J0132.svgz) | 1965 |
+| [JMJ-032368](JMJ-032368.svgz) | 1965 |
+| [T3-3460](T3-3460.svgz) | 1965 |

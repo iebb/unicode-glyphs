@@ -1,0 +1,10 @@
+# U+201B1 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=201B1)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GHZ-10115.02](GHZ-10115_02.svgz) | 1909 |
+| [JMJ-030542](JMJ-030542.svgz) | 1909 |

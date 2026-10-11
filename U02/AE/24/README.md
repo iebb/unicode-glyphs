@@ -1,0 +1,10 @@
+# U+2AE24 — <CJK Ideograph Extension C>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=2AE24)
+
+| Specimen | PDF page |
+| --- | --- |
+| [K5-0195](K5-0195.svgz) | 2753 |
+| [TC-4C38](TC-4C38.svgz) | 2753 |

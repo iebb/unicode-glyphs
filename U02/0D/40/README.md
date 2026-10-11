@@ -1,0 +1,11 @@
+# U+20D40 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=20D40)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GKX-0196.23](GKX-0196_23.svgz) | 1963 |
+| [JMJ-032331](JMJ-032331.svgz) | 1963 |
+| [T6-3D7A](T6-3D7A.svgz) | 1963 |

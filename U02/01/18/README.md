@@ -1,0 +1,10 @@
+# U+20118 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=20118)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GZ-4741301](GZ-4741301.svgz) | 1907 |
+| [H-FCAD](H-FCAD.svgz) | 1907 |

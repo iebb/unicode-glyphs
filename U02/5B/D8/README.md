@@ -1,0 +1,11 @@
+# U+25BD8 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=25BD8)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GKX-0890.17](GKX-0890_17.svgz) | 2342 |
+| [JMJ-043794](JMJ-043794.svgz) | 2342 |
+| [T7-264A](T7-264A.svgz) | 2342 |

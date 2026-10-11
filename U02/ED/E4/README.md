@@ -1,0 +1,10 @@
+# U+2EDE4 — <CJK Ideograph Extension I>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=2EDE4)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GIDC23-501](GIDC23-501.svgz) | 2960 |
+| [TD-464F](TD-464F.svgz) | 2960 |

@@ -1,0 +1,11 @@
+# U+2120F — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=2120F)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GKX-0220.15](GKX-0220_15.svgz) | 1985 |
+| [JMJ-032897](JMJ-032897.svgz) | 1985 |
+| [T5-3E42](T5-3E42.svgz) | 1985 |

@@ -1,0 +1,10 @@
+# U+29252 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=29252)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GHZ-74402.16](GHZ-74402_16.svgz) | 2616 |
+| [JMJ-053044](JMJ-053044.svgz) | 2616 |

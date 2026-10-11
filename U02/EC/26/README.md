@@ -1,0 +1,10 @@
+# U+2EC26 — <CJK Ideograph Extension I>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=2EC26)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GIDC23-055](GIDC23-055.svgz) | 2954 |
+| [TD-2421](TD-2421.svgz) | 2954 |

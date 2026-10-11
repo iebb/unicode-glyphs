@@ -1,0 +1,11 @@
+# U+20018 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=20018)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GKX-0078.07](GKX-0078_07.svgz) | 1902 |
+| [JMJ-030328](JMJ-030328.svgz) | 1902 |
+| [T6-2340](T6-2340.svgz) | 1902 |

@@ -1,0 +1,10 @@
+# U+234E4 — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=234E4)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GCA-J0076](GCA-J0076.svgz) | 2147 |
+| [J4-2E77](J4-2E77.svgz) | 2147 |

@@ -1,0 +1,10 @@
+# U+216FF — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=216FF)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GHZ-21035.07](GHZ-21035_07.svgz) | 2007 |
+| [JMJ-033571](JMJ-033571.svgz) | 2007 |

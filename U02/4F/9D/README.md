@@ -1,0 +1,12 @@
+# U+24F9D — <CJK Ideograph Extension B>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=24F9D)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GKX-0789.11](GKX-0789_11.svgz) | 2279 |
+| [JMJ-041936](JMJ-041936.svgz) | 2279 |
+| [KP1-5CD0](KP1-5CD0.svgz) | 2279 |
+| [T5-5571](T5-5571.svgz) | 2279 |
