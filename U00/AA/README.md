@@ -1,0 +1,218 @@
+# U00/AA reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+AA00](00.svgz) | CHAM LETTER A | 1 |
+| [U+AA01](01.svgz) | CHAM LETTER I | 1 |
+| [U+AA02](02.svgz) | CHAM LETTER U | 1 |
+| [U+AA03](03.svgz) | CHAM LETTER E | 1 |
+| [U+AA04](04.svgz) | CHAM LETTER AI | 1 |
+| [U+AA05](05.svgz) | CHAM LETTER O | 1 |
+| [U+AA06](06.svgz) | CHAM LETTER KA | 1 |
+| [U+AA07](07.svgz) | CHAM LETTER KHA | 1 |
+| [U+AA08](08.svgz) | CHAM LETTER GA | 1 |
+| [U+AA09](09.svgz) | CHAM LETTER GHA | 1 |
+| [U+AA0A](0A.svgz) | CHAM LETTER NGUE | 1 |
+| [U+AA0B](0B.svgz) | CHAM LETTER NGA | 1 |
+| [U+AA0C](0C.svgz) | CHAM LETTER CHA | 1 |
+| [U+AA0D](0D.svgz) | CHAM LETTER CHHA | 1 |
+| [U+AA0E](0E.svgz) | CHAM LETTER JA | 1 |
+| [U+AA0F](0F.svgz) | CHAM LETTER JHA | 1 |
+| [U+AA10](10.svgz) | CHAM LETTER NHUE | 1 |
+| [U+AA11](11.svgz) | CHAM LETTER NHA | 1 |
+| [U+AA12](12.svgz) | CHAM LETTER NHJA | 1 |
+| [U+AA13](13.svgz) | CHAM LETTER TA | 1 |
+| [U+AA14](14.svgz) | CHAM LETTER THA | 1 |
+| [U+AA15](15.svgz) | CHAM LETTER DA | 1 |
+| [U+AA16](16.svgz) | CHAM LETTER DHA | 1 |
+| [U+AA17](17.svgz) | CHAM LETTER NUE | 1 |
+| [U+AA18](18.svgz) | CHAM LETTER NA | 1 |
+| [U+AA19](19.svgz) | CHAM LETTER DDA | 1 |
+| [U+AA1A](1A.svgz) | CHAM LETTER PA | 1 |
+| [U+AA1B](1B.svgz) | CHAM LETTER PPA | 1 |
+| [U+AA1C](1C.svgz) | CHAM LETTER PHA | 1 |
+| [U+AA1D](1D.svgz) | CHAM LETTER BA | 1 |
+| [U+AA1E](1E.svgz) | CHAM LETTER BHA | 1 |
+| [U+AA1F](1F.svgz) | CHAM LETTER MUE | 1 |
+| [U+AA20](20.svgz) | CHAM LETTER MA | 1 |
+| [U+AA21](21.svgz) | CHAM LETTER BBA | 1 |
+| [U+AA22](22.svgz) | CHAM LETTER YA | 1 |
+| [U+AA23](23.svgz) | CHAM LETTER RA | 1 |
+| [U+AA24](24.svgz) | CHAM LETTER LA | 1 |
+| [U+AA25](25.svgz) | CHAM LETTER VA | 1 |
+| [U+AA26](26.svgz) | CHAM LETTER SSA | 1 |
+| [U+AA27](27.svgz) | CHAM LETTER SA | 1 |
+| [U+AA28](28.svgz) | CHAM LETTER HA | 1 |
+| [U+AA29](29.svgz) | CHAM VOWEL SIGN AA | 1 |
+| [U+AA2A](2A.svgz) | CHAM VOWEL SIGN I | 1 |
+| [U+AA2B](2B.svgz) | CHAM VOWEL SIGN II | 1 |
+| [U+AA2C](2C.svgz) | CHAM VOWEL SIGN EI | 1 |
+| [U+AA2D](2D.svgz) | CHAM VOWEL SIGN U | 1 |
+| [U+AA2E](2E.svgz) | CHAM VOWEL SIGN OE | 1 |
+| [U+AA2F](2F.svgz) | CHAM VOWEL SIGN O | 1 |
+| [U+AA30](30.svgz) | CHAM VOWEL SIGN AI | 1 |
+| [U+AA31](31.svgz) | CHAM VOWEL SIGN AU | 1 |
+| [U+AA32](32.svgz) | CHAM VOWEL SIGN UE | 1 |
+| [U+AA33](33.svgz) | CHAM CONSONANT SIGN YA | 1 |
+| [U+AA34](34.svgz) | CHAM CONSONANT SIGN RA | 1 |
+| [U+AA35](35.svgz) | CHAM CONSONANT SIGN LA | 1 |
+| [U+AA36](36.svgz) | CHAM CONSONANT SIGN WA | 1 |
+| [U+AA40](40.svgz) | CHAM LETTER FINAL K | 1 |
+| [U+AA41](41.svgz) | CHAM LETTER FINAL G | 1 |
+| [U+AA42](42.svgz) | CHAM LETTER FINAL NG | 1 |
+| [U+AA43](43.svgz) | CHAM CONSONANT SIGN FINAL NG | 1 |
+| [U+AA44](44.svgz) | CHAM LETTER FINAL CH | 1 |
+| [U+AA45](45.svgz) | CHAM LETTER FINAL T | 1 |
+| [U+AA46](46.svgz) | CHAM LETTER FINAL N | 1 |
+| [U+AA47](47.svgz) | CHAM LETTER FINAL P | 1 |
+| [U+AA48](48.svgz) | CHAM LETTER FINAL Y | 1 |
+| [U+AA49](49.svgz) | CHAM LETTER FINAL R | 1 |
+| [U+AA4A](4A.svgz) | CHAM LETTER FINAL L | 1 |
+| [U+AA4B](4B.svgz) | CHAM LETTER FINAL SS | 1 |
+| [U+AA4C](4C.svgz) | CHAM CONSONANT SIGN FINAL M | 1 |
+| [U+AA4D](4D.svgz) | CHAM CONSONANT SIGN FINAL H | 1 |
+| [U+AA50](50.svgz) | CHAM DIGIT ZERO | 1 |
+| [U+AA51](51.svgz) | CHAM DIGIT ONE | 1 |
+| [U+AA52](52.svgz) | CHAM DIGIT TWO | 1 |
+| [U+AA53](53.svgz) | CHAM DIGIT THREE | 1 |
+| [U+AA54](54.svgz) | CHAM DIGIT FOUR | 1 |
+| [U+AA55](55.svgz) | CHAM DIGIT FIVE | 1 |
+| [U+AA56](56.svgz) | CHAM DIGIT SIX | 1 |
+| [U+AA57](57.svgz) | CHAM DIGIT SEVEN | 1 |
+| [U+AA58](58.svgz) | CHAM DIGIT EIGHT | 1 |
+| [U+AA59](59.svgz) | CHAM DIGIT NINE | 1 |
+| [U+AA5C](5C.svgz) | CHAM PUNCTUATION SPIRAL | 1 |
+| [U+AA5D](5D.svgz) | CHAM PUNCTUATION DANDA | 1 |
+| [U+AA5E](5E.svgz) | CHAM PUNCTUATION DOUBLE DANDA | 1 |
+| [U+AA5F](5F.svgz) | CHAM PUNCTUATION TRIPLE DANDA | 1 |
+| [U+AA60](60.svgz) | MYANMAR LETTER KHAMTI GA | 1 |
+| [U+AA61](61.svgz) | MYANMAR LETTER KHAMTI CA | 1 |
+| [U+AA62](62.svgz) | MYANMAR LETTER KHAMTI CHA | 1 |
+| [U+AA63](63.svgz) | MYANMAR LETTER KHAMTI JA | 1 |
+| [U+AA64](64.svgz) | MYANMAR LETTER KHAMTI JHA | 1 |
+| [U+AA65](65.svgz) | MYANMAR LETTER KHAMTI NYA | 1 |
+| [U+AA66](66.svgz) | MYANMAR LETTER KHAMTI TTA | 1 |
+| [U+AA67](67.svgz) | MYANMAR LETTER KHAMTI TTHA | 1 |
+| [U+AA68](68.svgz) | MYANMAR LETTER KHAMTI DDA | 1 |
+| [U+AA69](69.svgz) | MYANMAR LETTER KHAMTI DDHA | 1 |
+| [U+AA6A](6A.svgz) | MYANMAR LETTER KHAMTI DHA | 1 |
+| [U+AA6B](6B.svgz) | MYANMAR LETTER KHAMTI NA | 1 |
+| [U+AA6C](6C.svgz) | MYANMAR LETTER KHAMTI SA | 1 |
+| [U+AA6D](6D.svgz) | MYANMAR LETTER KHAMTI HA | 1 |
+| [U+AA6E](6E.svgz) | MYANMAR LETTER KHAMTI HHA | 1 |
+| [U+AA6F](6F.svgz) | MYANMAR LETTER KHAMTI FA | 1 |
+| [U+AA70](70.svgz) | MYANMAR MODIFIER LETTER KHAMTI REDUPLICATION | 1 |
+| [U+AA71](71.svgz) | MYANMAR LETTER KHAMTI XA | 1 |
+| [U+AA72](72.svgz) | MYANMAR LETTER KHAMTI ZA | 1 |
+| [U+AA73](73.svgz) | MYANMAR LETTER KHAMTI RA | 1 |
+| [U+AA74](74.svgz) | MYANMAR LOGOGRAM KHAMTI OAY | 1 |
+| [U+AA75](75.svgz) | MYANMAR LOGOGRAM KHAMTI QN | 1 |
+| [U+AA76](76.svgz) | MYANMAR LOGOGRAM KHAMTI HM | 1 |
+| [U+AA77](77.svgz) | MYANMAR SYMBOL AITON EXCLAMATION | 1 |
+| [U+AA78](78.svgz) | MYANMAR SYMBOL AITON ONE | 1 |
+| [U+AA79](79.svgz) | MYANMAR SYMBOL AITON TWO | 1 |
+| [U+AA7A](7A.svgz) | MYANMAR LETTER AITON RA | 1 |
+| [U+AA7B](7B.svgz) | MYANMAR SIGN PAO KAREN TONE | 1 |
+| [U+AA7C](7C.svgz) | MYANMAR SIGN TAI LAING TONE-2 | 1 |
+| [U+AA7D](7D.svgz) | MYANMAR SIGN TAI LAING TONE-5 | 1 |
+| [U+AA7E](7E.svgz) | MYANMAR LETTER SHWE PALAUNG CHA | 1 |
+| [U+AA7F](7F.svgz) | MYANMAR LETTER SHWE PALAUNG SHA | 1 |
+| [U+AA80](80.svgz) | TAI VIET LETTER LOW KO | 1 |
+| [U+AA81](81.svgz) | TAI VIET LETTER HIGH KO | 1 |
+| [U+AA82](82.svgz) | TAI VIET LETTER LOW KHO | 1 |
+| [U+AA83](83.svgz) | TAI VIET LETTER HIGH KHO | 1 |
+| [U+AA84](84.svgz) | TAI VIET LETTER LOW KHHO | 1 |
+| [U+AA85](85.svgz) | TAI VIET LETTER HIGH KHHO | 1 |
+| [U+AA86](86.svgz) | TAI VIET LETTER LOW GO | 1 |
+| [U+AA87](87.svgz) | TAI VIET LETTER HIGH GO | 1 |
+| [U+AA88](88.svgz) | TAI VIET LETTER LOW NGO | 1 |
+| [U+AA89](89.svgz) | TAI VIET LETTER HIGH NGO | 1 |
+| [U+AA8A](8A.svgz) | TAI VIET LETTER LOW CO | 1 |
+| [U+AA8B](8B.svgz) | TAI VIET LETTER HIGH CO | 1 |
+| [U+AA8C](8C.svgz) | TAI VIET LETTER LOW CHO | 1 |
+| [U+AA8D](8D.svgz) | TAI VIET LETTER HIGH CHO | 1 |
+| [U+AA8E](8E.svgz) | TAI VIET LETTER LOW SO | 1 |
+| [U+AA8F](8F.svgz) | TAI VIET LETTER HIGH SO | 1 |
+| [U+AA90](90.svgz) | TAI VIET LETTER LOW NYO | 1 |
+| [U+AA91](91.svgz) | TAI VIET LETTER HIGH NYO | 1 |
+| [U+AA92](92.svgz) | TAI VIET LETTER LOW DO | 1 |
+| [U+AA93](93.svgz) | TAI VIET LETTER HIGH DO | 1 |
+| [U+AA94](94.svgz) | TAI VIET LETTER LOW TO | 1 |
+| [U+AA95](95.svgz) | TAI VIET LETTER HIGH TO | 1 |
+| [U+AA96](96.svgz) | TAI VIET LETTER LOW THO | 1 |
+| [U+AA97](97.svgz) | TAI VIET LETTER HIGH THO | 1 |
+| [U+AA98](98.svgz) | TAI VIET LETTER LOW NO | 1 |
+| [U+AA99](99.svgz) | TAI VIET LETTER HIGH NO | 1 |
+| [U+AA9A](9A.svgz) | TAI VIET LETTER LOW BO | 1 |
+| [U+AA9B](9B.svgz) | TAI VIET LETTER HIGH BO | 1 |
+| [U+AA9C](9C.svgz) | TAI VIET LETTER LOW PO | 1 |
+| [U+AA9D](9D.svgz) | TAI VIET LETTER HIGH PO | 1 |
+| [U+AA9E](9E.svgz) | TAI VIET LETTER LOW PHO | 1 |
+| [U+AA9F](9F.svgz) | TAI VIET LETTER HIGH PHO | 1 |
+| [U+AAA0](A0.svgz) | TAI VIET LETTER LOW FO | 1 |
+| [U+AAA1](A1.svgz) | TAI VIET LETTER HIGH FO | 1 |
+| [U+AAA2](A2.svgz) | TAI VIET LETTER LOW MO | 1 |
+| [U+AAA3](A3.svgz) | TAI VIET LETTER HIGH MO | 1 |
+| [U+AAA4](A4.svgz) | TAI VIET LETTER LOW YO | 1 |
+| [U+AAA5](A5.svgz) | TAI VIET LETTER HIGH YO | 1 |
+| [U+AAA6](A6.svgz) | TAI VIET LETTER LOW RO | 1 |
+| [U+AAA7](A7.svgz) | TAI VIET LETTER HIGH RO | 1 |
+| [U+AAA8](A8.svgz) | TAI VIET LETTER LOW LO | 1 |
+| [U+AAA9](A9.svgz) | TAI VIET LETTER HIGH LO | 1 |
+| [U+AAAA](AA.svgz) | TAI VIET LETTER LOW VO | 1 |
+| [U+AAAB](AB.svgz) | TAI VIET LETTER HIGH VO | 1 |
+| [U+AAAC](AC.svgz) | TAI VIET LETTER LOW HO | 1 |
+| [U+AAAD](AD.svgz) | TAI VIET LETTER HIGH HO | 1 |
+| [U+AAAE](AE.svgz) | TAI VIET LETTER LOW O | 1 |
+| [U+AAAF](AF.svgz) | TAI VIET LETTER HIGH O | 1 |
+| [U+AAB0](B0.svgz) | TAI VIET MAI KANG | 1 |
+| [U+AAB1](B1.svgz) | TAI VIET VOWEL AA | 1 |
+| [U+AAB2](B2.svgz) | TAI VIET VOWEL I | 1 |
+| [U+AAB3](B3.svgz) | TAI VIET VOWEL UE | 1 |
+| [U+AAB4](B4.svgz) | TAI VIET VOWEL U | 1 |
+| [U+AAB5](B5.svgz) | TAI VIET VOWEL E | 1 |
+| [U+AAB6](B6.svgz) | TAI VIET VOWEL O | 1 |
+| [U+AAB7](B7.svgz) | TAI VIET MAI KHIT | 1 |
+| [U+AAB8](B8.svgz) | TAI VIET VOWEL IA | 1 |
+| [U+AAB9](B9.svgz) | TAI VIET VOWEL UEA | 1 |
+| [U+AABA](BA.svgz) | TAI VIET VOWEL UA | 1 |
+| [U+AABB](BB.svgz) | TAI VIET VOWEL AUE | 1 |
+| [U+AABC](BC.svgz) | TAI VIET VOWEL AY | 1 |
+| [U+AABD](BD.svgz) | TAI VIET VOWEL AN | 1 |
+| [U+AABE](BE.svgz) | TAI VIET VOWEL AM | 1 |
+| [U+AABF](BF.svgz) | TAI VIET TONE MAI EK | 1 |
+| [U+AAC0](C0.svgz) | TAI VIET TONE MAI NUENG | 1 |
+| [U+AAC1](C1.svgz) | TAI VIET TONE MAI THO | 1 |
+| [U+AAC2](C2.svgz) | TAI VIET TONE MAI SONG | 1 |
+| [U+AADB](DB.svgz) | TAI VIET SYMBOL KON | 1 |
+| [U+AADC](DC.svgz) | TAI VIET SYMBOL NUENG | 1 |
+| [U+AADD](DD.svgz) | TAI VIET SYMBOL SAM | 1 |
+| [U+AADE](DE.svgz) | TAI VIET SYMBOL HO HOI | 1 |
+| [U+AADF](DF.svgz) | TAI VIET SYMBOL KOI KOI | 1 |
+| [U+AAE0](E0.svgz) | MEETEI MAYEK LETTER E | 1 |
+| [U+AAE1](E1.svgz) | MEETEI MAYEK LETTER O | 1 |
+| [U+AAE2](E2.svgz) | MEETEI MAYEK LETTER CHA | 1 |
+| [U+AAE3](E3.svgz) | MEETEI MAYEK LETTER NYA | 1 |
+| [U+AAE4](E4.svgz) | MEETEI MAYEK LETTER TTA | 1 |
+| [U+AAE5](E5.svgz) | MEETEI MAYEK LETTER TTHA | 1 |
+| [U+AAE6](E6.svgz) | MEETEI MAYEK LETTER DDA | 1 |
+| [U+AAE7](E7.svgz) | MEETEI MAYEK LETTER DDHA | 1 |
+| [U+AAE8](E8.svgz) | MEETEI MAYEK LETTER NNA | 1 |
+| [U+AAE9](E9.svgz) | MEETEI MAYEK LETTER SHA | 1 |
+| [U+AAEA](EA.svgz) | MEETEI MAYEK LETTER SSA | 1 |
+| [U+AAEB](EB.svgz) | MEETEI MAYEK VOWEL SIGN II | 1 |
+| [U+AAEC](EC.svgz) | MEETEI MAYEK VOWEL SIGN UU | 1 |
+| [U+AAED](ED.svgz) | MEETEI MAYEK VOWEL SIGN AAI | 1 |
+| [U+AAEE](EE.svgz) | MEETEI MAYEK VOWEL SIGN AU | 1 |
+| [U+AAEF](EF.svgz) | MEETEI MAYEK VOWEL SIGN AAU | 1 |
+| [U+AAF0](F0.svgz) | MEETEI MAYEK CHEIKHAN | 1 |
+| [U+AAF1](F1.svgz) | MEETEI MAYEK AHANG KHUDAM | 1 |
+| [U+AAF2](F2.svgz) | MEETEI MAYEK ANJI | 1 |
+| [U+AAF3](F3.svgz) | MEETEI MAYEK SYLLABLE REPETITION MARK | 1 |
+| [U+AAF4](F4.svgz) | MEETEI MAYEK WORD REPETITION MARK | 1 |
+| [U+AAF5](F5.svgz) | MEETEI MAYEK VOWEL SIGN VISARGA | 1 |
+| [U+AAF6](F6.svgz) | MEETEI MAYEK VIRAMA | 1 |

@@ -1,0 +1,12 @@
+# U+469D — <CJK Ideograph Extension A>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=469D)
+
+| Specimen | PDF page |
+| --- | --- |
+| [G3-7248](G3-7248.svgz) | 503 |
+| [JMJ-004525](JMJ-004525.svgz) | 503 |
+| [KP1-755C](KP1-755C.svgz) | 503 |
+| [T4-4D4C](T4-4D4C.svgz) | 503 |

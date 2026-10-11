@@ -1,0 +1,10 @@
+# U+41CA — <CJK Ideograph Extension A>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=41CA)
+
+| Specimen | PDF page |
+| --- | --- |
+| [H-8E55](H-8E55.svgz) | 468 |
+| [JA-2549](JA-2549.svgz) | 468 |

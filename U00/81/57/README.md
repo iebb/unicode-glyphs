@@ -1,0 +1,10 @@
+# U+8157 — <CJK Ideograph>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=8157)
+
+| Specimen | PDF page |
+| --- | --- |
+| [GE-4866](GE-4866.svgz) | 891 |
+| [J1-563C](J1-563C.svgz) | 891 |

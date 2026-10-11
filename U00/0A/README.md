@@ -1,0 +1,179 @@
+# U00/0A reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+0A01](01.svgz) | GURMUKHI SIGN ADAK BINDI | 1 |
+| [U+0A02](02.svgz) | GURMUKHI SIGN BINDI | 1 |
+| [U+0A03](03.svgz) | GURMUKHI SIGN VISARGA | 1 |
+| [U+0A05](05.svgz) | GURMUKHI LETTER A | 1 |
+| [U+0A06](06.svgz) | GURMUKHI LETTER AA | 1 |
+| [U+0A07](07.svgz) | GURMUKHI LETTER I | 1 |
+| [U+0A08](08.svgz) | GURMUKHI LETTER II | 1 |
+| [U+0A09](09.svgz) | GURMUKHI LETTER U | 1 |
+| [U+0A0A](0A.svgz) | GURMUKHI LETTER UU | 1 |
+| [U+0A0F](0F.svgz) | GURMUKHI LETTER EE | 1 |
+| [U+0A10](10.svgz) | GURMUKHI LETTER AI | 1 |
+| [U+0A13](13.svgz) | GURMUKHI LETTER OO | 1 |
+| [U+0A14](14.svgz) | GURMUKHI LETTER AU | 1 |
+| [U+0A15](15.svgz) | GURMUKHI LETTER KA | 1 |
+| [U+0A16](16.svgz) | GURMUKHI LETTER KHA | 1 |
+| [U+0A17](17.svgz) | GURMUKHI LETTER GA | 1 |
+| [U+0A18](18.svgz) | GURMUKHI LETTER GHA | 1 |
+| [U+0A19](19.svgz) | GURMUKHI LETTER NGA | 1 |
+| [U+0A1A](1A.svgz) | GURMUKHI LETTER CA | 1 |
+| [U+0A1B](1B.svgz) | GURMUKHI LETTER CHA | 1 |
+| [U+0A1C](1C.svgz) | GURMUKHI LETTER JA | 1 |
+| [U+0A1D](1D.svgz) | GURMUKHI LETTER JHA | 1 |
+| [U+0A1E](1E.svgz) | GURMUKHI LETTER NYA | 1 |
+| [U+0A1F](1F.svgz) | GURMUKHI LETTER TTA | 1 |
+| [U+0A20](20.svgz) | GURMUKHI LETTER TTHA | 1 |
+| [U+0A21](21.svgz) | GURMUKHI LETTER DDA | 1 |
+| [U+0A22](22.svgz) | GURMUKHI LETTER DDHA | 1 |
+| [U+0A23](23.svgz) | GURMUKHI LETTER NNA | 1 |
+| [U+0A24](24.svgz) | GURMUKHI LETTER TA | 1 |
+| [U+0A25](25.svgz) | GURMUKHI LETTER THA | 1 |
+| [U+0A26](26.svgz) | GURMUKHI LETTER DA | 1 |
+| [U+0A27](27.svgz) | GURMUKHI LETTER DHA | 1 |
+| [U+0A28](28.svgz) | GURMUKHI LETTER NA | 1 |
+| [U+0A2A](2A.svgz) | GURMUKHI LETTER PA | 1 |
+| [U+0A2B](2B.svgz) | GURMUKHI LETTER PHA | 1 |
+| [U+0A2C](2C.svgz) | GURMUKHI LETTER BA | 1 |
+| [U+0A2D](2D.svgz) | GURMUKHI LETTER BHA | 1 |
+| [U+0A2E](2E.svgz) | GURMUKHI LETTER MA | 1 |
+| [U+0A2F](2F.svgz) | GURMUKHI LETTER YA | 1 |
+| [U+0A30](30.svgz) | GURMUKHI LETTER RA | 1 |
+| [U+0A32](32.svgz) | GURMUKHI LETTER LA | 1 |
+| [U+0A33](33.svgz) | GURMUKHI LETTER LLA | 1 |
+| [U+0A35](35.svgz) | GURMUKHI LETTER VA | 1 |
+| [U+0A36](36.svgz) | GURMUKHI LETTER SHA | 1 |
+| [U+0A38](38.svgz) | GURMUKHI LETTER SA | 1 |
+| [U+0A39](39.svgz) | GURMUKHI LETTER HA | 1 |
+| [U+0A3C](3C.svgz) | GURMUKHI SIGN NUKTA | 1 |
+| [U+0A3E](3E.svgz) | GURMUKHI VOWEL SIGN AA | 1 |
+| [U+0A3F](3F.svgz) | GURMUKHI VOWEL SIGN I | 1 |
+| [U+0A40](40.svgz) | GURMUKHI VOWEL SIGN II | 1 |
+| [U+0A41](41.svgz) | GURMUKHI VOWEL SIGN U | 1 |
+| [U+0A42](42.svgz) | GURMUKHI VOWEL SIGN UU | 1 |
+| [U+0A47](47.svgz) | GURMUKHI VOWEL SIGN EE | 1 |
+| [U+0A48](48.svgz) | GURMUKHI VOWEL SIGN AI | 1 |
+| [U+0A4B](4B.svgz) | GURMUKHI VOWEL SIGN OO | 1 |
+| [U+0A4C](4C.svgz) | GURMUKHI VOWEL SIGN AU | 1 |
+| [U+0A4D](4D.svgz) | GURMUKHI SIGN VIRAMA | 1 |
+| [U+0A51](51.svgz) | GURMUKHI SIGN UDAAT | 1 |
+| [U+0A59](59.svgz) | GURMUKHI LETTER KHHA | 1 |
+| [U+0A5A](5A.svgz) | GURMUKHI LETTER GHHA | 1 |
+| [U+0A5B](5B.svgz) | GURMUKHI LETTER ZA | 1 |
+| [U+0A5C](5C.svgz) | GURMUKHI LETTER RRA | 1 |
+| [U+0A5E](5E.svgz) | GURMUKHI LETTER FA | 1 |
+| [U+0A66](66.svgz) | GURMUKHI DIGIT ZERO | 1 |
+| [U+0A67](67.svgz) | GURMUKHI DIGIT ONE | 1 |
+| [U+0A68](68.svgz) | GURMUKHI DIGIT TWO | 1 |
+| [U+0A69](69.svgz) | GURMUKHI DIGIT THREE | 1 |
+| [U+0A6A](6A.svgz) | GURMUKHI DIGIT FOUR | 1 |
+| [U+0A6B](6B.svgz) | GURMUKHI DIGIT FIVE | 1 |
+| [U+0A6C](6C.svgz) | GURMUKHI DIGIT SIX | 1 |
+| [U+0A6D](6D.svgz) | GURMUKHI DIGIT SEVEN | 1 |
+| [U+0A6E](6E.svgz) | GURMUKHI DIGIT EIGHT | 1 |
+| [U+0A6F](6F.svgz) | GURMUKHI DIGIT NINE | 1 |
+| [U+0A70](70.svgz) | GURMUKHI TIPPI | 1 |
+| [U+0A71](71.svgz) | GURMUKHI ADDAK | 1 |
+| [U+0A72](72.svgz) | GURMUKHI IRI | 1 |
+| [U+0A73](73.svgz) | GURMUKHI URA | 1 |
+| [U+0A74](74.svgz) | GURMUKHI EK ONKAR | 1 |
+| [U+0A75](75.svgz) | GURMUKHI SIGN YAKASH | 1 |
+| [U+0A76](76.svgz) | GURMUKHI ABBREVIATION SIGN | 1 |
+| [U+0A81](81.svgz) | GUJARATI SIGN CANDRABINDU | 1 |
+| [U+0A82](82.svgz) | GUJARATI SIGN ANUSVARA | 1 |
+| [U+0A83](83.svgz) | GUJARATI SIGN VISARGA | 1 |
+| [U+0A85](85.svgz) | GUJARATI LETTER A | 1 |
+| [U+0A86](86.svgz) | GUJARATI LETTER AA | 1 |
+| [U+0A87](87.svgz) | GUJARATI LETTER I | 1 |
+| [U+0A88](88.svgz) | GUJARATI LETTER II | 1 |
+| [U+0A89](89.svgz) | GUJARATI LETTER U | 1 |
+| [U+0A8A](8A.svgz) | GUJARATI LETTER UU | 1 |
+| [U+0A8B](8B.svgz) | GUJARATI LETTER VOCALIC R | 1 |
+| [U+0A8C](8C.svgz) | GUJARATI LETTER VOCALIC L | 1 |
+| [U+0A8D](8D.svgz) | GUJARATI VOWEL CANDRA E | 1 |
+| [U+0A8F](8F.svgz) | GUJARATI LETTER E | 1 |
+| [U+0A90](90.svgz) | GUJARATI LETTER AI | 1 |
+| [U+0A91](91.svgz) | GUJARATI VOWEL CANDRA O | 1 |
+| [U+0A93](93.svgz) | GUJARATI LETTER O | 1 |
+| [U+0A94](94.svgz) | GUJARATI LETTER AU | 1 |
+| [U+0A95](95.svgz) | GUJARATI LETTER KA | 1 |
+| [U+0A96](96.svgz) | GUJARATI LETTER KHA | 1 |
+| [U+0A97](97.svgz) | GUJARATI LETTER GA | 1 |
+| [U+0A98](98.svgz) | GUJARATI LETTER GHA | 1 |
+| [U+0A99](99.svgz) | GUJARATI LETTER NGA | 1 |
+| [U+0A9A](9A.svgz) | GUJARATI LETTER CA | 1 |
+| [U+0A9B](9B.svgz) | GUJARATI LETTER CHA | 1 |
+| [U+0A9C](9C.svgz) | GUJARATI LETTER JA | 1 |
+| [U+0A9D](9D.svgz) | GUJARATI LETTER JHA | 1 |
+| [U+0A9E](9E.svgz) | GUJARATI LETTER NYA | 1 |
+| [U+0A9F](9F.svgz) | GUJARATI LETTER TTA | 1 |
+| [U+0AA0](A0.svgz) | GUJARATI LETTER TTHA | 1 |
+| [U+0AA1](A1.svgz) | GUJARATI LETTER DDA | 1 |
+| [U+0AA2](A2.svgz) | GUJARATI LETTER DDHA | 1 |
+| [U+0AA3](A3.svgz) | GUJARATI LETTER NNA | 1 |
+| [U+0AA4](A4.svgz) | GUJARATI LETTER TA | 1 |
+| [U+0AA5](A5.svgz) | GUJARATI LETTER THA | 1 |
+| [U+0AA6](A6.svgz) | GUJARATI LETTER DA | 1 |
+| [U+0AA7](A7.svgz) | GUJARATI LETTER DHA | 1 |
+| [U+0AA8](A8.svgz) | GUJARATI LETTER NA | 1 |
+| [U+0AAA](AA.svgz) | GUJARATI LETTER PA | 1 |
+| [U+0AAB](AB.svgz) | GUJARATI LETTER PHA | 1 |
+| [U+0AAC](AC.svgz) | GUJARATI LETTER BA | 1 |
+| [U+0AAD](AD.svgz) | GUJARATI LETTER BHA | 1 |
+| [U+0AAE](AE.svgz) | GUJARATI LETTER MA | 1 |
+| [U+0AAF](AF.svgz) | GUJARATI LETTER YA | 1 |
+| [U+0AB0](B0.svgz) | GUJARATI LETTER RA | 1 |
+| [U+0AB2](B2.svgz) | GUJARATI LETTER LA | 1 |
+| [U+0AB3](B3.svgz) | GUJARATI LETTER LLA | 1 |
+| [U+0AB5](B5.svgz) | GUJARATI LETTER VA | 1 |
+| [U+0AB6](B6.svgz) | GUJARATI LETTER SHA | 1 |
+| [U+0AB7](B7.svgz) | GUJARATI LETTER SSA | 1 |
+| [U+0AB8](B8.svgz) | GUJARATI LETTER SA | 1 |
+| [U+0AB9](B9.svgz) | GUJARATI LETTER HA | 1 |
+| [U+0ABC](BC.svgz) | GUJARATI SIGN NUKTA | 1 |
+| [U+0ABD](BD.svgz) | GUJARATI SIGN AVAGRAHA | 1 |
+| [U+0ABE](BE.svgz) | GUJARATI VOWEL SIGN AA | 1 |
+| [U+0ABF](BF.svgz) | GUJARATI VOWEL SIGN I | 1 |
+| [U+0AC0](C0.svgz) | GUJARATI VOWEL SIGN II | 1 |
+| [U+0AC1](C1.svgz) | GUJARATI VOWEL SIGN U | 1 |
+| [U+0AC2](C2.svgz) | GUJARATI VOWEL SIGN UU | 1 |
+| [U+0AC3](C3.svgz) | GUJARATI VOWEL SIGN VOCALIC R | 1 |
+| [U+0AC4](C4.svgz) | GUJARATI VOWEL SIGN VOCALIC RR | 1 |
+| [U+0AC5](C5.svgz) | GUJARATI VOWEL SIGN CANDRA E | 1 |
+| [U+0AC7](C7.svgz) | GUJARATI VOWEL SIGN E | 1 |
+| [U+0AC8](C8.svgz) | GUJARATI VOWEL SIGN AI | 1 |
+| [U+0AC9](C9.svgz) | GUJARATI VOWEL SIGN CANDRA O | 1 |
+| [U+0ACB](CB.svgz) | GUJARATI VOWEL SIGN O | 1 |
+| [U+0ACC](CC.svgz) | GUJARATI VOWEL SIGN AU | 1 |
+| [U+0ACD](CD.svgz) | GUJARATI SIGN VIRAMA | 1 |
+| [U+0AD0](D0.svgz) | GUJARATI OM | 1 |
+| [U+0AE0](E0.svgz) | GUJARATI LETTER VOCALIC RR | 1 |
+| [U+0AE1](E1.svgz) | GUJARATI LETTER VOCALIC LL | 1 |
+| [U+0AE2](E2.svgz) | GUJARATI VOWEL SIGN VOCALIC L | 1 |
+| [U+0AE3](E3.svgz) | GUJARATI VOWEL SIGN VOCALIC LL | 1 |
+| [U+0AE6](E6.svgz) | GUJARATI DIGIT ZERO | 1 |
+| [U+0AE7](E7.svgz) | GUJARATI DIGIT ONE | 1 |
+| [U+0AE8](E8.svgz) | GUJARATI DIGIT TWO | 1 |
+| [U+0AE9](E9.svgz) | GUJARATI DIGIT THREE | 1 |
+| [U+0AEA](EA.svgz) | GUJARATI DIGIT FOUR | 1 |
+| [U+0AEB](EB.svgz) | GUJARATI DIGIT FIVE | 1 |
+| [U+0AEC](EC.svgz) | GUJARATI DIGIT SIX | 1 |
+| [U+0AED](ED.svgz) | GUJARATI DIGIT SEVEN | 1 |
+| [U+0AEE](EE.svgz) | GUJARATI DIGIT EIGHT | 1 |
+| [U+0AEF](EF.svgz) | GUJARATI DIGIT NINE | 1 |
+| [U+0AF0](F0.svgz) | GUJARATI ABBREVIATION SIGN | 1 |
+| [U+0AF1](F1.svgz) | GUJARATI RUPEE SIGN | 1 |
+| [U+0AF9](F9.svgz) | GUJARATI LETTER ZHA | 1 |
+| [U+0AFA](FA.svgz) | GUJARATI SIGN SUKUN | 1 |
+| [U+0AFB](FB.svgz) | GUJARATI SIGN SHADDA | 1 |
+| [U+0AFC](FC.svgz) | GUJARATI SIGN MADDAH | 1 |
+| [U+0AFD](FD.svgz) | GUJARATI SIGN THREE-DOT NUKTA ABOVE | 1 |
+| [U+0AFE](FE.svgz) | GUJARATI SIGN CIRCLE NUKTA ABOVE | 1 |
+| [U+0AFF](FF.svgz) | GUJARATI SIGN TWO-CIRCLE NUKTA ABOVE | 1 |

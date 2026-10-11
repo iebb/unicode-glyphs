@@ -1,0 +1,201 @@
+# U00/0C reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+0C00](00.svgz) | TELUGU SIGN COMBINING CANDRABINDU ABOVE | 1 |
+| [U+0C01](01.svgz) | TELUGU SIGN CANDRABINDU | 1 |
+| [U+0C02](02.svgz) | TELUGU SIGN ANUSVARA | 1 |
+| [U+0C03](03.svgz) | TELUGU SIGN VISARGA | 1 |
+| [U+0C04](04.svgz) | TELUGU SIGN COMBINING ANUSVARA ABOVE | 1 |
+| [U+0C05](05.svgz) | TELUGU LETTER A | 1 |
+| [U+0C06](06.svgz) | TELUGU LETTER AA | 1 |
+| [U+0C07](07.svgz) | TELUGU LETTER I | 1 |
+| [U+0C08](08.svgz) | TELUGU LETTER II | 1 |
+| [U+0C09](09.svgz) | TELUGU LETTER U | 1 |
+| [U+0C0A](0A.svgz) | TELUGU LETTER UU | 1 |
+| [U+0C0B](0B.svgz) | TELUGU LETTER VOCALIC R | 1 |
+| [U+0C0C](0C.svgz) | TELUGU LETTER VOCALIC L | 1 |
+| [U+0C0E](0E.svgz) | TELUGU LETTER E | 1 |
+| [U+0C0F](0F.svgz) | TELUGU LETTER EE | 1 |
+| [U+0C10](10.svgz) | TELUGU LETTER AI | 1 |
+| [U+0C12](12.svgz) | TELUGU LETTER O | 1 |
+| [U+0C13](13.svgz) | TELUGU LETTER OO | 1 |
+| [U+0C14](14.svgz) | TELUGU LETTER AU | 1 |
+| [U+0C15](15.svgz) | TELUGU LETTER KA | 1 |
+| [U+0C16](16.svgz) | TELUGU LETTER KHA | 1 |
+| [U+0C17](17.svgz) | TELUGU LETTER GA | 1 |
+| [U+0C18](18.svgz) | TELUGU LETTER GHA | 1 |
+| [U+0C19](19.svgz) | TELUGU LETTER NGA | 1 |
+| [U+0C1A](1A.svgz) | TELUGU LETTER CA | 1 |
+| [U+0C1B](1B.svgz) | TELUGU LETTER CHA | 1 |
+| [U+0C1C](1C.svgz) | TELUGU LETTER JA | 1 |
+| [U+0C1D](1D.svgz) | TELUGU LETTER JHA | 1 |
+| [U+0C1E](1E.svgz) | TELUGU LETTER NYA | 1 |
+| [U+0C1F](1F.svgz) | TELUGU LETTER TTA | 1 |
+| [U+0C20](20.svgz) | TELUGU LETTER TTHA | 1 |
+| [U+0C21](21.svgz) | TELUGU LETTER DDA | 1 |
+| [U+0C22](22.svgz) | TELUGU LETTER DDHA | 1 |
+| [U+0C23](23.svgz) | TELUGU LETTER NNA | 1 |
+| [U+0C24](24.svgz) | TELUGU LETTER TA | 1 |
+| [U+0C25](25.svgz) | TELUGU LETTER THA | 1 |
+| [U+0C26](26.svgz) | TELUGU LETTER DA | 1 |
+| [U+0C27](27.svgz) | TELUGU LETTER DHA | 1 |
+| [U+0C28](28.svgz) | TELUGU LETTER NA | 1 |
+| [U+0C2A](2A.svgz) | TELUGU LETTER PA | 1 |
+| [U+0C2B](2B.svgz) | TELUGU LETTER PHA | 1 |
+| [U+0C2C](2C.svgz) | TELUGU LETTER BA | 1 |
+| [U+0C2D](2D.svgz) | TELUGU LETTER BHA | 1 |
+| [U+0C2E](2E.svgz) | TELUGU LETTER MA | 1 |
+| [U+0C2F](2F.svgz) | TELUGU LETTER YA | 1 |
+| [U+0C30](30.svgz) | TELUGU LETTER RA | 1 |
+| [U+0C31](31.svgz) | TELUGU LETTER RRA | 1 |
+| [U+0C32](32.svgz) | TELUGU LETTER LA | 1 |
+| [U+0C33](33.svgz) | TELUGU LETTER LLA | 1 |
+| [U+0C34](34.svgz) | TELUGU LETTER LLLA | 1 |
+| [U+0C35](35.svgz) | TELUGU LETTER VA | 1 |
+| [U+0C36](36.svgz) | TELUGU LETTER SHA | 1 |
+| [U+0C37](37.svgz) | TELUGU LETTER SSA | 1 |
+| [U+0C38](38.svgz) | TELUGU LETTER SA | 1 |
+| [U+0C39](39.svgz) | TELUGU LETTER HA | 1 |
+| [U+0C3C](3C.svgz) | TELUGU SIGN NUKTA | 1 |
+| [U+0C3D](3D.svgz) | TELUGU SIGN AVAGRAHA | 1 |
+| [U+0C3E](3E.svgz) | TELUGU VOWEL SIGN AA | 1 |
+| [U+0C3F](3F.svgz) | TELUGU VOWEL SIGN I | 1 |
+| [U+0C40](40.svgz) | TELUGU VOWEL SIGN II | 1 |
+| [U+0C41](41.svgz) | TELUGU VOWEL SIGN U | 1 |
+| [U+0C42](42.svgz) | TELUGU VOWEL SIGN UU | 1 |
+| [U+0C43](43.svgz) | TELUGU VOWEL SIGN VOCALIC R | 1 |
+| [U+0C44](44.svgz) | TELUGU VOWEL SIGN VOCALIC RR | 1 |
+| [U+0C46](46.svgz) | TELUGU VOWEL SIGN E | 1 |
+| [U+0C47](47.svgz) | TELUGU VOWEL SIGN EE | 1 |
+| [U+0C48](48.svgz) | TELUGU VOWEL SIGN AI | 1 |
+| [U+0C4A](4A.svgz) | TELUGU VOWEL SIGN O | 1 |
+| [U+0C4B](4B.svgz) | TELUGU VOWEL SIGN OO | 1 |
+| [U+0C4C](4C.svgz) | TELUGU VOWEL SIGN AU | 1 |
+| [U+0C4D](4D.svgz) | TELUGU SIGN VIRAMA | 1 |
+| [U+0C55](55.svgz) | TELUGU LENGTH MARK | 1 |
+| [U+0C56](56.svgz) | TELUGU AI LENGTH MARK | 1 |
+| [U+0C58](58.svgz) | TELUGU LETTER TSA | 1 |
+| [U+0C59](59.svgz) | TELUGU LETTER DZA | 1 |
+| [U+0C5A](5A.svgz) | TELUGU LETTER RRRA | 1 |
+| [U+0C5C](5C.svgz) | TELUGU ARCHAIC SHRII | 1 |
+| [U+0C5D](5D.svgz) | TELUGU LETTER NAKAARA POLLU | 1 |
+| [U+0C60](60.svgz) | TELUGU LETTER VOCALIC RR | 1 |
+| [U+0C61](61.svgz) | TELUGU LETTER VOCALIC LL | 1 |
+| [U+0C62](62.svgz) | TELUGU VOWEL SIGN VOCALIC L | 1 |
+| [U+0C63](63.svgz) | TELUGU VOWEL SIGN VOCALIC LL | 1 |
+| [U+0C66](66.svgz) | TELUGU DIGIT ZERO | 1 |
+| [U+0C67](67.svgz) | TELUGU DIGIT ONE | 1 |
+| [U+0C68](68.svgz) | TELUGU DIGIT TWO | 1 |
+| [U+0C69](69.svgz) | TELUGU DIGIT THREE | 1 |
+| [U+0C6A](6A.svgz) | TELUGU DIGIT FOUR | 1 |
+| [U+0C6B](6B.svgz) | TELUGU DIGIT FIVE | 1 |
+| [U+0C6C](6C.svgz) | TELUGU DIGIT SIX | 1 |
+| [U+0C6D](6D.svgz) | TELUGU DIGIT SEVEN | 1 |
+| [U+0C6E](6E.svgz) | TELUGU DIGIT EIGHT | 1 |
+| [U+0C6F](6F.svgz) | TELUGU DIGIT NINE | 1 |
+| [U+0C77](77.svgz) | TELUGU SIGN SIDDHAM | 1 |
+| [U+0C78](78.svgz) | TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR | 1 |
+| [U+0C79](79.svgz) | TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR | 1 |
+| [U+0C7A](7A.svgz) | TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR | 1 |
+| [U+0C7B](7B.svgz) | TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR | 1 |
+| [U+0C7C](7C.svgz) | TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR | 1 |
+| [U+0C7D](7D.svgz) | TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR | 1 |
+| [U+0C7E](7E.svgz) | TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR | 1 |
+| [U+0C7F](7F.svgz) | TELUGU SIGN TUUMU | 1 |
+| [U+0C80](80.svgz) | KANNADA SIGN SPACING CANDRABINDU | 1 |
+| [U+0C81](81.svgz) | KANNADA SIGN CANDRABINDU | 1 |
+| [U+0C82](82.svgz) | KANNADA SIGN ANUSVARA | 1 |
+| [U+0C83](83.svgz) | KANNADA SIGN VISARGA | 1 |
+| [U+0C84](84.svgz) | KANNADA SIGN SIDDHAM | 1 |
+| [U+0C85](85.svgz) | KANNADA LETTER A | 1 |
+| [U+0C86](86.svgz) | KANNADA LETTER AA | 1 |
+| [U+0C87](87.svgz) | KANNADA LETTER I | 1 |
+| [U+0C88](88.svgz) | KANNADA LETTER II | 1 |
+| [U+0C89](89.svgz) | KANNADA LETTER U | 1 |
+| [U+0C8A](8A.svgz) | KANNADA LETTER UU | 1 |
+| [U+0C8B](8B.svgz) | KANNADA LETTER VOCALIC R | 1 |
+| [U+0C8C](8C.svgz) | KANNADA LETTER VOCALIC L | 1 |
+| [U+0C8E](8E.svgz) | KANNADA LETTER E | 1 |
+| [U+0C8F](8F.svgz) | KANNADA LETTER EE | 1 |
+| [U+0C90](90.svgz) | KANNADA LETTER AI | 1 |
+| [U+0C92](92.svgz) | KANNADA LETTER O | 1 |
+| [U+0C93](93.svgz) | KANNADA LETTER OO | 1 |
+| [U+0C94](94.svgz) | KANNADA LETTER AU | 1 |
+| [U+0C95](95.svgz) | KANNADA LETTER KA | 1 |
+| [U+0C96](96.svgz) | KANNADA LETTER KHA | 1 |
+| [U+0C97](97.svgz) | KANNADA LETTER GA | 1 |
+| [U+0C98](98.svgz) | KANNADA LETTER GHA | 1 |
+| [U+0C99](99.svgz) | KANNADA LETTER NGA | 1 |
+| [U+0C9A](9A.svgz) | KANNADA LETTER CA | 1 |
+| [U+0C9B](9B.svgz) | KANNADA LETTER CHA | 1 |
+| [U+0C9C](9C.svgz) | KANNADA LETTER JA | 1 |
+| [U+0C9D](9D.svgz) | KANNADA LETTER JHA | 1 |
+| [U+0C9E](9E.svgz) | KANNADA LETTER NYA | 1 |
+| [U+0C9F](9F.svgz) | KANNADA LETTER TTA | 1 |
+| [U+0CA0](A0.svgz) | KANNADA LETTER TTHA | 1 |
+| [U+0CA1](A1.svgz) | KANNADA LETTER DDA | 1 |
+| [U+0CA2](A2.svgz) | KANNADA LETTER DDHA | 1 |
+| [U+0CA3](A3.svgz) | KANNADA LETTER NNA | 1 |
+| [U+0CA4](A4.svgz) | KANNADA LETTER TA | 1 |
+| [U+0CA5](A5.svgz) | KANNADA LETTER THA | 1 |
+| [U+0CA6](A6.svgz) | KANNADA LETTER DA | 1 |
+| [U+0CA7](A7.svgz) | KANNADA LETTER DHA | 1 |
+| [U+0CA8](A8.svgz) | KANNADA LETTER NA | 1 |
+| [U+0CAA](AA.svgz) | KANNADA LETTER PA | 1 |
+| [U+0CAB](AB.svgz) | KANNADA LETTER PHA | 1 |
+| [U+0CAC](AC.svgz) | KANNADA LETTER BA | 1 |
+| [U+0CAD](AD.svgz) | KANNADA LETTER BHA | 1 |
+| [U+0CAE](AE.svgz) | KANNADA LETTER MA | 1 |
+| [U+0CAF](AF.svgz) | KANNADA LETTER YA | 1 |
+| [U+0CB0](B0.svgz) | KANNADA LETTER RA | 1 |
+| [U+0CB1](B1.svgz) | KANNADA LETTER RRA | 1 |
+| [U+0CB2](B2.svgz) | KANNADA LETTER LA | 1 |
+| [U+0CB3](B3.svgz) | KANNADA LETTER LLA | 1 |
+| [U+0CB5](B5.svgz) | KANNADA LETTER VA | 1 |
+| [U+0CB6](B6.svgz) | KANNADA LETTER SHA | 1 |
+| [U+0CB7](B7.svgz) | KANNADA LETTER SSA | 1 |
+| [U+0CB8](B8.svgz) | KANNADA LETTER SA | 1 |
+| [U+0CB9](B9.svgz) | KANNADA LETTER HA | 1 |
+| [U+0CBC](BC.svgz) | KANNADA SIGN NUKTA | 1 |
+| [U+0CBD](BD.svgz) | KANNADA SIGN AVAGRAHA | 1 |
+| [U+0CBE](BE.svgz) | KANNADA VOWEL SIGN AA | 1 |
+| [U+0CBF](BF.svgz) | KANNADA VOWEL SIGN I | 1 |
+| [U+0CC0](C0.svgz) | KANNADA VOWEL SIGN II | 1 |
+| [U+0CC1](C1.svgz) | KANNADA VOWEL SIGN U | 1 |
+| [U+0CC2](C2.svgz) | KANNADA VOWEL SIGN UU | 1 |
+| [U+0CC3](C3.svgz) | KANNADA VOWEL SIGN VOCALIC R | 1 |
+| [U+0CC4](C4.svgz) | KANNADA VOWEL SIGN VOCALIC RR | 1 |
+| [U+0CC6](C6.svgz) | KANNADA VOWEL SIGN E | 1 |
+| [U+0CC7](C7.svgz) | KANNADA VOWEL SIGN EE | 1 |
+| [U+0CC8](C8.svgz) | KANNADA VOWEL SIGN AI | 1 |
+| [U+0CCA](CA.svgz) | KANNADA VOWEL SIGN O | 1 |
+| [U+0CCB](CB.svgz) | KANNADA VOWEL SIGN OO | 1 |
+| [U+0CCC](CC.svgz) | KANNADA VOWEL SIGN AU | 1 |
+| [U+0CCD](CD.svgz) | KANNADA SIGN VIRAMA | 1 |
+| [U+0CD5](D5.svgz) | KANNADA LENGTH MARK | 1 |
+| [U+0CD6](D6.svgz) | KANNADA AI LENGTH MARK | 1 |
+| [U+0CDC](DC.svgz) | KANNADA ARCHAIC SHRII | 1 |
+| [U+0CDD](DD.svgz) | KANNADA LETTER NAKAARA POLLU | 1 |
+| [U+0CDE](DE.svgz) | KANNADA LETTER FA | 1 |
+| [U+0CE0](E0.svgz) | KANNADA LETTER VOCALIC RR | 1 |
+| [U+0CE1](E1.svgz) | KANNADA LETTER VOCALIC LL | 1 |
+| [U+0CE2](E2.svgz) | KANNADA VOWEL SIGN VOCALIC L | 1 |
+| [U+0CE3](E3.svgz) | KANNADA VOWEL SIGN VOCALIC LL | 1 |
+| [U+0CE6](E6.svgz) | KANNADA DIGIT ZERO | 1 |
+| [U+0CE7](E7.svgz) | KANNADA DIGIT ONE | 1 |
+| [U+0CE8](E8.svgz) | KANNADA DIGIT TWO | 1 |
+| [U+0CE9](E9.svgz) | KANNADA DIGIT THREE | 1 |
+| [U+0CEA](EA.svgz) | KANNADA DIGIT FOUR | 1 |
+| [U+0CEB](EB.svgz) | KANNADA DIGIT FIVE | 1 |
+| [U+0CEC](EC.svgz) | KANNADA DIGIT SIX | 1 |
+| [U+0CED](ED.svgz) | KANNADA DIGIT SEVEN | 1 |
+| [U+0CEE](EE.svgz) | KANNADA DIGIT EIGHT | 1 |
+| [U+0CEF](EF.svgz) | KANNADA DIGIT NINE | 1 |
+| [U+0CF1](F1.svgz) | KANNADA SIGN JIHVAMULIYA | 1 |
+| [U+0CF2](F2.svgz) | KANNADA SIGN UPADHMANIYA | 1 |
+| [U+0CF3](F3.svgz) | KANNADA SIGN COMBINING ANUSVARA ABOVE RIGHT | 1 |

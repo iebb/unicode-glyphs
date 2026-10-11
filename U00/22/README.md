@@ -1,0 +1,264 @@
+# U00/22 reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+2200](00.svgz) | FOR ALL | 1 |
+| [U+2201](01.svgz) | COMPLEMENT | 1 |
+| [U+2202](02.svgz) | PARTIAL DIFFERENTIAL | 1 |
+| [U+2203](03.svgz) | THERE EXISTS | 1 |
+| [U+2204](04.svgz) | THERE DOES NOT EXIST | 1 |
+| [U+2205](05/) | EMPTY SET | 3 |
+| [U+2206](06.svgz) | INCREMENT | 1 |
+| [U+2207](07.svgz) | NABLA | 1 |
+| [U+2208](08.svgz) | ELEMENT OF | 1 |
+| [U+2209](09.svgz) | NOT AN ELEMENT OF | 1 |
+| [U+220A](0A.svgz) | SMALL ELEMENT OF | 1 |
+| [U+220B](0B.svgz) | CONTAINS AS MEMBER | 1 |
+| [U+220C](0C.svgz) | DOES NOT CONTAIN AS MEMBER | 1 |
+| [U+220D](0D.svgz) | SMALL CONTAINS AS MEMBER | 1 |
+| [U+220E](0E.svgz) | END OF PROOF | 1 |
+| [U+220F](0F.svgz) | N-ARY PRODUCT | 1 |
+| [U+2210](10.svgz) | N-ARY COPRODUCT | 1 |
+| [U+2211](11.svgz) | N-ARY SUMMATION | 1 |
+| [U+2212](12.svgz) | MINUS SIGN | 1 |
+| [U+2213](13.svgz) | MINUS-OR-PLUS SIGN | 1 |
+| [U+2214](14.svgz) | DOT PLUS | 1 |
+| [U+2215](15.svgz) | DIVISION SLASH | 1 |
+| [U+2216](16.svgz) | SET MINUS | 1 |
+| [U+2217](17.svgz) | ASTERISK OPERATOR | 1 |
+| [U+2218](18.svgz) | RING OPERATOR | 1 |
+| [U+2219](19.svgz) | BULLET OPERATOR | 1 |
+| [U+221A](1A.svgz) | SQUARE ROOT | 1 |
+| [U+221B](1B.svgz) | CUBE ROOT | 1 |
+| [U+221C](1C.svgz) | FOURTH ROOT | 1 |
+| [U+221D](1D.svgz) | PROPORTIONAL TO | 1 |
+| [U+221E](1E.svgz) | INFINITY | 1 |
+| [U+221F](1F.svgz) | RIGHT ANGLE | 1 |
+| [U+2220](20.svgz) | ANGLE | 1 |
+| [U+2221](21.svgz) | MEASURED ANGLE | 1 |
+| [U+2222](22.svgz) | SPHERICAL ANGLE | 1 |
+| [U+2223](23.svgz) | DIVIDES | 1 |
+| [U+2224](24.svgz) | DOES NOT DIVIDE | 1 |
+| [U+2225](25.svgz) | PARALLEL TO | 1 |
+| [U+2226](26.svgz) | NOT PARALLEL TO | 1 |
+| [U+2227](27.svgz) | LOGICAL AND | 1 |
+| [U+2228](28.svgz) | LOGICAL OR | 1 |
+| [U+2229](29/) | INTERSECTION | 3 |
+| [U+222A](2A/) | UNION | 3 |
+| [U+222B](2B.svgz) | INTEGRAL | 1 |
+| [U+222C](2C.svgz) | DOUBLE INTEGRAL | 1 |
+| [U+222D](2D.svgz) | TRIPLE INTEGRAL | 1 |
+| [U+222E](2E.svgz) | CONTOUR INTEGRAL | 1 |
+| [U+222F](2F.svgz) | SURFACE INTEGRAL | 1 |
+| [U+2230](30.svgz) | VOLUME INTEGRAL | 1 |
+| [U+2231](31.svgz) | CLOCKWISE INTEGRAL | 1 |
+| [U+2232](32.svgz) | CLOCKWISE CONTOUR INTEGRAL | 1 |
+| [U+2233](33.svgz) | ANTICLOCKWISE CONTOUR INTEGRAL | 1 |
+| [U+2234](34.svgz) | THEREFORE | 1 |
+| [U+2235](35.svgz) | BECAUSE | 1 |
+| [U+2236](36.svgz) | RATIO | 1 |
+| [U+2237](37.svgz) | PROPORTION | 1 |
+| [U+2238](38.svgz) | DOT MINUS | 1 |
+| [U+2239](39.svgz) | EXCESS | 1 |
+| [U+223A](3A.svgz) | GEOMETRIC PROPORTION | 1 |
+| [U+223B](3B.svgz) | HOMOTHETIC | 1 |
+| [U+223C](3C.svgz) | TILDE OPERATOR | 1 |
+| [U+223D](3D/) | REVERSED TILDE | 3 |
+| [U+223E](3E.svgz) | INVERTED LAZY S | 1 |
+| [U+223F](3F.svgz) | SINE WAVE | 1 |
+| [U+2240](40.svgz) | WREATH PRODUCT | 1 |
+| [U+2241](41.svgz) | NOT TILDE | 1 |
+| [U+2242](42/) | MINUS TILDE | 3 |
+| [U+2243](43/) | ASYMPTOTICALLY EQUAL TO | 3 |
+| [U+2244](44.svgz) | NOT ASYMPTOTICALLY EQUAL TO | 1 |
+| [U+2245](45.svgz) | APPROXIMATELY EQUAL TO | 1 |
+| [U+2246](46.svgz) | APPROXIMATELY BUT NOT ACTUALLY EQUAL TO | 1 |
+| [U+2247](47.svgz) | NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO | 1 |
+| [U+2248](48/) | ALMOST EQUAL TO | 3 |
+| [U+2249](49.svgz) | NOT ALMOST EQUAL TO | 1 |
+| [U+224A](4A.svgz) | ALMOST EQUAL OR EQUAL TO | 1 |
+| [U+224B](4B.svgz) | TRIPLE TILDE | 1 |
+| [U+224C](4C.svgz) | ALL EQUAL TO | 1 |
+| [U+224D](4D.svgz) | EQUIVALENT TO | 1 |
+| [U+224E](4E.svgz) | GEOMETRICALLY EQUIVALENT TO | 1 |
+| [U+224F](4F.svgz) | DIFFERENCE BETWEEN | 1 |
+| [U+2250](50.svgz) | APPROACHES THE LIMIT | 1 |
+| [U+2251](51.svgz) | GEOMETRICALLY EQUAL TO | 1 |
+| [U+2252](52.svgz) | APPROXIMATELY EQUAL TO OR THE IMAGE OF | 1 |
+| [U+2253](53.svgz) | IMAGE OF OR APPROXIMATELY EQUAL TO | 1 |
+| [U+2254](54.svgz) | COLON EQUALS | 1 |
+| [U+2255](55.svgz) | EQUALS COLON | 1 |
+| [U+2256](56.svgz) | RING IN EQUAL TO | 1 |
+| [U+2257](57.svgz) | RING EQUAL TO | 1 |
+| [U+2258](58.svgz) | CORRESPONDS TO | 1 |
+| [U+2259](59.svgz) | ESTIMATES | 1 |
+| [U+225A](5A.svgz) | EQUIANGULAR TO | 1 |
+| [U+225B](5B.svgz) | STAR EQUALS | 1 |
+| [U+225C](5C.svgz) | DELTA EQUAL TO | 1 |
+| [U+225D](5D.svgz) | EQUAL TO BY DEFINITION | 1 |
+| [U+225E](5E.svgz) | MEASURED BY | 1 |
+| [U+225F](5F.svgz) | QUESTIONED EQUAL TO | 1 |
+| [U+2260](60.svgz) | NOT EQUAL TO | 1 |
+| [U+2261](61.svgz) | IDENTICAL TO | 1 |
+| [U+2262](62.svgz) | NOT IDENTICAL TO | 1 |
+| [U+2263](63.svgz) | STRICTLY EQUIVALENT TO | 1 |
+| [U+2264](64.svgz) | LESS-THAN OR EQUAL TO | 1 |
+| [U+2265](65.svgz) | GREATER-THAN OR EQUAL TO | 1 |
+| [U+2266](66.svgz) | LESS-THAN OVER EQUAL TO | 1 |
+| [U+2267](67.svgz) | GREATER-THAN OVER EQUAL TO | 1 |
+| [U+2268](68/) | LESS-THAN BUT NOT EQUAL TO | 3 |
+| [U+2269](69/) | GREATER-THAN BUT NOT EQUAL TO | 3 |
+| [U+226A](6A.svgz) | MUCH LESS-THAN | 1 |
+| [U+226B](6B.svgz) | MUCH GREATER-THAN | 1 |
+| [U+226C](6C.svgz) | BETWEEN | 1 |
+| [U+226D](6D.svgz) | NOT EQUIVALENT TO | 1 |
+| [U+226E](6E.svgz) | NOT LESS-THAN | 1 |
+| [U+226F](6F.svgz) | NOT GREATER-THAN | 1 |
+| [U+2270](70.svgz) | NEITHER LESS-THAN NOR EQUAL TO | 1 |
+| [U+2271](71.svgz) | NEITHER GREATER-THAN NOR EQUAL TO | 1 |
+| [U+2272](72/) | LESS-THAN OR EQUIVALENT TO | 3 |
+| [U+2273](73/) | GREATER-THAN OR EQUIVALENT TO | 3 |
+| [U+2274](74.svgz) | NEITHER LESS-THAN NOR EQUIVALENT TO | 1 |
+| [U+2275](75.svgz) | NEITHER GREATER-THAN NOR EQUIVALENT TO | 1 |
+| [U+2276](76.svgz) | LESS-THAN OR GREATER-THAN | 1 |
+| [U+2277](77.svgz) | GREATER-THAN OR LESS-THAN | 1 |
+| [U+2278](78.svgz) | NEITHER LESS-THAN NOR GREATER-THAN | 1 |
+| [U+2279](79.svgz) | NEITHER GREATER-THAN NOR LESS-THAN | 1 |
+| [U+227A](7A.svgz) | PRECEDES | 1 |
+| [U+227B](7B.svgz) | SUCCEEDS | 1 |
+| [U+227C](7C.svgz) | PRECEDES OR EQUAL TO | 1 |
+| [U+227D](7D.svgz) | SUCCEEDS OR EQUAL TO | 1 |
+| [U+227E](7E.svgz) | PRECEDES OR EQUIVALENT TO | 1 |
+| [U+227F](7F.svgz) | SUCCEEDS OR EQUIVALENT TO | 1 |
+| [U+2280](80.svgz) | DOES NOT PRECEDE | 1 |
+| [U+2281](81.svgz) | DOES NOT SUCCEED | 1 |
+| [U+2282](82.svgz) | SUBSET OF | 1 |
+| [U+2283](83.svgz) | SUPERSET OF | 1 |
+| [U+2284](84.svgz) | NOT A SUBSET OF | 1 |
+| [U+2285](85.svgz) | NOT A SUPERSET OF | 1 |
+| [U+2286](86.svgz) | SUBSET OF OR EQUAL TO | 1 |
+| [U+2287](87.svgz) | SUPERSET OF OR EQUAL TO | 1 |
+| [U+2288](88.svgz) | NEITHER A SUBSET OF NOR EQUAL TO | 1 |
+| [U+2289](89.svgz) | NEITHER A SUPERSET OF NOR EQUAL TO | 1 |
+| [U+228A](8A/) | SUBSET OF WITH NOT EQUAL TO | 3 |
+| [U+228B](8B/) | SUPERSET OF WITH NOT EQUAL TO | 3 |
+| [U+228C](8C.svgz) | MULTISET | 1 |
+| [U+228D](8D.svgz) | MULTISET MULTIPLICATION | 1 |
+| [U+228E](8E.svgz) | MULTISET UNION | 1 |
+| [U+228F](8F.svgz) | SQUARE IMAGE OF | 1 |
+| [U+2290](90.svgz) | SQUARE ORIGINAL OF | 1 |
+| [U+2291](91.svgz) | SQUARE IMAGE OF OR EQUAL TO | 1 |
+| [U+2292](92.svgz) | SQUARE ORIGINAL OF OR EQUAL TO | 1 |
+| [U+2293](93/) | SQUARE CAP | 3 |
+| [U+2294](94/) | SQUARE CUP | 3 |
+| [U+2295](95/) | CIRCLED PLUS | 3 |
+| [U+2296](96.svgz) | CIRCLED MINUS | 1 |
+| [U+2297](97/) | CIRCLED TIMES | 3 |
+| [U+2298](98.svgz) | CIRCLED DIVISION SLASH | 1 |
+| [U+2299](99.svgz) | CIRCLED DOT OPERATOR | 1 |
+| [U+229A](9A.svgz) | CIRCLED RING OPERATOR | 1 |
+| [U+229B](9B.svgz) | CIRCLED ASTERISK OPERATOR | 1 |
+| [U+229C](9C/) | CIRCLED EQUALS | 3 |
+| [U+229D](9D.svgz) | CIRCLED DASH | 1 |
+| [U+229E](9E.svgz) | SQUARED PLUS | 1 |
+| [U+229F](9F.svgz) | SQUARED MINUS | 1 |
+| [U+22A0](A0.svgz) | SQUARED TIMES | 1 |
+| [U+22A1](A1.svgz) | SQUARED DOT OPERATOR | 1 |
+| [U+22A2](A2.svgz) | RIGHT TACK | 1 |
+| [U+22A3](A3.svgz) | LEFT TACK | 1 |
+| [U+22A4](A4.svgz) | DOWN TACK | 1 |
+| [U+22A5](A5.svgz) | UP TACK | 1 |
+| [U+22A6](A6.svgz) | ASSERTION | 1 |
+| [U+22A7](A7.svgz) | MODELS | 1 |
+| [U+22A8](A8.svgz) | TRUE | 1 |
+| [U+22A9](A9.svgz) | FORCES | 1 |
+| [U+22AA](AA.svgz) | TRIPLE VERTICAL BAR RIGHT TURNSTILE | 1 |
+| [U+22AB](AB.svgz) | DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE | 1 |
+| [U+22AC](AC.svgz) | DOES NOT PROVE | 1 |
+| [U+22AD](AD.svgz) | NOT TRUE | 1 |
+| [U+22AE](AE.svgz) | DOES NOT FORCE | 1 |
+| [U+22AF](AF.svgz) | NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE | 1 |
+| [U+22B0](B0.svgz) | PRECEDES UNDER RELATION | 1 |
+| [U+22B1](B1.svgz) | SUCCEEDS UNDER RELATION | 1 |
+| [U+22B2](B2.svgz) | NORMAL SUBGROUP OF | 1 |
+| [U+22B3](B3.svgz) | CONTAINS AS NORMAL SUBGROUP | 1 |
+| [U+22B4](B4.svgz) | NORMAL SUBGROUP OF OR EQUAL TO | 1 |
+| [U+22B5](B5.svgz) | CONTAINS AS NORMAL SUBGROUP OR EQUAL TO | 1 |
+| [U+22B6](B6.svgz) | ORIGINAL OF | 1 |
+| [U+22B7](B7.svgz) | IMAGE OF | 1 |
+| [U+22B8](B8.svgz) | MULTIMAP | 1 |
+| [U+22B9](B9.svgz) | HERMITIAN CONJUGATE MATRIX | 1 |
+| [U+22BA](BA.svgz) | INTERCALATE | 1 |
+| [U+22BB](BB.svgz) | XOR | 1 |
+| [U+22BC](BC.svgz) | NAND | 1 |
+| [U+22BD](BD.svgz) | NOR | 1 |
+| [U+22BE](BE.svgz) | RIGHT ANGLE WITH ARC | 1 |
+| [U+22BF](BF.svgz) | RIGHT TRIANGLE | 1 |
+| [U+22C0](C0.svgz) | N-ARY LOGICAL AND | 1 |
+| [U+22C1](C1.svgz) | N-ARY LOGICAL OR | 1 |
+| [U+22C2](C2.svgz) | N-ARY INTERSECTION | 1 |
+| [U+22C3](C3.svgz) | N-ARY UNION | 1 |
+| [U+22C4](C4.svgz) | DIAMOND OPERATOR | 1 |
+| [U+22C5](C5.svgz) | DOT OPERATOR | 1 |
+| [U+22C6](C6.svgz) | STAR OPERATOR | 1 |
+| [U+22C7](C7.svgz) | DIVISION TIMES | 1 |
+| [U+22C8](C8.svgz) | BOWTIE | 1 |
+| [U+22C9](C9.svgz) | LEFT NORMAL FACTOR SEMIDIRECT PRODUCT | 1 |
+| [U+22CA](CA.svgz) | RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT | 1 |
+| [U+22CB](CB.svgz) | LEFT SEMIDIRECT PRODUCT | 1 |
+| [U+22CC](CC.svgz) | RIGHT SEMIDIRECT PRODUCT | 1 |
+| [U+22CD](CD/) | REVERSED TILDE EQUALS | 3 |
+| [U+22CE](CE.svgz) | CURLY LOGICAL OR | 1 |
+| [U+22CF](CF.svgz) | CURLY LOGICAL AND | 1 |
+| [U+22D0](D0.svgz) | DOUBLE SUBSET | 1 |
+| [U+22D1](D1.svgz) | DOUBLE SUPERSET | 1 |
+| [U+22D2](D2.svgz) | DOUBLE INTERSECTION | 1 |
+| [U+22D3](D3.svgz) | DOUBLE UNION | 1 |
+| [U+22D4](D4.svgz) | PITCHFORK | 1 |
+| [U+22D5](D5.svgz) | EQUAL AND PARALLEL TO | 1 |
+| [U+22D6](D6.svgz) | LESS-THAN WITH DOT | 1 |
+| [U+22D7](D7.svgz) | GREATER-THAN WITH DOT | 1 |
+| [U+22D8](D8.svgz) | VERY MUCH LESS-THAN | 1 |
+| [U+22D9](D9.svgz) | VERY MUCH GREATER-THAN | 1 |
+| [U+22DA](DA/) | LESS-THAN EQUAL TO OR GREATER-THAN | 3 |
+| [U+22DB](DB/) | GREATER-THAN EQUAL TO OR LESS-THAN | 3 |
+| [U+22DC](DC/) | EQUAL TO OR LESS-THAN | 3 |
+| [U+22DD](DD/) | EQUAL TO OR GREATER-THAN | 3 |
+| [U+22DE](DE.svgz) | EQUAL TO OR PRECEDES | 1 |
+| [U+22DF](DF.svgz) | EQUAL TO OR SUCCEEDS | 1 |
+| [U+22E0](E0.svgz) | DOES NOT PRECEDE OR EQUAL | 1 |
+| [U+22E1](E1.svgz) | DOES NOT SUCCEED OR EQUAL | 1 |
+| [U+22E2](E2.svgz) | NOT SQUARE IMAGE OF OR EQUAL TO | 1 |
+| [U+22E3](E3.svgz) | NOT SQUARE ORIGINAL OF OR EQUAL TO | 1 |
+| [U+22E4](E4.svgz) | SQUARE IMAGE OF OR NOT EQUAL TO | 1 |
+| [U+22E5](E5.svgz) | SQUARE ORIGINAL OF OR NOT EQUAL TO | 1 |
+| [U+22E6](E6.svgz) | LESS-THAN BUT NOT EQUIVALENT TO | 1 |
+| [U+22E7](E7.svgz) | GREATER-THAN BUT NOT EQUIVALENT TO | 1 |
+| [U+22E8](E8.svgz) | PRECEDES BUT NOT EQUIVALENT TO | 1 |
+| [U+22E9](E9.svgz) | SUCCEEDS BUT NOT EQUIVALENT TO | 1 |
+| [U+22EA](EA.svgz) | NOT NORMAL SUBGROUP OF | 1 |
+| [U+22EB](EB.svgz) | DOES NOT CONTAIN AS NORMAL SUBGROUP | 1 |
+| [U+22EC](EC.svgz) | NOT NORMAL SUBGROUP OF OR EQUAL TO | 1 |
+| [U+22ED](ED.svgz) | DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL | 1 |
+| [U+22EE](EE.svgz) | VERTICAL ELLIPSIS | 1 |
+| [U+22EF](EF.svgz) | MIDLINE HORIZONTAL ELLIPSIS | 1 |
+| [U+22F0](F0.svgz) | UP RIGHT DIAGONAL ELLIPSIS | 1 |
+| [U+22F1](F1.svgz) | DOWN RIGHT DIAGONAL ELLIPSIS | 1 |
+| [U+22F2](F2.svgz) | ELEMENT OF WITH LONG HORIZONTAL STROKE | 1 |
+| [U+22F3](F3.svgz) | ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE | 1 |
+| [U+22F4](F4.svgz) | SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE | 1 |
+| [U+22F5](F5.svgz) | ELEMENT OF WITH DOT ABOVE | 1 |
+| [U+22F6](F6.svgz) | ELEMENT OF WITH OVERBAR | 1 |
+| [U+22F7](F7.svgz) | SMALL ELEMENT OF WITH OVERBAR | 1 |
+| [U+22F8](F8.svgz) | ELEMENT OF WITH UNDERBAR | 1 |
+| [U+22F9](F9.svgz) | ELEMENT OF WITH TWO HORIZONTAL STROKES | 1 |
+| [U+22FA](FA.svgz) | CONTAINS WITH LONG HORIZONTAL STROKE | 1 |
+| [U+22FB](FB.svgz) | CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE | 1 |
+| [U+22FC](FC.svgz) | SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE | 1 |
+| [U+22FD](FD.svgz) | CONTAINS WITH OVERBAR | 1 |
+| [U+22FE](FE.svgz) | SMALL CONTAINS WITH OVERBAR | 1 |
+| [U+22FF](FF.svgz) | Z NOTATION BAG MEMBERSHIP | 1 |

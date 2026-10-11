@@ -1,0 +1,264 @@
+# U00/33 reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+3300](00.svgz) | SQUARE APAATO | 1 |
+| [U+3301](01.svgz) | SQUARE ARUHUA | 1 |
+| [U+3302](02.svgz) | SQUARE ANPEA | 1 |
+| [U+3303](03.svgz) | SQUARE AARU | 1 |
+| [U+3304](04.svgz) | SQUARE ININGU | 1 |
+| [U+3305](05.svgz) | SQUARE INTI | 1 |
+| [U+3306](06.svgz) | SQUARE UON | 1 |
+| [U+3307](07.svgz) | SQUARE ESUKUUDO | 1 |
+| [U+3308](08.svgz) | SQUARE EEKAA | 1 |
+| [U+3309](09.svgz) | SQUARE ONSU | 1 |
+| [U+330A](0A.svgz) | SQUARE OOMU | 1 |
+| [U+330B](0B.svgz) | SQUARE KAIRI | 1 |
+| [U+330C](0C.svgz) | SQUARE KARATTO | 1 |
+| [U+330D](0D.svgz) | SQUARE KARORII | 1 |
+| [U+330E](0E.svgz) | SQUARE GARON | 1 |
+| [U+330F](0F.svgz) | SQUARE GANMA | 1 |
+| [U+3310](10.svgz) | SQUARE GIGA | 1 |
+| [U+3311](11.svgz) | SQUARE GINII | 1 |
+| [U+3312](12.svgz) | SQUARE KYURII | 1 |
+| [U+3313](13.svgz) | SQUARE GIRUDAA | 1 |
+| [U+3314](14.svgz) | SQUARE KIRO | 1 |
+| [U+3315](15.svgz) | SQUARE KIROGURAMU | 1 |
+| [U+3316](16.svgz) | SQUARE KIROMEETORU | 1 |
+| [U+3317](17.svgz) | SQUARE KIROWATTO | 1 |
+| [U+3318](18.svgz) | SQUARE GURAMU | 1 |
+| [U+3319](19.svgz) | SQUARE GURAMUTON | 1 |
+| [U+331A](1A.svgz) | SQUARE KURUZEIRO | 1 |
+| [U+331B](1B.svgz) | SQUARE KUROONE | 1 |
+| [U+331C](1C.svgz) | SQUARE KEESU | 1 |
+| [U+331D](1D.svgz) | SQUARE KORUNA | 1 |
+| [U+331E](1E.svgz) | SQUARE KOOPO | 1 |
+| [U+331F](1F.svgz) | SQUARE SAIKURU | 1 |
+| [U+3320](20.svgz) | SQUARE SANTIIMU | 1 |
+| [U+3321](21.svgz) | SQUARE SIRINGU | 1 |
+| [U+3322](22.svgz) | SQUARE SENTI | 1 |
+| [U+3323](23.svgz) | SQUARE SENTO | 1 |
+| [U+3324](24.svgz) | SQUARE DAASU | 1 |
+| [U+3325](25.svgz) | SQUARE DESI | 1 |
+| [U+3326](26.svgz) | SQUARE DORU | 1 |
+| [U+3327](27.svgz) | SQUARE TON | 1 |
+| [U+3328](28.svgz) | SQUARE NANO | 1 |
+| [U+3329](29.svgz) | SQUARE NOTTO | 1 |
+| [U+332A](2A.svgz) | SQUARE HAITU | 1 |
+| [U+332B](2B.svgz) | SQUARE PAASENTO | 1 |
+| [U+332C](2C.svgz) | SQUARE PAATU | 1 |
+| [U+332D](2D.svgz) | SQUARE BAARERU | 1 |
+| [U+332E](2E.svgz) | SQUARE PIASUTORU | 1 |
+| [U+332F](2F.svgz) | SQUARE PIKURU | 1 |
+| [U+3330](30.svgz) | SQUARE PIKO | 1 |
+| [U+3331](31.svgz) | SQUARE BIRU | 1 |
+| [U+3332](32.svgz) | SQUARE HUARADDO | 1 |
+| [U+3333](33.svgz) | SQUARE HUIITO | 1 |
+| [U+3334](34.svgz) | SQUARE BUSSYERU | 1 |
+| [U+3335](35.svgz) | SQUARE HURAN | 1 |
+| [U+3336](36.svgz) | SQUARE HEKUTAARU | 1 |
+| [U+3337](37.svgz) | SQUARE PESO | 1 |
+| [U+3338](38.svgz) | SQUARE PENIHI | 1 |
+| [U+3339](39.svgz) | SQUARE HERUTU | 1 |
+| [U+333A](3A.svgz) | SQUARE PENSU | 1 |
+| [U+333B](3B.svgz) | SQUARE PEEZI | 1 |
+| [U+333C](3C.svgz) | SQUARE BEETA | 1 |
+| [U+333D](3D.svgz) | SQUARE POINTO | 1 |
+| [U+333E](3E.svgz) | SQUARE BORUTO | 1 |
+| [U+333F](3F.svgz) | SQUARE HON | 1 |
+| [U+3340](40.svgz) | SQUARE PONDO | 1 |
+| [U+3341](41.svgz) | SQUARE HOORU | 1 |
+| [U+3342](42.svgz) | SQUARE HOON | 1 |
+| [U+3343](43.svgz) | SQUARE MAIKURO | 1 |
+| [U+3344](44.svgz) | SQUARE MAIRU | 1 |
+| [U+3345](45.svgz) | SQUARE MAHHA | 1 |
+| [U+3346](46.svgz) | SQUARE MARUKU | 1 |
+| [U+3347](47.svgz) | SQUARE MANSYON | 1 |
+| [U+3348](48.svgz) | SQUARE MIKURON | 1 |
+| [U+3349](49.svgz) | SQUARE MIRI | 1 |
+| [U+334A](4A.svgz) | SQUARE MIRIBAARU | 1 |
+| [U+334B](4B.svgz) | SQUARE MEGA | 1 |
+| [U+334C](4C.svgz) | SQUARE MEGATON | 1 |
+| [U+334D](4D.svgz) | SQUARE MEETORU | 1 |
+| [U+334E](4E.svgz) | SQUARE YAADO | 1 |
+| [U+334F](4F.svgz) | SQUARE YAARU | 1 |
+| [U+3350](50.svgz) | SQUARE YUAN | 1 |
+| [U+3351](51.svgz) | SQUARE RITTORU | 1 |
+| [U+3352](52.svgz) | SQUARE RIRA | 1 |
+| [U+3353](53.svgz) | SQUARE RUPII | 1 |
+| [U+3354](54.svgz) | SQUARE RUUBURU | 1 |
+| [U+3355](55.svgz) | SQUARE REMU | 1 |
+| [U+3356](56.svgz) | SQUARE RENTOGEN | 1 |
+| [U+3357](57.svgz) | SQUARE WATTO | 1 |
+| [U+3358](58.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO | 1 |
+| [U+3359](59.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE | 1 |
+| [U+335A](5A.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO | 1 |
+| [U+335B](5B.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE | 1 |
+| [U+335C](5C.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR | 1 |
+| [U+335D](5D.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE | 1 |
+| [U+335E](5E.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX | 1 |
+| [U+335F](5F.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN | 1 |
+| [U+3360](60.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT | 1 |
+| [U+3361](61.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE | 1 |
+| [U+3362](62.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN | 1 |
+| [U+3363](63.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN | 1 |
+| [U+3364](64.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE | 1 |
+| [U+3365](65.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN | 1 |
+| [U+3366](66.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN | 1 |
+| [U+3367](67.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN | 1 |
+| [U+3368](68.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN | 1 |
+| [U+3369](69.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN | 1 |
+| [U+336A](6A.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN | 1 |
+| [U+336B](6B.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN | 1 |
+| [U+336C](6C.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY | 1 |
+| [U+336D](6D.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE | 1 |
+| [U+336E](6E.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO | 1 |
+| [U+336F](6F.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE | 1 |
+| [U+3370](70.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR | 1 |
+| [U+3371](71.svgz) | SQUARE HPA | 1 |
+| [U+3372](72.svgz) | SQUARE DA | 1 |
+| [U+3373](73.svgz) | SQUARE AU | 1 |
+| [U+3374](74.svgz) | SQUARE BAR | 1 |
+| [U+3375](75.svgz) | SQUARE OV | 1 |
+| [U+3376](76.svgz) | SQUARE PC | 1 |
+| [U+3377](77.svgz) | SQUARE DM | 1 |
+| [U+3378](78.svgz) | SQUARE DM SQUARED | 1 |
+| [U+3379](79.svgz) | SQUARE DM CUBED | 1 |
+| [U+337A](7A.svgz) | SQUARE IU | 1 |
+| [U+337B](7B.svgz) | SQUARE ERA NAME HEISEI | 1 |
+| [U+337C](7C.svgz) | SQUARE ERA NAME SYOUWA | 1 |
+| [U+337D](7D.svgz) | SQUARE ERA NAME TAISYOU | 1 |
+| [U+337E](7E.svgz) | SQUARE ERA NAME MEIZI | 1 |
+| [U+337F](7F.svgz) | SQUARE CORPORATION | 1 |
+| [U+3380](80.svgz) | SQUARE PA AMPS | 1 |
+| [U+3381](81.svgz) | SQUARE NA | 1 |
+| [U+3382](82.svgz) | SQUARE MU A | 1 |
+| [U+3383](83.svgz) | SQUARE MA | 1 |
+| [U+3384](84.svgz) | SQUARE KA | 1 |
+| [U+3385](85.svgz) | SQUARE KB | 1 |
+| [U+3386](86.svgz) | SQUARE MB | 1 |
+| [U+3387](87.svgz) | SQUARE GB | 1 |
+| [U+3388](88.svgz) | SQUARE CAL | 1 |
+| [U+3389](89.svgz) | SQUARE KCAL | 1 |
+| [U+338A](8A.svgz) | SQUARE PF | 1 |
+| [U+338B](8B.svgz) | SQUARE NF | 1 |
+| [U+338C](8C.svgz) | SQUARE MU F | 1 |
+| [U+338D](8D.svgz) | SQUARE MU G | 1 |
+| [U+338E](8E.svgz) | SQUARE MG | 1 |
+| [U+338F](8F.svgz) | SQUARE KG | 1 |
+| [U+3390](90.svgz) | SQUARE HZ | 1 |
+| [U+3391](91.svgz) | SQUARE KHZ | 1 |
+| [U+3392](92.svgz) | SQUARE MHZ | 1 |
+| [U+3393](93.svgz) | SQUARE GHZ | 1 |
+| [U+3394](94.svgz) | SQUARE THZ | 1 |
+| [U+3395](95.svgz) | SQUARE MU L | 1 |
+| [U+3396](96.svgz) | SQUARE ML | 1 |
+| [U+3397](97.svgz) | SQUARE DL | 1 |
+| [U+3398](98.svgz) | SQUARE KL | 1 |
+| [U+3399](99.svgz) | SQUARE FM | 1 |
+| [U+339A](9A.svgz) | SQUARE NM | 1 |
+| [U+339B](9B.svgz) | SQUARE MU M | 1 |
+| [U+339C](9C.svgz) | SQUARE MM | 1 |
+| [U+339D](9D.svgz) | SQUARE CM | 1 |
+| [U+339E](9E.svgz) | SQUARE KM | 1 |
+| [U+339F](9F.svgz) | SQUARE MM SQUARED | 1 |
+| [U+33A0](A0.svgz) | SQUARE CM SQUARED | 1 |
+| [U+33A1](A1.svgz) | SQUARE M SQUARED | 1 |
+| [U+33A2](A2.svgz) | SQUARE KM SQUARED | 1 |
+| [U+33A3](A3.svgz) | SQUARE MM CUBED | 1 |
+| [U+33A4](A4.svgz) | SQUARE CM CUBED | 1 |
+| [U+33A5](A5.svgz) | SQUARE M CUBED | 1 |
+| [U+33A6](A6.svgz) | SQUARE KM CUBED | 1 |
+| [U+33A7](A7.svgz) | SQUARE M OVER S | 1 |
+| [U+33A8](A8.svgz) | SQUARE M OVER S SQUARED | 1 |
+| [U+33A9](A9.svgz) | SQUARE PA | 1 |
+| [U+33AA](AA.svgz) | SQUARE KPA | 1 |
+| [U+33AB](AB.svgz) | SQUARE MPA | 1 |
+| [U+33AC](AC.svgz) | SQUARE GPA | 1 |
+| [U+33AD](AD.svgz) | SQUARE RAD | 1 |
+| [U+33AE](AE.svgz) | SQUARE RAD OVER S | 1 |
+| [U+33AF](AF.svgz) | SQUARE RAD OVER S SQUARED | 1 |
+| [U+33B0](B0.svgz) | SQUARE PS | 1 |
+| [U+33B1](B1.svgz) | SQUARE NS | 1 |
+| [U+33B2](B2.svgz) | SQUARE MU S | 1 |
+| [U+33B3](B3.svgz) | SQUARE MS | 1 |
+| [U+33B4](B4.svgz) | SQUARE PV | 1 |
+| [U+33B5](B5.svgz) | SQUARE NV | 1 |
+| [U+33B6](B6.svgz) | SQUARE MU V | 1 |
+| [U+33B7](B7.svgz) | SQUARE MV | 1 |
+| [U+33B8](B8.svgz) | SQUARE KV | 1 |
+| [U+33B9](B9.svgz) | SQUARE MV MEGA | 1 |
+| [U+33BA](BA.svgz) | SQUARE PW | 1 |
+| [U+33BB](BB.svgz) | SQUARE NW | 1 |
+| [U+33BC](BC.svgz) | SQUARE MU W | 1 |
+| [U+33BD](BD.svgz) | SQUARE MW | 1 |
+| [U+33BE](BE.svgz) | SQUARE KW | 1 |
+| [U+33BF](BF.svgz) | SQUARE MW MEGA | 1 |
+| [U+33C0](C0.svgz) | SQUARE K OHM | 1 |
+| [U+33C1](C1.svgz) | SQUARE M OHM | 1 |
+| [U+33C2](C2.svgz) | SQUARE AM | 1 |
+| [U+33C3](C3.svgz) | SQUARE BQ | 1 |
+| [U+33C4](C4.svgz) | SQUARE CC | 1 |
+| [U+33C5](C5.svgz) | SQUARE CD | 1 |
+| [U+33C6](C6.svgz) | SQUARE C OVER KG | 1 |
+| [U+33C7](C7.svgz) | SQUARE CO | 1 |
+| [U+33C8](C8.svgz) | SQUARE DB | 1 |
+| [U+33C9](C9.svgz) | SQUARE GY | 1 |
+| [U+33CA](CA.svgz) | SQUARE HA | 1 |
+| [U+33CB](CB.svgz) | SQUARE HP | 1 |
+| [U+33CC](CC.svgz) | SQUARE IN | 1 |
+| [U+33CD](CD.svgz) | SQUARE KK | 1 |
+| [U+33CE](CE.svgz) | SQUARE KM CAPITAL | 1 |
+| [U+33CF](CF.svgz) | SQUARE KT | 1 |
+| [U+33D0](D0.svgz) | SQUARE LM | 1 |
+| [U+33D1](D1.svgz) | SQUARE LN | 1 |
+| [U+33D2](D2.svgz) | SQUARE LOG | 1 |
+| [U+33D3](D3.svgz) | SQUARE LX | 1 |
+| [U+33D4](D4.svgz) | SQUARE MB SMALL | 1 |
+| [U+33D5](D5.svgz) | SQUARE MIL | 1 |
+| [U+33D6](D6.svgz) | SQUARE MOL | 1 |
+| [U+33D7](D7.svgz) | SQUARE PH | 1 |
+| [U+33D8](D8.svgz) | SQUARE PM | 1 |
+| [U+33D9](D9.svgz) | SQUARE PPM | 1 |
+| [U+33DA](DA.svgz) | SQUARE PR | 1 |
+| [U+33DB](DB.svgz) | SQUARE SR | 1 |
+| [U+33DC](DC.svgz) | SQUARE SV | 1 |
+| [U+33DD](DD.svgz) | SQUARE WB | 1 |
+| [U+33DE](DE.svgz) | SQUARE V OVER M | 1 |
+| [U+33DF](DF.svgz) | SQUARE A OVER M | 1 |
+| [U+33E0](E0.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE | 1 |
+| [U+33E1](E1.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO | 1 |
+| [U+33E2](E2.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE | 1 |
+| [U+33E3](E3.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR | 1 |
+| [U+33E4](E4.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE | 1 |
+| [U+33E5](E5.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX | 1 |
+| [U+33E6](E6.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN | 1 |
+| [U+33E7](E7.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT | 1 |
+| [U+33E8](E8.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE | 1 |
+| [U+33E9](E9.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN | 1 |
+| [U+33EA](EA.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN | 1 |
+| [U+33EB](EB.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE | 1 |
+| [U+33EC](EC.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN | 1 |
+| [U+33ED](ED.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN | 1 |
+| [U+33EE](EE.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN | 1 |
+| [U+33EF](EF.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN | 1 |
+| [U+33F0](F0.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN | 1 |
+| [U+33F1](F1.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN | 1 |
+| [U+33F2](F2.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN | 1 |
+| [U+33F3](F3.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY | 1 |
+| [U+33F4](F4.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE | 1 |
+| [U+33F5](F5.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO | 1 |
+| [U+33F6](F6.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE | 1 |
+| [U+33F7](F7.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR | 1 |
+| [U+33F8](F8.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE | 1 |
+| [U+33F9](F9.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX | 1 |
+| [U+33FA](FA.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN | 1 |
+| [U+33FB](FB.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT | 1 |
+| [U+33FC](FC.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE | 1 |
+| [U+33FD](FD.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY | 1 |
+| [U+33FE](FE.svgz) | IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE | 1 |
+| [U+33FF](FF.svgz) | SQUARE GAL | 1 |
