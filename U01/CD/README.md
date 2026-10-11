@@ -1,0 +1,264 @@
+# U01/CD reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+1CD00](00.svgz) | BLOCK OCTANT-3 | 1 |
+| [U+1CD01](01.svgz) | BLOCK OCTANT-23 | 1 |
+| [U+1CD02](02.svgz) | BLOCK OCTANT-123 | 1 |
+| [U+1CD03](03.svgz) | BLOCK OCTANT-4 | 1 |
+| [U+1CD04](04.svgz) | BLOCK OCTANT-14 | 1 |
+| [U+1CD05](05.svgz) | BLOCK OCTANT-124 | 1 |
+| [U+1CD06](06.svgz) | BLOCK OCTANT-34 | 1 |
+| [U+1CD07](07.svgz) | BLOCK OCTANT-134 | 1 |
+| [U+1CD08](08.svgz) | BLOCK OCTANT-234 | 1 |
+| [U+1CD09](09.svgz) | BLOCK OCTANT-5 | 1 |
+| [U+1CD0A](0A.svgz) | BLOCK OCTANT-15 | 1 |
+| [U+1CD0B](0B.svgz) | BLOCK OCTANT-25 | 1 |
+| [U+1CD0C](0C.svgz) | BLOCK OCTANT-125 | 1 |
+| [U+1CD0D](0D.svgz) | BLOCK OCTANT-135 | 1 |
+| [U+1CD0E](0E.svgz) | BLOCK OCTANT-235 | 1 |
+| [U+1CD0F](0F.svgz) | BLOCK OCTANT-1235 | 1 |
+| [U+1CD10](10.svgz) | BLOCK OCTANT-45 | 1 |
+| [U+1CD11](11.svgz) | BLOCK OCTANT-145 | 1 |
+| [U+1CD12](12.svgz) | BLOCK OCTANT-245 | 1 |
+| [U+1CD13](13.svgz) | BLOCK OCTANT-1245 | 1 |
+| [U+1CD14](14.svgz) | BLOCK OCTANT-345 | 1 |
+| [U+1CD15](15.svgz) | BLOCK OCTANT-1345 | 1 |
+| [U+1CD16](16.svgz) | BLOCK OCTANT-2345 | 1 |
+| [U+1CD17](17.svgz) | BLOCK OCTANT-12345 | 1 |
+| [U+1CD18](18.svgz) | BLOCK OCTANT-6 | 1 |
+| [U+1CD19](19.svgz) | BLOCK OCTANT-16 | 1 |
+| [U+1CD1A](1A.svgz) | BLOCK OCTANT-26 | 1 |
+| [U+1CD1B](1B.svgz) | BLOCK OCTANT-126 | 1 |
+| [U+1CD1C](1C.svgz) | BLOCK OCTANT-36 | 1 |
+| [U+1CD1D](1D.svgz) | BLOCK OCTANT-136 | 1 |
+| [U+1CD1E](1E.svgz) | BLOCK OCTANT-236 | 1 |
+| [U+1CD1F](1F.svgz) | BLOCK OCTANT-1236 | 1 |
+| [U+1CD20](20.svgz) | BLOCK OCTANT-146 | 1 |
+| [U+1CD21](21.svgz) | BLOCK OCTANT-246 | 1 |
+| [U+1CD22](22.svgz) | BLOCK OCTANT-1246 | 1 |
+| [U+1CD23](23.svgz) | BLOCK OCTANT-346 | 1 |
+| [U+1CD24](24.svgz) | BLOCK OCTANT-1346 | 1 |
+| [U+1CD25](25.svgz) | BLOCK OCTANT-2346 | 1 |
+| [U+1CD26](26.svgz) | BLOCK OCTANT-12346 | 1 |
+| [U+1CD27](27.svgz) | BLOCK OCTANT-56 | 1 |
+| [U+1CD28](28.svgz) | BLOCK OCTANT-156 | 1 |
+| [U+1CD29](29.svgz) | BLOCK OCTANT-256 | 1 |
+| [U+1CD2A](2A.svgz) | BLOCK OCTANT-1256 | 1 |
+| [U+1CD2B](2B.svgz) | BLOCK OCTANT-356 | 1 |
+| [U+1CD2C](2C.svgz) | BLOCK OCTANT-1356 | 1 |
+| [U+1CD2D](2D.svgz) | BLOCK OCTANT-2356 | 1 |
+| [U+1CD2E](2E.svgz) | BLOCK OCTANT-12356 | 1 |
+| [U+1CD2F](2F.svgz) | BLOCK OCTANT-456 | 1 |
+| [U+1CD30](30.svgz) | BLOCK OCTANT-1456 | 1 |
+| [U+1CD31](31.svgz) | BLOCK OCTANT-2456 | 1 |
+| [U+1CD32](32.svgz) | BLOCK OCTANT-12456 | 1 |
+| [U+1CD33](33.svgz) | BLOCK OCTANT-3456 | 1 |
+| [U+1CD34](34.svgz) | BLOCK OCTANT-13456 | 1 |
+| [U+1CD35](35.svgz) | BLOCK OCTANT-23456 | 1 |
+| [U+1CD36](36.svgz) | BLOCK OCTANT-17 | 1 |
+| [U+1CD37](37.svgz) | BLOCK OCTANT-27 | 1 |
+| [U+1CD38](38.svgz) | BLOCK OCTANT-127 | 1 |
+| [U+1CD39](39.svgz) | BLOCK OCTANT-37 | 1 |
+| [U+1CD3A](3A.svgz) | BLOCK OCTANT-137 | 1 |
+| [U+1CD3B](3B.svgz) | BLOCK OCTANT-237 | 1 |
+| [U+1CD3C](3C.svgz) | BLOCK OCTANT-1237 | 1 |
+| [U+1CD3D](3D.svgz) | BLOCK OCTANT-47 | 1 |
+| [U+1CD3E](3E.svgz) | BLOCK OCTANT-147 | 1 |
+| [U+1CD3F](3F.svgz) | BLOCK OCTANT-247 | 1 |
+| [U+1CD40](40.svgz) | BLOCK OCTANT-1247 | 1 |
+| [U+1CD41](41.svgz) | BLOCK OCTANT-347 | 1 |
+| [U+1CD42](42.svgz) | BLOCK OCTANT-1347 | 1 |
+| [U+1CD43](43.svgz) | BLOCK OCTANT-2347 | 1 |
+| [U+1CD44](44.svgz) | BLOCK OCTANT-12347 | 1 |
+| [U+1CD45](45.svgz) | BLOCK OCTANT-157 | 1 |
+| [U+1CD46](46.svgz) | BLOCK OCTANT-257 | 1 |
+| [U+1CD47](47.svgz) | BLOCK OCTANT-1257 | 1 |
+| [U+1CD48](48.svgz) | BLOCK OCTANT-357 | 1 |
+| [U+1CD49](49.svgz) | BLOCK OCTANT-2357 | 1 |
+| [U+1CD4A](4A.svgz) | BLOCK OCTANT-12357 | 1 |
+| [U+1CD4B](4B.svgz) | BLOCK OCTANT-457 | 1 |
+| [U+1CD4C](4C.svgz) | BLOCK OCTANT-1457 | 1 |
+| [U+1CD4D](4D.svgz) | BLOCK OCTANT-12457 | 1 |
+| [U+1CD4E](4E.svgz) | BLOCK OCTANT-3457 | 1 |
+| [U+1CD4F](4F.svgz) | BLOCK OCTANT-13457 | 1 |
+| [U+1CD50](50.svgz) | BLOCK OCTANT-23457 | 1 |
+| [U+1CD51](51.svgz) | BLOCK OCTANT-67 | 1 |
+| [U+1CD52](52.svgz) | BLOCK OCTANT-167 | 1 |
+| [U+1CD53](53.svgz) | BLOCK OCTANT-267 | 1 |
+| [U+1CD54](54.svgz) | BLOCK OCTANT-1267 | 1 |
+| [U+1CD55](55.svgz) | BLOCK OCTANT-367 | 1 |
+| [U+1CD56](56.svgz) | BLOCK OCTANT-1367 | 1 |
+| [U+1CD57](57.svgz) | BLOCK OCTANT-2367 | 1 |
+| [U+1CD58](58.svgz) | BLOCK OCTANT-12367 | 1 |
+| [U+1CD59](59.svgz) | BLOCK OCTANT-467 | 1 |
+| [U+1CD5A](5A.svgz) | BLOCK OCTANT-1467 | 1 |
+| [U+1CD5B](5B.svgz) | BLOCK OCTANT-2467 | 1 |
+| [U+1CD5C](5C.svgz) | BLOCK OCTANT-12467 | 1 |
+| [U+1CD5D](5D.svgz) | BLOCK OCTANT-3467 | 1 |
+| [U+1CD5E](5E.svgz) | BLOCK OCTANT-13467 | 1 |
+| [U+1CD5F](5F.svgz) | BLOCK OCTANT-23467 | 1 |
+| [U+1CD60](60.svgz) | BLOCK OCTANT-123467 | 1 |
+| [U+1CD61](61.svgz) | BLOCK OCTANT-567 | 1 |
+| [U+1CD62](62.svgz) | BLOCK OCTANT-1567 | 1 |
+| [U+1CD63](63.svgz) | BLOCK OCTANT-2567 | 1 |
+| [U+1CD64](64.svgz) | BLOCK OCTANT-12567 | 1 |
+| [U+1CD65](65.svgz) | BLOCK OCTANT-3567 | 1 |
+| [U+1CD66](66.svgz) | BLOCK OCTANT-13567 | 1 |
+| [U+1CD67](67.svgz) | BLOCK OCTANT-23567 | 1 |
+| [U+1CD68](68.svgz) | BLOCK OCTANT-123567 | 1 |
+| [U+1CD69](69.svgz) | BLOCK OCTANT-4567 | 1 |
+| [U+1CD6A](6A.svgz) | BLOCK OCTANT-14567 | 1 |
+| [U+1CD6B](6B.svgz) | BLOCK OCTANT-24567 | 1 |
+| [U+1CD6C](6C.svgz) | BLOCK OCTANT-124567 | 1 |
+| [U+1CD6D](6D.svgz) | BLOCK OCTANT-34567 | 1 |
+| [U+1CD6E](6E.svgz) | BLOCK OCTANT-134567 | 1 |
+| [U+1CD6F](6F.svgz) | BLOCK OCTANT-234567 | 1 |
+| [U+1CD70](70.svgz) | BLOCK OCTANT-1234567 | 1 |
+| [U+1CD71](71.svgz) | BLOCK OCTANT-18 | 1 |
+| [U+1CD72](72.svgz) | BLOCK OCTANT-28 | 1 |
+| [U+1CD73](73.svgz) | BLOCK OCTANT-128 | 1 |
+| [U+1CD74](74.svgz) | BLOCK OCTANT-38 | 1 |
+| [U+1CD75](75.svgz) | BLOCK OCTANT-138 | 1 |
+| [U+1CD76](76.svgz) | BLOCK OCTANT-238 | 1 |
+| [U+1CD77](77.svgz) | BLOCK OCTANT-1238 | 1 |
+| [U+1CD78](78.svgz) | BLOCK OCTANT-48 | 1 |
+| [U+1CD79](79.svgz) | BLOCK OCTANT-148 | 1 |
+| [U+1CD7A](7A.svgz) | BLOCK OCTANT-248 | 1 |
+| [U+1CD7B](7B.svgz) | BLOCK OCTANT-1248 | 1 |
+| [U+1CD7C](7C.svgz) | BLOCK OCTANT-348 | 1 |
+| [U+1CD7D](7D.svgz) | BLOCK OCTANT-1348 | 1 |
+| [U+1CD7E](7E.svgz) | BLOCK OCTANT-2348 | 1 |
+| [U+1CD7F](7F.svgz) | BLOCK OCTANT-12348 | 1 |
+| [U+1CD80](80.svgz) | BLOCK OCTANT-58 | 1 |
+| [U+1CD81](81.svgz) | BLOCK OCTANT-158 | 1 |
+| [U+1CD82](82.svgz) | BLOCK OCTANT-258 | 1 |
+| [U+1CD83](83.svgz) | BLOCK OCTANT-1258 | 1 |
+| [U+1CD84](84.svgz) | BLOCK OCTANT-358 | 1 |
+| [U+1CD85](85.svgz) | BLOCK OCTANT-1358 | 1 |
+| [U+1CD86](86.svgz) | BLOCK OCTANT-2358 | 1 |
+| [U+1CD87](87.svgz) | BLOCK OCTANT-12358 | 1 |
+| [U+1CD88](88.svgz) | BLOCK OCTANT-458 | 1 |
+| [U+1CD89](89.svgz) | BLOCK OCTANT-1458 | 1 |
+| [U+1CD8A](8A.svgz) | BLOCK OCTANT-2458 | 1 |
+| [U+1CD8B](8B.svgz) | BLOCK OCTANT-12458 | 1 |
+| [U+1CD8C](8C.svgz) | BLOCK OCTANT-3458 | 1 |
+| [U+1CD8D](8D.svgz) | BLOCK OCTANT-13458 | 1 |
+| [U+1CD8E](8E.svgz) | BLOCK OCTANT-23458 | 1 |
+| [U+1CD8F](8F.svgz) | BLOCK OCTANT-123458 | 1 |
+| [U+1CD90](90.svgz) | BLOCK OCTANT-168 | 1 |
+| [U+1CD91](91.svgz) | BLOCK OCTANT-268 | 1 |
+| [U+1CD92](92.svgz) | BLOCK OCTANT-1268 | 1 |
+| [U+1CD93](93.svgz) | BLOCK OCTANT-368 | 1 |
+| [U+1CD94](94.svgz) | BLOCK OCTANT-2368 | 1 |
+| [U+1CD95](95.svgz) | BLOCK OCTANT-12368 | 1 |
+| [U+1CD96](96.svgz) | BLOCK OCTANT-468 | 1 |
+| [U+1CD97](97.svgz) | BLOCK OCTANT-1468 | 1 |
+| [U+1CD98](98.svgz) | BLOCK OCTANT-12468 | 1 |
+| [U+1CD99](99.svgz) | BLOCK OCTANT-3468 | 1 |
+| [U+1CD9A](9A.svgz) | BLOCK OCTANT-13468 | 1 |
+| [U+1CD9B](9B.svgz) | BLOCK OCTANT-23468 | 1 |
+| [U+1CD9C](9C.svgz) | BLOCK OCTANT-568 | 1 |
+| [U+1CD9D](9D.svgz) | BLOCK OCTANT-1568 | 1 |
+| [U+1CD9E](9E.svgz) | BLOCK OCTANT-2568 | 1 |
+| [U+1CD9F](9F.svgz) | BLOCK OCTANT-12568 | 1 |
+| [U+1CDA0](A0.svgz) | BLOCK OCTANT-3568 | 1 |
+| [U+1CDA1](A1.svgz) | BLOCK OCTANT-13568 | 1 |
+| [U+1CDA2](A2.svgz) | BLOCK OCTANT-23568 | 1 |
+| [U+1CDA3](A3.svgz) | BLOCK OCTANT-123568 | 1 |
+| [U+1CDA4](A4.svgz) | BLOCK OCTANT-4568 | 1 |
+| [U+1CDA5](A5.svgz) | BLOCK OCTANT-14568 | 1 |
+| [U+1CDA6](A6.svgz) | BLOCK OCTANT-24568 | 1 |
+| [U+1CDA7](A7.svgz) | BLOCK OCTANT-124568 | 1 |
+| [U+1CDA8](A8.svgz) | BLOCK OCTANT-34568 | 1 |
+| [U+1CDA9](A9.svgz) | BLOCK OCTANT-134568 | 1 |
+| [U+1CDAA](AA.svgz) | BLOCK OCTANT-234568 | 1 |
+| [U+1CDAB](AB.svgz) | BLOCK OCTANT-1234568 | 1 |
+| [U+1CDAC](AC.svgz) | BLOCK OCTANT-178 | 1 |
+| [U+1CDAD](AD.svgz) | BLOCK OCTANT-278 | 1 |
+| [U+1CDAE](AE.svgz) | BLOCK OCTANT-1278 | 1 |
+| [U+1CDAF](AF.svgz) | BLOCK OCTANT-378 | 1 |
+| [U+1CDB0](B0.svgz) | BLOCK OCTANT-1378 | 1 |
+| [U+1CDB1](B1.svgz) | BLOCK OCTANT-2378 | 1 |
+| [U+1CDB2](B2.svgz) | BLOCK OCTANT-12378 | 1 |
+| [U+1CDB3](B3.svgz) | BLOCK OCTANT-478 | 1 |
+| [U+1CDB4](B4.svgz) | BLOCK OCTANT-1478 | 1 |
+| [U+1CDB5](B5.svgz) | BLOCK OCTANT-2478 | 1 |
+| [U+1CDB6](B6.svgz) | BLOCK OCTANT-12478 | 1 |
+| [U+1CDB7](B7.svgz) | BLOCK OCTANT-3478 | 1 |
+| [U+1CDB8](B8.svgz) | BLOCK OCTANT-13478 | 1 |
+| [U+1CDB9](B9.svgz) | BLOCK OCTANT-23478 | 1 |
+| [U+1CDBA](BA.svgz) | BLOCK OCTANT-123478 | 1 |
+| [U+1CDBB](BB.svgz) | BLOCK OCTANT-578 | 1 |
+| [U+1CDBC](BC.svgz) | BLOCK OCTANT-1578 | 1 |
+| [U+1CDBD](BD.svgz) | BLOCK OCTANT-2578 | 1 |
+| [U+1CDBE](BE.svgz) | BLOCK OCTANT-12578 | 1 |
+| [U+1CDBF](BF.svgz) | BLOCK OCTANT-3578 | 1 |
+| [U+1CDC0](C0.svgz) | BLOCK OCTANT-13578 | 1 |
+| [U+1CDC1](C1.svgz) | BLOCK OCTANT-23578 | 1 |
+| [U+1CDC2](C2.svgz) | BLOCK OCTANT-123578 | 1 |
+| [U+1CDC3](C3.svgz) | BLOCK OCTANT-4578 | 1 |
+| [U+1CDC4](C4.svgz) | BLOCK OCTANT-14578 | 1 |
+| [U+1CDC5](C5.svgz) | BLOCK OCTANT-24578 | 1 |
+| [U+1CDC6](C6.svgz) | BLOCK OCTANT-124578 | 1 |
+| [U+1CDC7](C7.svgz) | BLOCK OCTANT-34578 | 1 |
+| [U+1CDC8](C8.svgz) | BLOCK OCTANT-134578 | 1 |
+| [U+1CDC9](C9.svgz) | BLOCK OCTANT-234578 | 1 |
+| [U+1CDCA](CA.svgz) | BLOCK OCTANT-1234578 | 1 |
+| [U+1CDCB](CB.svgz) | BLOCK OCTANT-678 | 1 |
+| [U+1CDCC](CC.svgz) | BLOCK OCTANT-1678 | 1 |
+| [U+1CDCD](CD.svgz) | BLOCK OCTANT-2678 | 1 |
+| [U+1CDCE](CE.svgz) | BLOCK OCTANT-12678 | 1 |
+| [U+1CDCF](CF.svgz) | BLOCK OCTANT-3678 | 1 |
+| [U+1CDD0](D0.svgz) | BLOCK OCTANT-13678 | 1 |
+| [U+1CDD1](D1.svgz) | BLOCK OCTANT-23678 | 1 |
+| [U+1CDD2](D2.svgz) | BLOCK OCTANT-123678 | 1 |
+| [U+1CDD3](D3.svgz) | BLOCK OCTANT-4678 | 1 |
+| [U+1CDD4](D4.svgz) | BLOCK OCTANT-14678 | 1 |
+| [U+1CDD5](D5.svgz) | BLOCK OCTANT-24678 | 1 |
+| [U+1CDD6](D6.svgz) | BLOCK OCTANT-124678 | 1 |
+| [U+1CDD7](D7.svgz) | BLOCK OCTANT-34678 | 1 |
+| [U+1CDD8](D8.svgz) | BLOCK OCTANT-134678 | 1 |
+| [U+1CDD9](D9.svgz) | BLOCK OCTANT-234678 | 1 |
+| [U+1CDDA](DA.svgz) | BLOCK OCTANT-1234678 | 1 |
+| [U+1CDDB](DB.svgz) | BLOCK OCTANT-15678 | 1 |
+| [U+1CDDC](DC.svgz) | BLOCK OCTANT-25678 | 1 |
+| [U+1CDDD](DD.svgz) | BLOCK OCTANT-125678 | 1 |
+| [U+1CDDE](DE.svgz) | BLOCK OCTANT-35678 | 1 |
+| [U+1CDDF](DF.svgz) | BLOCK OCTANT-235678 | 1 |
+| [U+1CDE0](E0.svgz) | BLOCK OCTANT-1235678 | 1 |
+| [U+1CDE1](E1.svgz) | BLOCK OCTANT-45678 | 1 |
+| [U+1CDE2](E2.svgz) | BLOCK OCTANT-145678 | 1 |
+| [U+1CDE3](E3.svgz) | BLOCK OCTANT-1245678 | 1 |
+| [U+1CDE4](E4.svgz) | BLOCK OCTANT-1345678 | 1 |
+| [U+1CDE5](E5.svgz) | BLOCK OCTANT-2345678 | 1 |
+| [U+1CDE6](E6.svgz) | TOP HALF STANDING PERSON | 1 |
+| [U+1CDE7](E7.svgz) | BOTTOM HALF STANDING PERSON | 1 |
+| [U+1CDE8](E8.svgz) | TOP HALF RIGHT-FACING RUNNER FRAME-1 | 1 |
+| [U+1CDE9](E9.svgz) | BOTTOM HALF RIGHT-FACING RUNNER FRAME-1 | 1 |
+| [U+1CDEA](EA.svgz) | TOP HALF RIGHT-FACING RUNNER FRAME-2 | 1 |
+| [U+1CDEB](EB.svgz) | BOTTOM HALF RIGHT-FACING RUNNER FRAME-2 | 1 |
+| [U+1CDEC](EC.svgz) | TOP HALF LEFT-FACING RUNNER FRAME-1 | 1 |
+| [U+1CDED](ED.svgz) | BOTTOM HALF LEFT-FACING RUNNER FRAME-1 | 1 |
+| [U+1CDEE](EE.svgz) | TOP HALF LEFT-FACING RUNNER FRAME-2 | 1 |
+| [U+1CDEF](EF.svgz) | BOTTOM HALF LEFT-FACING RUNNER FRAME-2 | 1 |
+| [U+1CDF0](F0.svgz) | TOP HALF FORWARD-FACING RUNNER | 1 |
+| [U+1CDF1](F1.svgz) | BOTTOM HALF FORWARD-FACING RUNNER FRAME-1 | 1 |
+| [U+1CDF2](F2.svgz) | BOTTOM HALF FORWARD-FACING RUNNER FRAME-2 | 1 |
+| [U+1CDF3](F3.svgz) | BOTTOM HALF FORWARD-FACING RUNNER FRAME-3 | 1 |
+| [U+1CDF4](F4.svgz) | BOTTOM HALF FORWARD-FACING RUNNER FRAME-4 | 1 |
+| [U+1CDF5](F5.svgz) | MOON LANDER | 1 |
+| [U+1CDF6](F6.svgz) | TOP HALF FLAILING ROBOT FRAME-1 | 1 |
+| [U+1CDF7](F7.svgz) | TOP HALF FLAILING ROBOT FRAME-2 | 1 |
+| [U+1CDF8](F8.svgz) | DOWN-POINTING AIRPLANE | 1 |
+| [U+1CDF9](F9.svgz) | LEFT-POINTING AIRPLANE | 1 |
+| [U+1CDFA](FA.svgz) | SMALL UP-POINTING AIRPLANE | 1 |
+| [U+1CDFB](FB.svgz) | UP-POINTING FROG | 1 |
+| [U+1CDFC](FC.svgz) | DOWN-POINTING FROG | 1 |
+| [U+1CDFD](FD.svgz) | EXPLOSION FRAME-1 | 1 |
+| [U+1CDFE](FE.svgz) | EXPLOSION FRAME-2 | 1 |
+| [U+1CDFF](FF.svgz) | EXPLOSION FRAME-3 | 1 |

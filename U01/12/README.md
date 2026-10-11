@@ -1,0 +1,180 @@
+# U01/12 reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+11200](00.svgz) | KHOJKI LETTER A | 1 |
+| [U+11201](01.svgz) | KHOJKI LETTER AA | 1 |
+| [U+11202](02.svgz) | KHOJKI LETTER I | 1 |
+| [U+11203](03.svgz) | KHOJKI LETTER U | 1 |
+| [U+11204](04.svgz) | KHOJKI LETTER E | 1 |
+| [U+11205](05.svgz) | KHOJKI LETTER AI | 1 |
+| [U+11206](06.svgz) | KHOJKI LETTER O | 1 |
+| [U+11207](07.svgz) | KHOJKI LETTER AU | 1 |
+| [U+11208](08.svgz) | KHOJKI LETTER KA | 1 |
+| [U+11209](09.svgz) | KHOJKI LETTER KHA | 1 |
+| [U+1120A](0A.svgz) | KHOJKI LETTER GA | 1 |
+| [U+1120B](0B.svgz) | KHOJKI LETTER GGA | 1 |
+| [U+1120C](0C.svgz) | KHOJKI LETTER GHA | 1 |
+| [U+1120D](0D.svgz) | KHOJKI LETTER NGA | 1 |
+| [U+1120E](0E.svgz) | KHOJKI LETTER CA | 1 |
+| [U+1120F](0F.svgz) | KHOJKI LETTER CHA | 1 |
+| [U+11210](10.svgz) | KHOJKI LETTER JA | 1 |
+| [U+11211](11.svgz) | KHOJKI LETTER JJA | 1 |
+| [U+11213](13.svgz) | KHOJKI LETTER NYA | 1 |
+| [U+11214](14.svgz) | KHOJKI LETTER TTA | 1 |
+| [U+11215](15.svgz) | KHOJKI LETTER TTHA | 1 |
+| [U+11216](16.svgz) | KHOJKI LETTER DDA | 1 |
+| [U+11217](17.svgz) | KHOJKI LETTER DDHA | 1 |
+| [U+11218](18.svgz) | KHOJKI LETTER NNA | 1 |
+| [U+11219](19.svgz) | KHOJKI LETTER TA | 1 |
+| [U+1121A](1A.svgz) | KHOJKI LETTER THA | 1 |
+| [U+1121B](1B.svgz) | KHOJKI LETTER DA | 1 |
+| [U+1121C](1C.svgz) | KHOJKI LETTER DDDA | 1 |
+| [U+1121D](1D.svgz) | KHOJKI LETTER DHA | 1 |
+| [U+1121E](1E.svgz) | KHOJKI LETTER NA | 1 |
+| [U+1121F](1F.svgz) | KHOJKI LETTER PA | 1 |
+| [U+11220](20.svgz) | KHOJKI LETTER PHA | 1 |
+| [U+11221](21.svgz) | KHOJKI LETTER BA | 1 |
+| [U+11222](22.svgz) | KHOJKI LETTER BBA | 1 |
+| [U+11223](23.svgz) | KHOJKI LETTER BHA | 1 |
+| [U+11224](24.svgz) | KHOJKI LETTER MA | 1 |
+| [U+11225](25.svgz) | KHOJKI LETTER YA | 1 |
+| [U+11226](26.svgz) | KHOJKI LETTER RA | 1 |
+| [U+11227](27.svgz) | KHOJKI LETTER LA | 1 |
+| [U+11228](28.svgz) | KHOJKI LETTER VA | 1 |
+| [U+11229](29.svgz) | KHOJKI LETTER SA | 1 |
+| [U+1122A](2A.svgz) | KHOJKI LETTER HA | 1 |
+| [U+1122B](2B.svgz) | KHOJKI LETTER LLA | 1 |
+| [U+1122C](2C.svgz) | KHOJKI VOWEL SIGN AA | 1 |
+| [U+1122D](2D.svgz) | KHOJKI VOWEL SIGN I | 1 |
+| [U+1122E](2E.svgz) | KHOJKI VOWEL SIGN II | 1 |
+| [U+1122F](2F.svgz) | KHOJKI VOWEL SIGN U | 1 |
+| [U+11230](30.svgz) | KHOJKI VOWEL SIGN E | 1 |
+| [U+11231](31.svgz) | KHOJKI VOWEL SIGN AI | 1 |
+| [U+11232](32.svgz) | KHOJKI VOWEL SIGN O | 1 |
+| [U+11233](33.svgz) | KHOJKI VOWEL SIGN AU | 1 |
+| [U+11234](34.svgz) | KHOJKI SIGN ANUSVARA | 1 |
+| [U+11235](35.svgz) | KHOJKI SIGN VIRAMA | 1 |
+| [U+11236](36.svgz) | KHOJKI SIGN NUKTA | 1 |
+| [U+11237](37.svgz) | KHOJKI SIGN SHADDA | 1 |
+| [U+11238](38.svgz) | KHOJKI DANDA | 1 |
+| [U+11239](39.svgz) | KHOJKI DOUBLE DANDA | 1 |
+| [U+1123A](3A.svgz) | KHOJKI WORD SEPARATOR | 1 |
+| [U+1123B](3B.svgz) | KHOJKI SECTION MARK | 1 |
+| [U+1123C](3C.svgz) | KHOJKI DOUBLE SECTION MARK | 1 |
+| [U+1123D](3D.svgz) | KHOJKI ABBREVIATION SIGN | 1 |
+| [U+1123E](3E.svgz) | KHOJKI SIGN SUKUN | 1 |
+| [U+1123F](3F.svgz) | KHOJKI LETTER QA | 1 |
+| [U+11240](40.svgz) | KHOJKI LETTER SHORT I | 1 |
+| [U+11241](41.svgz) | KHOJKI VOWEL SIGN VOCALIC R | 1 |
+| [U+11280](80.svgz) | MULTANI LETTER A | 1 |
+| [U+11281](81.svgz) | MULTANI LETTER I | 1 |
+| [U+11282](82.svgz) | MULTANI LETTER U | 1 |
+| [U+11283](83.svgz) | MULTANI LETTER E | 1 |
+| [U+11284](84.svgz) | MULTANI LETTER KA | 1 |
+| [U+11285](85.svgz) | MULTANI LETTER KHA | 1 |
+| [U+11286](86.svgz) | MULTANI LETTER GA | 1 |
+| [U+11288](88.svgz) | MULTANI LETTER GHA | 1 |
+| [U+1128A](8A.svgz) | MULTANI LETTER CA | 1 |
+| [U+1128B](8B.svgz) | MULTANI LETTER CHA | 1 |
+| [U+1128C](8C.svgz) | MULTANI LETTER JA | 1 |
+| [U+1128D](8D.svgz) | MULTANI LETTER JJA | 1 |
+| [U+1128F](8F.svgz) | MULTANI LETTER NYA | 1 |
+| [U+11290](90.svgz) | MULTANI LETTER TTA | 1 |
+| [U+11291](91.svgz) | MULTANI LETTER TTHA | 1 |
+| [U+11292](92.svgz) | MULTANI LETTER DDA | 1 |
+| [U+11293](93.svgz) | MULTANI LETTER DDDA | 1 |
+| [U+11294](94.svgz) | MULTANI LETTER DDHA | 1 |
+| [U+11295](95.svgz) | MULTANI LETTER NNA | 1 |
+| [U+11296](96.svgz) | MULTANI LETTER TA | 1 |
+| [U+11297](97.svgz) | MULTANI LETTER THA | 1 |
+| [U+11298](98.svgz) | MULTANI LETTER DA | 1 |
+| [U+11299](99.svgz) | MULTANI LETTER DHA | 1 |
+| [U+1129A](9A.svgz) | MULTANI LETTER NA | 1 |
+| [U+1129B](9B.svgz) | MULTANI LETTER PA | 1 |
+| [U+1129C](9C.svgz) | MULTANI LETTER PHA | 1 |
+| [U+1129D](9D.svgz) | MULTANI LETTER BA | 1 |
+| [U+1129F](9F.svgz) | MULTANI LETTER BHA | 1 |
+| [U+112A0](A0.svgz) | MULTANI LETTER MA | 1 |
+| [U+112A1](A1.svgz) | MULTANI LETTER YA | 1 |
+| [U+112A2](A2.svgz) | MULTANI LETTER RA | 1 |
+| [U+112A3](A3.svgz) | MULTANI LETTER LA | 1 |
+| [U+112A4](A4.svgz) | MULTANI LETTER VA | 1 |
+| [U+112A5](A5.svgz) | MULTANI LETTER SA | 1 |
+| [U+112A6](A6.svgz) | MULTANI LETTER HA | 1 |
+| [U+112A7](A7.svgz) | MULTANI LETTER RRA | 1 |
+| [U+112A8](A8.svgz) | MULTANI LETTER RHA | 1 |
+| [U+112A9](A9.svgz) | MULTANI SECTION MARK | 1 |
+| [U+112B0](B0.svgz) | KHUDAWADI LETTER A | 1 |
+| [U+112B1](B1.svgz) | KHUDAWADI LETTER AA | 1 |
+| [U+112B2](B2.svgz) | KHUDAWADI LETTER I | 1 |
+| [U+112B3](B3.svgz) | KHUDAWADI LETTER II | 1 |
+| [U+112B4](B4.svgz) | KHUDAWADI LETTER U | 1 |
+| [U+112B5](B5.svgz) | KHUDAWADI LETTER UU | 1 |
+| [U+112B6](B6.svgz) | KHUDAWADI LETTER E | 1 |
+| [U+112B7](B7.svgz) | KHUDAWADI LETTER AI | 1 |
+| [U+112B8](B8.svgz) | KHUDAWADI LETTER O | 1 |
+| [U+112B9](B9.svgz) | KHUDAWADI LETTER AU | 1 |
+| [U+112BA](BA.svgz) | KHUDAWADI LETTER KA | 1 |
+| [U+112BB](BB.svgz) | KHUDAWADI LETTER KHA | 1 |
+| [U+112BC](BC.svgz) | KHUDAWADI LETTER GA | 1 |
+| [U+112BD](BD.svgz) | KHUDAWADI LETTER GGA | 1 |
+| [U+112BE](BE.svgz) | KHUDAWADI LETTER GHA | 1 |
+| [U+112BF](BF.svgz) | KHUDAWADI LETTER NGA | 1 |
+| [U+112C0](C0.svgz) | KHUDAWADI LETTER CA | 1 |
+| [U+112C1](C1.svgz) | KHUDAWADI LETTER CHA | 1 |
+| [U+112C2](C2.svgz) | KHUDAWADI LETTER JA | 1 |
+| [U+112C3](C3.svgz) | KHUDAWADI LETTER JJA | 1 |
+| [U+112C4](C4.svgz) | KHUDAWADI LETTER JHA | 1 |
+| [U+112C5](C5.svgz) | KHUDAWADI LETTER NYA | 1 |
+| [U+112C6](C6.svgz) | KHUDAWADI LETTER TTA | 1 |
+| [U+112C7](C7.svgz) | KHUDAWADI LETTER TTHA | 1 |
+| [U+112C8](C8.svgz) | KHUDAWADI LETTER DDA | 1 |
+| [U+112C9](C9.svgz) | KHUDAWADI LETTER DDDA | 1 |
+| [U+112CA](CA.svgz) | KHUDAWADI LETTER RRA | 1 |
+| [U+112CB](CB.svgz) | KHUDAWADI LETTER DDHA | 1 |
+| [U+112CC](CC.svgz) | KHUDAWADI LETTER NNA | 1 |
+| [U+112CD](CD.svgz) | KHUDAWADI LETTER TA | 1 |
+| [U+112CE](CE.svgz) | KHUDAWADI LETTER THA | 1 |
+| [U+112CF](CF.svgz) | KHUDAWADI LETTER DA | 1 |
+| [U+112D0](D0.svgz) | KHUDAWADI LETTER DHA | 1 |
+| [U+112D1](D1.svgz) | KHUDAWADI LETTER NA | 1 |
+| [U+112D2](D2.svgz) | KHUDAWADI LETTER PA | 1 |
+| [U+112D3](D3.svgz) | KHUDAWADI LETTER PHA | 1 |
+| [U+112D4](D4.svgz) | KHUDAWADI LETTER BA | 1 |
+| [U+112D5](D5.svgz) | KHUDAWADI LETTER BBA | 1 |
+| [U+112D6](D6.svgz) | KHUDAWADI LETTER BHA | 1 |
+| [U+112D7](D7.svgz) | KHUDAWADI LETTER MA | 1 |
+| [U+112D8](D8.svgz) | KHUDAWADI LETTER YA | 1 |
+| [U+112D9](D9.svgz) | KHUDAWADI LETTER RA | 1 |
+| [U+112DA](DA.svgz) | KHUDAWADI LETTER LA | 1 |
+| [U+112DB](DB.svgz) | KHUDAWADI LETTER VA | 1 |
+| [U+112DC](DC.svgz) | KHUDAWADI LETTER SHA | 1 |
+| [U+112DD](DD.svgz) | KHUDAWADI LETTER SA | 1 |
+| [U+112DE](DE.svgz) | KHUDAWADI LETTER HA | 1 |
+| [U+112DF](DF.svgz) | KHUDAWADI SIGN ANUSVARA | 1 |
+| [U+112E0](E0.svgz) | KHUDAWADI VOWEL SIGN AA | 1 |
+| [U+112E1](E1.svgz) | KHUDAWADI VOWEL SIGN I | 1 |
+| [U+112E2](E2.svgz) | KHUDAWADI VOWEL SIGN II | 1 |
+| [U+112E3](E3.svgz) | KHUDAWADI VOWEL SIGN U | 1 |
+| [U+112E4](E4.svgz) | KHUDAWADI VOWEL SIGN UU | 1 |
+| [U+112E5](E5.svgz) | KHUDAWADI VOWEL SIGN E | 1 |
+| [U+112E6](E6.svgz) | KHUDAWADI VOWEL SIGN AI | 1 |
+| [U+112E7](E7.svgz) | KHUDAWADI VOWEL SIGN O | 1 |
+| [U+112E8](E8.svgz) | KHUDAWADI VOWEL SIGN AU | 1 |
+| [U+112E9](E9.svgz) | KHUDAWADI SIGN NUKTA | 1 |
+| [U+112EA](EA.svgz) | KHUDAWADI SIGN VIRAMA | 1 |
+| [U+112F0](F0.svgz) | KHUDAWADI DIGIT ZERO | 1 |
+| [U+112F1](F1.svgz) | KHUDAWADI DIGIT ONE | 1 |
+| [U+112F2](F2.svgz) | KHUDAWADI DIGIT TWO | 1 |
+| [U+112F3](F3.svgz) | KHUDAWADI DIGIT THREE | 1 |
+| [U+112F4](F4.svgz) | KHUDAWADI DIGIT FOUR | 1 |
+| [U+112F5](F5.svgz) | KHUDAWADI DIGIT FIVE | 1 |
+| [U+112F6](F6.svgz) | KHUDAWADI DIGIT SIX | 1 |
+| [U+112F7](F7.svgz) | KHUDAWADI DIGIT SEVEN | 1 |
+| [U+112F8](F8.svgz) | KHUDAWADI DIGIT EIGHT | 1 |
+| [U+112F9](F9.svgz) | KHUDAWADI DIGIT NINE | 1 |

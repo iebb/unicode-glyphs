@@ -1,0 +1,147 @@
+# U01/1F reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+11F00](00.svgz) | KAWI SIGN CANDRABINDU | 1 |
+| [U+11F01](01.svgz) | KAWI SIGN ANUSVARA | 1 |
+| [U+11F02](02.svgz) | KAWI SIGN REPHA | 1 |
+| [U+11F03](03.svgz) | KAWI SIGN VISARGA | 1 |
+| [U+11F04](04.svgz) | KAWI LETTER A | 1 |
+| [U+11F05](05.svgz) | KAWI LETTER AA | 1 |
+| [U+11F06](06.svgz) | KAWI LETTER I | 1 |
+| [U+11F07](07.svgz) | KAWI LETTER II | 1 |
+| [U+11F08](08.svgz) | KAWI LETTER U | 1 |
+| [U+11F09](09.svgz) | KAWI LETTER UU | 1 |
+| [U+11F0A](0A.svgz) | KAWI LETTER VOCALIC R | 1 |
+| [U+11F0B](0B.svgz) | KAWI LETTER VOCALIC RR | 1 |
+| [U+11F0C](0C.svgz) | KAWI LETTER VOCALIC L | 1 |
+| [U+11F0D](0D.svgz) | KAWI LETTER VOCALIC LL | 1 |
+| [U+11F0E](0E.svgz) | KAWI LETTER E | 1 |
+| [U+11F0F](0F.svgz) | KAWI LETTER AI | 1 |
+| [U+11F10](10.svgz) | KAWI LETTER O | 1 |
+| [U+11F12](12.svgz) | KAWI LETTER KA | 1 |
+| [U+11F13](13.svgz) | KAWI LETTER KHA | 1 |
+| [U+11F14](14.svgz) | KAWI LETTER GA | 1 |
+| [U+11F15](15.svgz) | KAWI LETTER GHA | 1 |
+| [U+11F16](16.svgz) | KAWI LETTER NGA | 1 |
+| [U+11F17](17.svgz) | KAWI LETTER CA | 1 |
+| [U+11F18](18.svgz) | KAWI LETTER CHA | 1 |
+| [U+11F19](19.svgz) | KAWI LETTER JA | 1 |
+| [U+11F1A](1A.svgz) | KAWI LETTER JHA | 1 |
+| [U+11F1B](1B.svgz) | KAWI LETTER NYA | 1 |
+| [U+11F1C](1C.svgz) | KAWI LETTER TTA | 1 |
+| [U+11F1D](1D.svgz) | KAWI LETTER TTHA | 1 |
+| [U+11F1E](1E.svgz) | KAWI LETTER DDA | 1 |
+| [U+11F1F](1F.svgz) | KAWI LETTER DDHA | 1 |
+| [U+11F20](20.svgz) | KAWI LETTER NNA | 1 |
+| [U+11F21](21.svgz) | KAWI LETTER TA | 1 |
+| [U+11F22](22.svgz) | KAWI LETTER THA | 1 |
+| [U+11F23](23.svgz) | KAWI LETTER DA | 1 |
+| [U+11F24](24.svgz) | KAWI LETTER DHA | 1 |
+| [U+11F25](25.svgz) | KAWI LETTER NA | 1 |
+| [U+11F26](26.svgz) | KAWI LETTER PA | 1 |
+| [U+11F27](27.svgz) | KAWI LETTER PHA | 1 |
+| [U+11F28](28.svgz) | KAWI LETTER BA | 1 |
+| [U+11F29](29.svgz) | KAWI LETTER BHA | 1 |
+| [U+11F2A](2A.svgz) | KAWI LETTER MA | 1 |
+| [U+11F2B](2B.svgz) | KAWI LETTER YA | 1 |
+| [U+11F2C](2C.svgz) | KAWI LETTER RA | 1 |
+| [U+11F2D](2D.svgz) | KAWI LETTER LA | 1 |
+| [U+11F2E](2E.svgz) | KAWI LETTER WA | 1 |
+| [U+11F2F](2F.svgz) | KAWI LETTER SHA | 1 |
+| [U+11F30](30.svgz) | KAWI LETTER SSA | 1 |
+| [U+11F31](31.svgz) | KAWI LETTER SA | 1 |
+| [U+11F32](32.svgz) | KAWI LETTER HA | 1 |
+| [U+11F33](33.svgz) | KAWI LETTER JNYA | 1 |
+| [U+11F34](34.svgz) | KAWI VOWEL SIGN AA | 1 |
+| [U+11F35](35.svgz) | KAWI VOWEL SIGN ALTERNATE AA | 1 |
+| [U+11F36](36.svgz) | KAWI VOWEL SIGN I | 1 |
+| [U+11F37](37.svgz) | KAWI VOWEL SIGN II | 1 |
+| [U+11F38](38.svgz) | KAWI VOWEL SIGN U | 1 |
+| [U+11F39](39.svgz) | KAWI VOWEL SIGN UU | 1 |
+| [U+11F3A](3A.svgz) | KAWI VOWEL SIGN VOCALIC R | 1 |
+| [U+11F3E](3E.svgz) | KAWI VOWEL SIGN E | 1 |
+| [U+11F3F](3F.svgz) | KAWI VOWEL SIGN AI | 1 |
+| [U+11F40](40.svgz) | KAWI VOWEL SIGN EU | 1 |
+| [U+11F41](41.svgz) | KAWI SIGN KILLER | 1 |
+| [U+11F42](42.svgz) | KAWI CONJOINER | 1 |
+| [U+11F43](43.svgz) | KAWI DANDA | 1 |
+| [U+11F44](44.svgz) | KAWI DOUBLE DANDA | 1 |
+| [U+11F45](45.svgz) | KAWI PUNCTUATION SECTION MARKER | 1 |
+| [U+11F46](46.svgz) | KAWI PUNCTUATION ALTERNATE SECTION MARKER | 1 |
+| [U+11F47](47.svgz) | KAWI PUNCTUATION FLOWER | 1 |
+| [U+11F48](48.svgz) | KAWI PUNCTUATION SPACE FILLER | 1 |
+| [U+11F49](49.svgz) | KAWI PUNCTUATION DOT | 1 |
+| [U+11F4A](4A.svgz) | KAWI PUNCTUATION DOUBLE DOT | 1 |
+| [U+11F4B](4B.svgz) | KAWI PUNCTUATION TRIPLE DOT | 1 |
+| [U+11F4C](4C.svgz) | KAWI PUNCTUATION CIRCLE | 1 |
+| [U+11F4D](4D.svgz) | KAWI PUNCTUATION FILLED CIRCLE | 1 |
+| [U+11F4E](4E.svgz) | KAWI PUNCTUATION SPIRAL | 1 |
+| [U+11F4F](4F.svgz) | KAWI PUNCTUATION CLOSING SPIRAL | 1 |
+| [U+11F50](50.svgz) | KAWI DIGIT ZERO | 1 |
+| [U+11F51](51.svgz) | KAWI DIGIT ONE | 1 |
+| [U+11F52](52.svgz) | KAWI DIGIT TWO | 1 |
+| [U+11F53](53.svgz) | KAWI DIGIT THREE | 1 |
+| [U+11F54](54.svgz) | KAWI DIGIT FOUR | 1 |
+| [U+11F55](55.svgz) | KAWI DIGIT FIVE | 1 |
+| [U+11F56](56.svgz) | KAWI DIGIT SIX | 1 |
+| [U+11F57](57.svgz) | KAWI DIGIT SEVEN | 1 |
+| [U+11F58](58.svgz) | KAWI DIGIT EIGHT | 1 |
+| [U+11F59](59.svgz) | KAWI DIGIT NINE | 1 |
+| [U+11F5A](5A.svgz) | KAWI SIGN NUKTA | 1 |
+| [U+11FB0](B0.svgz) | LISU LETTER YHA | 1 |
+| [U+11FC0](C0.svgz) | TAMIL FRACTION ONE THREE-HUNDRED-AND-TWENTIETH | 1 |
+| [U+11FC1](C1.svgz) | TAMIL FRACTION ONE ONE-HUNDRED-AND-SIXTIETH | 1 |
+| [U+11FC2](C2.svgz) | TAMIL FRACTION ONE EIGHTIETH | 1 |
+| [U+11FC3](C3.svgz) | TAMIL FRACTION ONE SIXTY-FOURTH | 1 |
+| [U+11FC4](C4.svgz) | TAMIL FRACTION ONE FORTIETH | 1 |
+| [U+11FC5](C5.svgz) | TAMIL FRACTION ONE THIRTY-SECOND | 1 |
+| [U+11FC6](C6.svgz) | TAMIL FRACTION THREE EIGHTIETHS | 1 |
+| [U+11FC7](C7.svgz) | TAMIL FRACTION THREE SIXTY-FOURTHS | 1 |
+| [U+11FC8](C8.svgz) | TAMIL FRACTION ONE TWENTIETH | 1 |
+| [U+11FC9](C9.svgz) | TAMIL FRACTION ONE SIXTEENTH-1 | 1 |
+| [U+11FCA](CA.svgz) | TAMIL FRACTION ONE SIXTEENTH-2 | 1 |
+| [U+11FCB](CB.svgz) | TAMIL FRACTION ONE TENTH | 1 |
+| [U+11FCC](CC.svgz) | TAMIL FRACTION ONE EIGHTH | 1 |
+| [U+11FCD](CD.svgz) | TAMIL FRACTION THREE TWENTIETHS | 1 |
+| [U+11FCE](CE.svgz) | TAMIL FRACTION THREE SIXTEENTHS | 1 |
+| [U+11FCF](CF.svgz) | TAMIL FRACTION ONE FIFTH | 1 |
+| [U+11FD0](D0.svgz) | TAMIL FRACTION ONE QUARTER | 1 |
+| [U+11FD1](D1.svgz) | TAMIL FRACTION ONE HALF-1 | 1 |
+| [U+11FD2](D2.svgz) | TAMIL FRACTION ONE HALF-2 | 1 |
+| [U+11FD3](D3.svgz) | TAMIL FRACTION THREE QUARTERS | 1 |
+| [U+11FD4](D4.svgz) | TAMIL FRACTION DOWNSCALING FACTOR KIIZH | 1 |
+| [U+11FD5](D5.svgz) | TAMIL SIGN NEL | 1 |
+| [U+11FD6](D6.svgz) | TAMIL SIGN CEVITU | 1 |
+| [U+11FD7](D7.svgz) | TAMIL SIGN AAZHAAKKU | 1 |
+| [U+11FD8](D8.svgz) | TAMIL SIGN UZHAKKU | 1 |
+| [U+11FD9](D9.svgz) | TAMIL SIGN MUUVUZHAKKU | 1 |
+| [U+11FDA](DA.svgz) | TAMIL SIGN KURUNI | 1 |
+| [U+11FDB](DB.svgz) | TAMIL SIGN PATHAKKU | 1 |
+| [U+11FDC](DC.svgz) | TAMIL SIGN MUKKURUNI | 1 |
+| [U+11FDD](DD.svgz) | TAMIL SIGN KAACU | 1 |
+| [U+11FDE](DE.svgz) | TAMIL SIGN PANAM | 1 |
+| [U+11FDF](DF.svgz) | TAMIL SIGN PON | 1 |
+| [U+11FE0](E0.svgz) | TAMIL SIGN VARAAKAN | 1 |
+| [U+11FE1](E1.svgz) | TAMIL SIGN PAARAM | 1 |
+| [U+11FE2](E2.svgz) | TAMIL SIGN KUZHI | 1 |
+| [U+11FE3](E3.svgz) | TAMIL SIGN VELI | 1 |
+| [U+11FE4](E4.svgz) | TAMIL WET CULTIVATION SIGN | 1 |
+| [U+11FE5](E5.svgz) | TAMIL DRY CULTIVATION SIGN | 1 |
+| [U+11FE6](E6.svgz) | TAMIL LAND SIGN | 1 |
+| [U+11FE7](E7.svgz) | TAMIL SALT PAN SIGN | 1 |
+| [U+11FE8](E8.svgz) | TAMIL TRADITIONAL CREDIT SIGN | 1 |
+| [U+11FE9](E9.svgz) | TAMIL TRADITIONAL NUMBER SIGN | 1 |
+| [U+11FEA](EA.svgz) | TAMIL CURRENT SIGN | 1 |
+| [U+11FEB](EB.svgz) | TAMIL AND ODD SIGN | 1 |
+| [U+11FEC](EC.svgz) | TAMIL SPENT SIGN | 1 |
+| [U+11FED](ED.svgz) | TAMIL TOTAL SIGN | 1 |
+| [U+11FEE](EE.svgz) | TAMIL IN POSSESSION SIGN | 1 |
+| [U+11FEF](EF.svgz) | TAMIL STARTING FROM SIGN | 1 |
+| [U+11FF0](F0.svgz) | TAMIL SIGN MUTHALIYA | 1 |
+| [U+11FF1](F1.svgz) | TAMIL SIGN VAKAIYARAA | 1 |
+| [U+11FFF](FF.svgz) | TAMIL PUNCTUATION END OF TEXT | 1 |

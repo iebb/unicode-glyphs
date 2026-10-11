@@ -1,0 +1,188 @@
+# U01/16 reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+11600](00.svgz) | MODI LETTER A | 1 |
+| [U+11601](01.svgz) | MODI LETTER AA | 1 |
+| [U+11602](02.svgz) | MODI LETTER I | 1 |
+| [U+11603](03.svgz) | MODI LETTER II | 1 |
+| [U+11604](04.svgz) | MODI LETTER U | 1 |
+| [U+11605](05.svgz) | MODI LETTER UU | 1 |
+| [U+11606](06.svgz) | MODI LETTER VOCALIC R | 1 |
+| [U+11607](07.svgz) | MODI LETTER VOCALIC RR | 1 |
+| [U+11608](08.svgz) | MODI LETTER VOCALIC L | 1 |
+| [U+11609](09.svgz) | MODI LETTER VOCALIC LL | 1 |
+| [U+1160A](0A.svgz) | MODI LETTER E | 1 |
+| [U+1160B](0B.svgz) | MODI LETTER AI | 1 |
+| [U+1160C](0C.svgz) | MODI LETTER O | 1 |
+| [U+1160D](0D.svgz) | MODI LETTER AU | 1 |
+| [U+1160E](0E.svgz) | MODI LETTER KA | 1 |
+| [U+1160F](0F.svgz) | MODI LETTER KHA | 1 |
+| [U+11610](10.svgz) | MODI LETTER GA | 1 |
+| [U+11611](11.svgz) | MODI LETTER GHA | 1 |
+| [U+11612](12.svgz) | MODI LETTER NGA | 1 |
+| [U+11613](13.svgz) | MODI LETTER CA | 1 |
+| [U+11614](14.svgz) | MODI LETTER CHA | 1 |
+| [U+11615](15.svgz) | MODI LETTER JA | 1 |
+| [U+11616](16.svgz) | MODI LETTER JHA | 1 |
+| [U+11617](17.svgz) | MODI LETTER NYA | 1 |
+| [U+11618](18.svgz) | MODI LETTER TTA | 1 |
+| [U+11619](19.svgz) | MODI LETTER TTHA | 1 |
+| [U+1161A](1A.svgz) | MODI LETTER DDA | 1 |
+| [U+1161B](1B.svgz) | MODI LETTER DDHA | 1 |
+| [U+1161C](1C.svgz) | MODI LETTER NNA | 1 |
+| [U+1161D](1D.svgz) | MODI LETTER TA | 1 |
+| [U+1161E](1E.svgz) | MODI LETTER THA | 1 |
+| [U+1161F](1F.svgz) | MODI LETTER DA | 1 |
+| [U+11620](20.svgz) | MODI LETTER DHA | 1 |
+| [U+11621](21.svgz) | MODI LETTER NA | 1 |
+| [U+11622](22.svgz) | MODI LETTER PA | 1 |
+| [U+11623](23.svgz) | MODI LETTER PHA | 1 |
+| [U+11624](24.svgz) | MODI LETTER BA | 1 |
+| [U+11625](25.svgz) | MODI LETTER BHA | 1 |
+| [U+11626](26.svgz) | MODI LETTER MA | 1 |
+| [U+11627](27.svgz) | MODI LETTER YA | 1 |
+| [U+11628](28.svgz) | MODI LETTER RA | 1 |
+| [U+11629](29.svgz) | MODI LETTER LA | 1 |
+| [U+1162A](2A.svgz) | MODI LETTER VA | 1 |
+| [U+1162B](2B.svgz) | MODI LETTER SHA | 1 |
+| [U+1162C](2C.svgz) | MODI LETTER SSA | 1 |
+| [U+1162D](2D.svgz) | MODI LETTER SA | 1 |
+| [U+1162E](2E.svgz) | MODI LETTER HA | 1 |
+| [U+1162F](2F.svgz) | MODI LETTER LLA | 1 |
+| [U+11630](30.svgz) | MODI VOWEL SIGN AA | 1 |
+| [U+11631](31.svgz) | MODI VOWEL SIGN I | 1 |
+| [U+11632](32.svgz) | MODI VOWEL SIGN II | 1 |
+| [U+11633](33.svgz) | MODI VOWEL SIGN U | 1 |
+| [U+11634](34.svgz) | MODI VOWEL SIGN UU | 1 |
+| [U+11635](35.svgz) | MODI VOWEL SIGN VOCALIC R | 1 |
+| [U+11636](36.svgz) | MODI VOWEL SIGN VOCALIC RR | 1 |
+| [U+11637](37.svgz) | MODI VOWEL SIGN VOCALIC L | 1 |
+| [U+11638](38.svgz) | MODI VOWEL SIGN VOCALIC LL | 1 |
+| [U+11639](39.svgz) | MODI VOWEL SIGN E | 1 |
+| [U+1163A](3A.svgz) | MODI VOWEL SIGN AI | 1 |
+| [U+1163B](3B.svgz) | MODI VOWEL SIGN O | 1 |
+| [U+1163C](3C.svgz) | MODI VOWEL SIGN AU | 1 |
+| [U+1163D](3D.svgz) | MODI SIGN ANUSVARA | 1 |
+| [U+1163E](3E.svgz) | MODI SIGN VISARGA | 1 |
+| [U+1163F](3F.svgz) | MODI SIGN VIRAMA | 1 |
+| [U+11640](40.svgz) | MODI SIGN ARDHACANDRA | 1 |
+| [U+11641](41.svgz) | MODI DANDA | 1 |
+| [U+11642](42.svgz) | MODI DOUBLE DANDA | 1 |
+| [U+11643](43.svgz) | MODI ABBREVIATION SIGN | 1 |
+| [U+11644](44.svgz) | MODI SIGN HUVA | 1 |
+| [U+11650](50.svgz) | MODI DIGIT ZERO | 1 |
+| [U+11651](51.svgz) | MODI DIGIT ONE | 1 |
+| [U+11652](52.svgz) | MODI DIGIT TWO | 1 |
+| [U+11653](53.svgz) | MODI DIGIT THREE | 1 |
+| [U+11654](54.svgz) | MODI DIGIT FOUR | 1 |
+| [U+11655](55.svgz) | MODI DIGIT FIVE | 1 |
+| [U+11656](56.svgz) | MODI DIGIT SIX | 1 |
+| [U+11657](57.svgz) | MODI DIGIT SEVEN | 1 |
+| [U+11658](58.svgz) | MODI DIGIT EIGHT | 1 |
+| [U+11659](59.svgz) | MODI DIGIT NINE | 1 |
+| [U+11660](60.svgz) | MONGOLIAN BIRGA WITH ORNAMENT | 1 |
+| [U+11661](61.svgz) | MONGOLIAN ROTATED BIRGA | 1 |
+| [U+11662](62.svgz) | MONGOLIAN DOUBLE BIRGA WITH ORNAMENT | 1 |
+| [U+11663](63.svgz) | MONGOLIAN TRIPLE BIRGA WITH ORNAMENT | 1 |
+| [U+11664](64.svgz) | MONGOLIAN BIRGA WITH DOUBLE ORNAMENT | 1 |
+| [U+11665](65.svgz) | MONGOLIAN ROTATED BIRGA WITH ORNAMENT | 1 |
+| [U+11666](66.svgz) | MONGOLIAN ROTATED BIRGA WITH DOUBLE ORNAMENT | 1 |
+| [U+11667](67.svgz) | MONGOLIAN INVERTED BIRGA | 1 |
+| [U+11668](68.svgz) | MONGOLIAN INVERTED BIRGA WITH DOUBLE ORNAMENT | 1 |
+| [U+11669](69.svgz) | MONGOLIAN SWIRL BIRGA | 1 |
+| [U+1166A](6A.svgz) | MONGOLIAN SWIRL BIRGA WITH ORNAMENT | 1 |
+| [U+1166B](6B.svgz) | MONGOLIAN SWIRL BIRGA WITH DOUBLE ORNAMENT | 1 |
+| [U+1166C](6C.svgz) | MONGOLIAN TURNED SWIRL BIRGA WITH DOUBLE ORNAMENT | 1 |
+| [U+11680](80.svgz) | TAKRI LETTER A | 1 |
+| [U+11681](81.svgz) | TAKRI LETTER AA | 1 |
+| [U+11682](82.svgz) | TAKRI LETTER I | 1 |
+| [U+11683](83.svgz) | TAKRI LETTER II | 1 |
+| [U+11684](84.svgz) | TAKRI LETTER U | 1 |
+| [U+11685](85.svgz) | TAKRI LETTER UU | 1 |
+| [U+11686](86.svgz) | TAKRI LETTER E | 1 |
+| [U+11687](87.svgz) | TAKRI LETTER AI | 1 |
+| [U+11688](88.svgz) | TAKRI LETTER O | 1 |
+| [U+11689](89.svgz) | TAKRI LETTER AU | 1 |
+| [U+1168A](8A.svgz) | TAKRI LETTER KA | 1 |
+| [U+1168B](8B.svgz) | TAKRI LETTER KHA | 1 |
+| [U+1168C](8C.svgz) | TAKRI LETTER GA | 1 |
+| [U+1168D](8D.svgz) | TAKRI LETTER GHA | 1 |
+| [U+1168E](8E.svgz) | TAKRI LETTER NGA | 1 |
+| [U+1168F](8F.svgz) | TAKRI LETTER CA | 1 |
+| [U+11690](90.svgz) | TAKRI LETTER CHA | 1 |
+| [U+11691](91.svgz) | TAKRI LETTER JA | 1 |
+| [U+11692](92.svgz) | TAKRI LETTER JHA | 1 |
+| [U+11693](93.svgz) | TAKRI LETTER NYA | 1 |
+| [U+11694](94.svgz) | TAKRI LETTER TTA | 1 |
+| [U+11695](95.svgz) | TAKRI LETTER TTHA | 1 |
+| [U+11696](96.svgz) | TAKRI LETTER DDA | 1 |
+| [U+11697](97.svgz) | TAKRI LETTER DDHA | 1 |
+| [U+11698](98.svgz) | TAKRI LETTER NNA | 1 |
+| [U+11699](99.svgz) | TAKRI LETTER TA | 1 |
+| [U+1169A](9A.svgz) | TAKRI LETTER THA | 1 |
+| [U+1169B](9B.svgz) | TAKRI LETTER DA | 1 |
+| [U+1169C](9C.svgz) | TAKRI LETTER DHA | 1 |
+| [U+1169D](9D.svgz) | TAKRI LETTER NA | 1 |
+| [U+1169E](9E.svgz) | TAKRI LETTER PA | 1 |
+| [U+1169F](9F.svgz) | TAKRI LETTER PHA | 1 |
+| [U+116A0](A0.svgz) | TAKRI LETTER BA | 1 |
+| [U+116A1](A1.svgz) | TAKRI LETTER BHA | 1 |
+| [U+116A2](A2.svgz) | TAKRI LETTER MA | 1 |
+| [U+116A3](A3.svgz) | TAKRI LETTER YA | 1 |
+| [U+116A4](A4.svgz) | TAKRI LETTER RA | 1 |
+| [U+116A5](A5.svgz) | TAKRI LETTER LA | 1 |
+| [U+116A6](A6.svgz) | TAKRI LETTER VA | 1 |
+| [U+116A7](A7.svgz) | TAKRI LETTER SHA | 1 |
+| [U+116A8](A8.svgz) | TAKRI LETTER SA | 1 |
+| [U+116A9](A9.svgz) | TAKRI LETTER HA | 1 |
+| [U+116AA](AA.svgz) | TAKRI LETTER RRA | 1 |
+| [U+116AB](AB.svgz) | TAKRI SIGN ANUSVARA | 1 |
+| [U+116AC](AC.svgz) | TAKRI SIGN VISARGA | 1 |
+| [U+116AD](AD.svgz) | TAKRI VOWEL SIGN AA | 1 |
+| [U+116AE](AE.svgz) | TAKRI VOWEL SIGN I | 1 |
+| [U+116AF](AF.svgz) | TAKRI VOWEL SIGN II | 1 |
+| [U+116B0](B0.svgz) | TAKRI VOWEL SIGN U | 1 |
+| [U+116B1](B1.svgz) | TAKRI VOWEL SIGN UU | 1 |
+| [U+116B2](B2.svgz) | TAKRI VOWEL SIGN E | 1 |
+| [U+116B3](B3.svgz) | TAKRI VOWEL SIGN AI | 1 |
+| [U+116B4](B4.svgz) | TAKRI VOWEL SIGN O | 1 |
+| [U+116B5](B5.svgz) | TAKRI VOWEL SIGN AU | 1 |
+| [U+116B6](B6.svgz) | TAKRI SIGN VIRAMA | 1 |
+| [U+116B7](B7.svgz) | TAKRI SIGN NUKTA | 1 |
+| [U+116B8](B8.svgz) | TAKRI LETTER ARCHAIC KHA | 1 |
+| [U+116B9](B9.svgz) | TAKRI ABBREVIATION SIGN | 1 |
+| [U+116C0](C0.svgz) | TAKRI DIGIT ZERO | 1 |
+| [U+116C1](C1.svgz) | TAKRI DIGIT ONE | 1 |
+| [U+116C2](C2.svgz) | TAKRI DIGIT TWO | 1 |
+| [U+116C3](C3.svgz) | TAKRI DIGIT THREE | 1 |
+| [U+116C4](C4.svgz) | TAKRI DIGIT FOUR | 1 |
+| [U+116C5](C5.svgz) | TAKRI DIGIT FIVE | 1 |
+| [U+116C6](C6.svgz) | TAKRI DIGIT SIX | 1 |
+| [U+116C7](C7.svgz) | TAKRI DIGIT SEVEN | 1 |
+| [U+116C8](C8.svgz) | TAKRI DIGIT EIGHT | 1 |
+| [U+116C9](C9.svgz) | TAKRI DIGIT NINE | 1 |
+| [U+116D0](D0.svgz) | MYANMAR PAO DIGIT ZERO | 1 |
+| [U+116D1](D1.svgz) | MYANMAR PAO DIGIT ONE | 1 |
+| [U+116D2](D2.svgz) | MYANMAR PAO DIGIT TWO | 1 |
+| [U+116D3](D3.svgz) | MYANMAR PAO DIGIT THREE | 1 |
+| [U+116D4](D4.svgz) | MYANMAR PAO DIGIT FOUR | 1 |
+| [U+116D5](D5.svgz) | MYANMAR PAO DIGIT FIVE | 1 |
+| [U+116D6](D6.svgz) | MYANMAR PAO DIGIT SIX | 1 |
+| [U+116D7](D7.svgz) | MYANMAR PAO DIGIT SEVEN | 1 |
+| [U+116D8](D8.svgz) | MYANMAR PAO DIGIT EIGHT | 1 |
+| [U+116D9](D9.svgz) | MYANMAR PAO DIGIT NINE | 1 |
+| [U+116DA](DA.svgz) | MYANMAR EASTERN PWO KAREN DIGIT ZERO | 1 |
+| [U+116DB](DB.svgz) | MYANMAR EASTERN PWO KAREN DIGIT ONE | 1 |
+| [U+116DC](DC.svgz) | MYANMAR EASTERN PWO KAREN DIGIT TWO | 1 |
+| [U+116DD](DD.svgz) | MYANMAR EASTERN PWO KAREN DIGIT THREE | 1 |
+| [U+116DE](DE.svgz) | MYANMAR EASTERN PWO KAREN DIGIT FOUR | 1 |
+| [U+116DF](DF.svgz) | MYANMAR EASTERN PWO KAREN DIGIT FIVE | 1 |
+| [U+116E0](E0.svgz) | MYANMAR EASTERN PWO KAREN DIGIT SIX | 1 |
+| [U+116E1](E1.svgz) | MYANMAR EASTERN PWO KAREN DIGIT SEVEN | 1 |
+| [U+116E2](E2.svgz) | MYANMAR EASTERN PWO KAREN DIGIT EIGHT | 1 |
+| [U+116E3](E3.svgz) | MYANMAR EASTERN PWO KAREN DIGIT NINE | 1 |

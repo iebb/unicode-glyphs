@@ -1,0 +1,36 @@
+# U01/E7 reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+1E7E0](E0.svgz) | ETHIOPIC SYLLABLE HHYA | 1 |
+| [U+1E7E1](E1.svgz) | ETHIOPIC SYLLABLE HHYU | 1 |
+| [U+1E7E2](E2.svgz) | ETHIOPIC SYLLABLE HHYI | 1 |
+| [U+1E7E3](E3.svgz) | ETHIOPIC SYLLABLE HHYAA | 1 |
+| [U+1E7E4](E4.svgz) | ETHIOPIC SYLLABLE HHYEE | 1 |
+| [U+1E7E5](E5.svgz) | ETHIOPIC SYLLABLE HHYE | 1 |
+| [U+1E7E6](E6.svgz) | ETHIOPIC SYLLABLE HHYO | 1 |
+| [U+1E7E8](E8.svgz) | ETHIOPIC SYLLABLE GURAGE HHWA | 1 |
+| [U+1E7E9](E9.svgz) | ETHIOPIC SYLLABLE HHWI | 1 |
+| [U+1E7EA](EA.svgz) | ETHIOPIC SYLLABLE HHWEE | 1 |
+| [U+1E7EB](EB.svgz) | ETHIOPIC SYLLABLE HHWE | 1 |
+| [U+1E7ED](ED.svgz) | ETHIOPIC SYLLABLE GURAGE MWI | 1 |
+| [U+1E7EE](EE.svgz) | ETHIOPIC SYLLABLE GURAGE MWEE | 1 |
+| [U+1E7F0](F0.svgz) | ETHIOPIC SYLLABLE GURAGE QWI | 1 |
+| [U+1E7F1](F1.svgz) | ETHIOPIC SYLLABLE GURAGE QWEE | 1 |
+| [U+1E7F2](F2.svgz) | ETHIOPIC SYLLABLE GURAGE QWE | 1 |
+| [U+1E7F3](F3.svgz) | ETHIOPIC SYLLABLE GURAGE BWI | 1 |
+| [U+1E7F4](F4.svgz) | ETHIOPIC SYLLABLE GURAGE BWEE | 1 |
+| [U+1E7F5](F5.svgz) | ETHIOPIC SYLLABLE GURAGE KWI | 1 |
+| [U+1E7F6](F6.svgz) | ETHIOPIC SYLLABLE GURAGE KWEE | 1 |
+| [U+1E7F7](F7.svgz) | ETHIOPIC SYLLABLE GURAGE KWE | 1 |
+| [U+1E7F8](F8.svgz) | ETHIOPIC SYLLABLE GURAGE GWI | 1 |
+| [U+1E7F9](F9.svgz) | ETHIOPIC SYLLABLE GURAGE GWEE | 1 |
+| [U+1E7FA](FA.svgz) | ETHIOPIC SYLLABLE GURAGE GWE | 1 |
+| [U+1E7FB](FB.svgz) | ETHIOPIC SYLLABLE GURAGE FWI | 1 |
+| [U+1E7FC](FC.svgz) | ETHIOPIC SYLLABLE GURAGE FWEE | 1 |
+| [U+1E7FD](FD.svgz) | ETHIOPIC SYLLABLE GURAGE PWI | 1 |
+| [U+1E7FE](FE.svgz) | ETHIOPIC SYLLABLE GURAGE PWEE | 1 |

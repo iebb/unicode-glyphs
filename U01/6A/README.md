@@ -1,0 +1,233 @@
+# U01/6A reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+16A00](00.svgz) | BAMUM LETTER PHASE-E TEN | 1 |
+| [U+16A01](01.svgz) | BAMUM LETTER PHASE-E FAQ | 1 |
+| [U+16A02](02.svgz) | BAMUM LETTER PHASE-E GHOM | 1 |
+| [U+16A03](03.svgz) | BAMUM LETTER PHASE-F KA | 1 |
+| [U+16A04](04.svgz) | BAMUM LETTER PHASE-F U | 1 |
+| [U+16A05](05.svgz) | BAMUM LETTER PHASE-F KU | 1 |
+| [U+16A06](06.svgz) | BAMUM LETTER PHASE-F EE | 1 |
+| [U+16A07](07.svgz) | BAMUM LETTER PHASE-F REE | 1 |
+| [U+16A08](08.svgz) | BAMUM LETTER PHASE-F TAE | 1 |
+| [U+16A09](09.svgz) | BAMUM LETTER PHASE-F NYI | 1 |
+| [U+16A0A](0A.svgz) | BAMUM LETTER PHASE-F LA | 1 |
+| [U+16A0B](0B.svgz) | BAMUM LETTER PHASE-F RII | 1 |
+| [U+16A0C](0C.svgz) | BAMUM LETTER PHASE-F RIEE | 1 |
+| [U+16A0D](0D.svgz) | BAMUM LETTER PHASE-F MEEEE | 1 |
+| [U+16A0E](0E.svgz) | BAMUM LETTER PHASE-F TAA | 1 |
+| [U+16A0F](0F.svgz) | BAMUM LETTER PHASE-F NDAA | 1 |
+| [U+16A10](10.svgz) | BAMUM LETTER PHASE-F NJAEM | 1 |
+| [U+16A11](11.svgz) | BAMUM LETTER PHASE-F M | 1 |
+| [U+16A12](12.svgz) | BAMUM LETTER PHASE-F SUU | 1 |
+| [U+16A13](13.svgz) | BAMUM LETTER PHASE-F SHII | 1 |
+| [U+16A14](14.svgz) | BAMUM LETTER PHASE-F SI | 1 |
+| [U+16A15](15.svgz) | BAMUM LETTER PHASE-F SEUX | 1 |
+| [U+16A16](16.svgz) | BAMUM LETTER PHASE-F KYEE | 1 |
+| [U+16A17](17.svgz) | BAMUM LETTER PHASE-F KET | 1 |
+| [U+16A18](18.svgz) | BAMUM LETTER PHASE-F NUAE | 1 |
+| [U+16A19](19.svgz) | BAMUM LETTER PHASE-F NU | 1 |
+| [U+16A1A](1A.svgz) | BAMUM LETTER PHASE-F NJUAE | 1 |
+| [U+16A1B](1B.svgz) | BAMUM LETTER PHASE-F YOQ | 1 |
+| [U+16A1C](1C.svgz) | BAMUM LETTER PHASE-F SHU | 1 |
+| [U+16A1D](1D.svgz) | BAMUM LETTER PHASE-F YA | 1 |
+| [U+16A1E](1E.svgz) | BAMUM LETTER PHASE-F NSHA | 1 |
+| [U+16A1F](1F.svgz) | BAMUM LETTER PHASE-F PEUX | 1 |
+| [U+16A20](20.svgz) | BAMUM LETTER PHASE-F NTEE | 1 |
+| [U+16A21](21.svgz) | BAMUM LETTER PHASE-F WUE | 1 |
+| [U+16A22](22.svgz) | BAMUM LETTER PHASE-F PEE | 1 |
+| [U+16A23](23.svgz) | BAMUM LETTER PHASE-F RU | 1 |
+| [U+16A24](24.svgz) | BAMUM LETTER PHASE-F NI | 1 |
+| [U+16A25](25.svgz) | BAMUM LETTER PHASE-F REUX | 1 |
+| [U+16A26](26.svgz) | BAMUM LETTER PHASE-F KEN | 1 |
+| [U+16A27](27.svgz) | BAMUM LETTER PHASE-F NGKWAEN | 1 |
+| [U+16A28](28.svgz) | BAMUM LETTER PHASE-F NGGA | 1 |
+| [U+16A29](29.svgz) | BAMUM LETTER PHASE-F SHO | 1 |
+| [U+16A2A](2A.svgz) | BAMUM LETTER PHASE-F PUAE | 1 |
+| [U+16A2B](2B.svgz) | BAMUM LETTER PHASE-F FOM | 1 |
+| [U+16A2C](2C.svgz) | BAMUM LETTER PHASE-F WA | 1 |
+| [U+16A2D](2D.svgz) | BAMUM LETTER PHASE-F LI | 1 |
+| [U+16A2E](2E.svgz) | BAMUM LETTER PHASE-F LOQ | 1 |
+| [U+16A2F](2F.svgz) | BAMUM LETTER PHASE-F KO | 1 |
+| [U+16A30](30.svgz) | BAMUM LETTER PHASE-F MBEN | 1 |
+| [U+16A31](31.svgz) | BAMUM LETTER PHASE-F REN | 1 |
+| [U+16A32](32.svgz) | BAMUM LETTER PHASE-F MA | 1 |
+| [U+16A33](33.svgz) | BAMUM LETTER PHASE-F MO | 1 |
+| [U+16A34](34.svgz) | BAMUM LETTER PHASE-F MBAA | 1 |
+| [U+16A35](35.svgz) | BAMUM LETTER PHASE-F TET | 1 |
+| [U+16A36](36.svgz) | BAMUM LETTER PHASE-F KPA | 1 |
+| [U+16A37](37.svgz) | BAMUM LETTER PHASE-F SAMBA | 1 |
+| [U+16A38](38.svgz) | BAMUM LETTER PHASE-F VUEQ | 1 |
+| [U+16A40](40.svgz) | MRO LETTER TA | 1 |
+| [U+16A41](41.svgz) | MRO LETTER NGI | 1 |
+| [U+16A42](42.svgz) | MRO LETTER YO | 1 |
+| [U+16A43](43.svgz) | MRO LETTER MIM | 1 |
+| [U+16A44](44.svgz) | MRO LETTER BA | 1 |
+| [U+16A45](45.svgz) | MRO LETTER DA | 1 |
+| [U+16A46](46.svgz) | MRO LETTER A | 1 |
+| [U+16A47](47.svgz) | MRO LETTER PHI | 1 |
+| [U+16A48](48.svgz) | MRO LETTER KHAI | 1 |
+| [U+16A49](49.svgz) | MRO LETTER HAO | 1 |
+| [U+16A4A](4A.svgz) | MRO LETTER DAI | 1 |
+| [U+16A4B](4B.svgz) | MRO LETTER CHU | 1 |
+| [U+16A4C](4C.svgz) | MRO LETTER KEAAE | 1 |
+| [U+16A4D](4D.svgz) | MRO LETTER OL | 1 |
+| [U+16A4E](4E.svgz) | MRO LETTER MAEM | 1 |
+| [U+16A4F](4F.svgz) | MRO LETTER NIN | 1 |
+| [U+16A50](50.svgz) | MRO LETTER PA | 1 |
+| [U+16A51](51.svgz) | MRO LETTER OO | 1 |
+| [U+16A52](52.svgz) | MRO LETTER O | 1 |
+| [U+16A53](53.svgz) | MRO LETTER RO | 1 |
+| [U+16A54](54.svgz) | MRO LETTER SHI | 1 |
+| [U+16A55](55.svgz) | MRO LETTER THEA | 1 |
+| [U+16A56](56.svgz) | MRO LETTER EA | 1 |
+| [U+16A57](57.svgz) | MRO LETTER WA | 1 |
+| [U+16A58](58.svgz) | MRO LETTER E | 1 |
+| [U+16A59](59.svgz) | MRO LETTER KO | 1 |
+| [U+16A5A](5A.svgz) | MRO LETTER LAN | 1 |
+| [U+16A5B](5B.svgz) | MRO LETTER LA | 1 |
+| [U+16A5C](5C.svgz) | MRO LETTER HAI | 1 |
+| [U+16A5D](5D.svgz) | MRO LETTER RI | 1 |
+| [U+16A5E](5E.svgz) | MRO LETTER TEK | 1 |
+| [U+16A60](60.svgz) | MRO DIGIT ZERO | 1 |
+| [U+16A61](61.svgz) | MRO DIGIT ONE | 1 |
+| [U+16A62](62.svgz) | MRO DIGIT TWO | 1 |
+| [U+16A63](63.svgz) | MRO DIGIT THREE | 1 |
+| [U+16A64](64.svgz) | MRO DIGIT FOUR | 1 |
+| [U+16A65](65.svgz) | MRO DIGIT FIVE | 1 |
+| [U+16A66](66.svgz) | MRO DIGIT SIX | 1 |
+| [U+16A67](67.svgz) | MRO DIGIT SEVEN | 1 |
+| [U+16A68](68.svgz) | MRO DIGIT EIGHT | 1 |
+| [U+16A69](69.svgz) | MRO DIGIT NINE | 1 |
+| [U+16A6E](6E.svgz) | MRO DANDA | 1 |
+| [U+16A6F](6F.svgz) | MRO DOUBLE DANDA | 1 |
+| [U+16A70](70.svgz) | TANGSA LETTER OZ | 1 |
+| [U+16A71](71.svgz) | TANGSA LETTER OC | 1 |
+| [U+16A72](72.svgz) | TANGSA LETTER OQ | 1 |
+| [U+16A73](73.svgz) | TANGSA LETTER OX | 1 |
+| [U+16A74](74.svgz) | TANGSA LETTER AZ | 1 |
+| [U+16A75](75.svgz) | TANGSA LETTER AC | 1 |
+| [U+16A76](76.svgz) | TANGSA LETTER AQ | 1 |
+| [U+16A77](77.svgz) | TANGSA LETTER AX | 1 |
+| [U+16A78](78.svgz) | TANGSA LETTER VZ | 1 |
+| [U+16A79](79.svgz) | TANGSA LETTER VC | 1 |
+| [U+16A7A](7A.svgz) | TANGSA LETTER VQ | 1 |
+| [U+16A7B](7B.svgz) | TANGSA LETTER VX | 1 |
+| [U+16A7C](7C.svgz) | TANGSA LETTER EZ | 1 |
+| [U+16A7D](7D.svgz) | TANGSA LETTER EC | 1 |
+| [U+16A7E](7E.svgz) | TANGSA LETTER EQ | 1 |
+| [U+16A7F](7F.svgz) | TANGSA LETTER EX | 1 |
+| [U+16A80](80.svgz) | TANGSA LETTER IZ | 1 |
+| [U+16A81](81.svgz) | TANGSA LETTER IC | 1 |
+| [U+16A82](82.svgz) | TANGSA LETTER IQ | 1 |
+| [U+16A83](83.svgz) | TANGSA LETTER IX | 1 |
+| [U+16A84](84.svgz) | TANGSA LETTER UZ | 1 |
+| [U+16A85](85.svgz) | TANGSA LETTER UC | 1 |
+| [U+16A86](86.svgz) | TANGSA LETTER UQ | 1 |
+| [U+16A87](87.svgz) | TANGSA LETTER UX | 1 |
+| [U+16A88](88.svgz) | TANGSA LETTER AWZ | 1 |
+| [U+16A89](89.svgz) | TANGSA LETTER AWC | 1 |
+| [U+16A8A](8A.svgz) | TANGSA LETTER AWQ | 1 |
+| [U+16A8B](8B.svgz) | TANGSA LETTER AWX | 1 |
+| [U+16A8C](8C.svgz) | TANGSA LETTER UIZ | 1 |
+| [U+16A8D](8D.svgz) | TANGSA LETTER UIC | 1 |
+| [U+16A8E](8E.svgz) | TANGSA LETTER UIQ | 1 |
+| [U+16A8F](8F.svgz) | TANGSA LETTER UIX | 1 |
+| [U+16A90](90.svgz) | TANGSA LETTER FINAL NG | 1 |
+| [U+16A91](91.svgz) | TANGSA LETTER LONG UEX | 1 |
+| [U+16A92](92.svgz) | TANGSA LETTER SHORT UEZ | 1 |
+| [U+16A93](93.svgz) | TANGSA LETTER SHORT AWX | 1 |
+| [U+16A94](94.svgz) | TANGSA LETTER UEC | 1 |
+| [U+16A95](95.svgz) | TANGSA LETTER UEZ | 1 |
+| [U+16A96](96.svgz) | TANGSA LETTER UEQ | 1 |
+| [U+16A97](97.svgz) | TANGSA LETTER UEX | 1 |
+| [U+16A98](98.svgz) | TANGSA LETTER UIUZ | 1 |
+| [U+16A99](99.svgz) | TANGSA LETTER UIUC | 1 |
+| [U+16A9A](9A.svgz) | TANGSA LETTER UIUQ | 1 |
+| [U+16A9B](9B.svgz) | TANGSA LETTER UIUX | 1 |
+| [U+16A9C](9C.svgz) | TANGSA LETTER MZ | 1 |
+| [U+16A9D](9D.svgz) | TANGSA LETTER MC | 1 |
+| [U+16A9E](9E.svgz) | TANGSA LETTER MQ | 1 |
+| [U+16A9F](9F.svgz) | TANGSA LETTER MX | 1 |
+| [U+16AA0](A0.svgz) | TANGSA LETTER KA | 1 |
+| [U+16AA1](A1.svgz) | TANGSA LETTER KHA | 1 |
+| [U+16AA2](A2.svgz) | TANGSA LETTER GA | 1 |
+| [U+16AA3](A3.svgz) | TANGSA LETTER NGA | 1 |
+| [U+16AA4](A4.svgz) | TANGSA LETTER SA | 1 |
+| [U+16AA5](A5.svgz) | TANGSA LETTER YA | 1 |
+| [U+16AA6](A6.svgz) | TANGSA LETTER WA | 1 |
+| [U+16AA7](A7.svgz) | TANGSA LETTER PA | 1 |
+| [U+16AA8](A8.svgz) | TANGSA LETTER NYA | 1 |
+| [U+16AA9](A9.svgz) | TANGSA LETTER PHA | 1 |
+| [U+16AAA](AA.svgz) | TANGSA LETTER BA | 1 |
+| [U+16AAB](AB.svgz) | TANGSA LETTER MA | 1 |
+| [U+16AAC](AC.svgz) | TANGSA LETTER NA | 1 |
+| [U+16AAD](AD.svgz) | TANGSA LETTER HA | 1 |
+| [U+16AAE](AE.svgz) | TANGSA LETTER LA | 1 |
+| [U+16AAF](AF.svgz) | TANGSA LETTER HTA | 1 |
+| [U+16AB0](B0.svgz) | TANGSA LETTER TA | 1 |
+| [U+16AB1](B1.svgz) | TANGSA LETTER DA | 1 |
+| [U+16AB2](B2.svgz) | TANGSA LETTER RA | 1 |
+| [U+16AB3](B3.svgz) | TANGSA LETTER NHA | 1 |
+| [U+16AB4](B4.svgz) | TANGSA LETTER SHA | 1 |
+| [U+16AB5](B5.svgz) | TANGSA LETTER CA | 1 |
+| [U+16AB6](B6.svgz) | TANGSA LETTER TSA | 1 |
+| [U+16AB7](B7.svgz) | TANGSA LETTER GHA | 1 |
+| [U+16AB8](B8.svgz) | TANGSA LETTER HTTA | 1 |
+| [U+16AB9](B9.svgz) | TANGSA LETTER THA | 1 |
+| [U+16ABA](BA.svgz) | TANGSA LETTER XA | 1 |
+| [U+16ABB](BB.svgz) | TANGSA LETTER FA | 1 |
+| [U+16ABC](BC.svgz) | TANGSA LETTER DHA | 1 |
+| [U+16ABD](BD.svgz) | TANGSA LETTER CHA | 1 |
+| [U+16ABE](BE.svgz) | TANGSA LETTER ZA | 1 |
+| [U+16AC0](C0.svgz) | TANGSA DIGIT ZERO | 1 |
+| [U+16AC1](C1.svgz) | TANGSA DIGIT ONE | 1 |
+| [U+16AC2](C2.svgz) | TANGSA DIGIT TWO | 1 |
+| [U+16AC3](C3.svgz) | TANGSA DIGIT THREE | 1 |
+| [U+16AC4](C4.svgz) | TANGSA DIGIT FOUR | 1 |
+| [U+16AC5](C5.svgz) | TANGSA DIGIT FIVE | 1 |
+| [U+16AC6](C6.svgz) | TANGSA DIGIT SIX | 1 |
+| [U+16AC7](C7.svgz) | TANGSA DIGIT SEVEN | 1 |
+| [U+16AC8](C8.svgz) | TANGSA DIGIT EIGHT | 1 |
+| [U+16AC9](C9.svgz) | TANGSA DIGIT NINE | 1 |
+| [U+16AD0](D0.svgz) | BASSA VAH LETTER ENNI | 1 |
+| [U+16AD1](D1.svgz) | BASSA VAH LETTER KA | 1 |
+| [U+16AD2](D2.svgz) | BASSA VAH LETTER SE | 1 |
+| [U+16AD3](D3.svgz) | BASSA VAH LETTER FA | 1 |
+| [U+16AD4](D4.svgz) | BASSA VAH LETTER MBE | 1 |
+| [U+16AD5](D5.svgz) | BASSA VAH LETTER YIE | 1 |
+| [U+16AD6](D6.svgz) | BASSA VAH LETTER GAH | 1 |
+| [U+16AD7](D7.svgz) | BASSA VAH LETTER DHII | 1 |
+| [U+16AD8](D8.svgz) | BASSA VAH LETTER KPAH | 1 |
+| [U+16AD9](D9.svgz) | BASSA VAH LETTER JO | 1 |
+| [U+16ADA](DA.svgz) | BASSA VAH LETTER HWAH | 1 |
+| [U+16ADB](DB.svgz) | BASSA VAH LETTER WA | 1 |
+| [U+16ADC](DC.svgz) | BASSA VAH LETTER ZO | 1 |
+| [U+16ADD](DD.svgz) | BASSA VAH LETTER GBU | 1 |
+| [U+16ADE](DE.svgz) | BASSA VAH LETTER DO | 1 |
+| [U+16ADF](DF.svgz) | BASSA VAH LETTER CE | 1 |
+| [U+16AE0](E0.svgz) | BASSA VAH LETTER UWU | 1 |
+| [U+16AE1](E1.svgz) | BASSA VAH LETTER TO | 1 |
+| [U+16AE2](E2.svgz) | BASSA VAH LETTER BA | 1 |
+| [U+16AE3](E3.svgz) | BASSA VAH LETTER VU | 1 |
+| [U+16AE4](E4.svgz) | BASSA VAH LETTER YEIN | 1 |
+| [U+16AE5](E5.svgz) | BASSA VAH LETTER PA | 1 |
+| [U+16AE6](E6.svgz) | BASSA VAH LETTER WADDA | 1 |
+| [U+16AE7](E7.svgz) | BASSA VAH LETTER A | 1 |
+| [U+16AE8](E8.svgz) | BASSA VAH LETTER O | 1 |
+| [U+16AE9](E9.svgz) | BASSA VAH LETTER OO | 1 |
+| [U+16AEA](EA.svgz) | BASSA VAH LETTER U | 1 |
+| [U+16AEB](EB.svgz) | BASSA VAH LETTER EE | 1 |
+| [U+16AEC](EC.svgz) | BASSA VAH LETTER E | 1 |
+| [U+16AED](ED.svgz) | BASSA VAH LETTER I | 1 |
+| [U+16AF0](F0.svgz) | BASSA VAH COMBINING HIGH TONE | 1 |
+| [U+16AF1](F1.svgz) | BASSA VAH COMBINING LOW TONE | 1 |
+| [U+16AF2](F2.svgz) | BASSA VAH COMBINING MID TONE | 1 |
+| [U+16AF3](F3.svgz) | BASSA VAH COMBINING LOW-MID TONE | 1 |
+| [U+16AF4](F4.svgz) | BASSA VAH COMBINING HIGH-LOW TONE | 1 |
+| [U+16AF5](F5.svgz) | BASSA VAH FULL STOP | 1 |

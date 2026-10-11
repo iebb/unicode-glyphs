@@ -1,0 +1,71 @@
+# U01/1B reference specimens
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[Open the glyph browser](https://iebb.github.io/unicode-glyphs/) · [Source terms](../../REFERENCE-ONLY.md)
+
+| Codepoint | Name | Forms |
+| --- | --- | --- |
+| [U+11B00](00.svgz) | DEVANAGARI HEAD MARK | 1 |
+| [U+11B01](01.svgz) | DEVANAGARI HEAD MARK WITH HEADSTROKE | 1 |
+| [U+11B02](02.svgz) | DEVANAGARI SIGN BHALE | 1 |
+| [U+11B03](03.svgz) | DEVANAGARI SIGN BHALE WITH HOOK | 1 |
+| [U+11B04](04.svgz) | DEVANAGARI SIGN EXTENDED BHALE | 1 |
+| [U+11B05](05.svgz) | DEVANAGARI SIGN EXTENDED BHALE WITH HOOK | 1 |
+| [U+11B06](06.svgz) | DEVANAGARI SIGN WESTERN FIVE-LIKE BHALE | 1 |
+| [U+11B07](07.svgz) | DEVANAGARI SIGN WESTERN NINE-LIKE BHALE | 1 |
+| [U+11B08](08.svgz) | DEVANAGARI SIGN REVERSED NINE-LIKE BHALE | 1 |
+| [U+11B09](09.svgz) | DEVANAGARI SIGN MINDU | 1 |
+| [U+11B0A](0A.svgz) | DEVANAGARI LETTER ALTERNATE DDDA | 1 |
+| [U+11B60](60.svgz) | SHARADA VOWEL SIGN OE | 1 |
+| [U+11B61](61.svgz) | SHARADA VOWEL SIGN OOE | 1 |
+| [U+11B62](62.svgz) | SHARADA VOWEL SIGN UE | 1 |
+| [U+11B63](63.svgz) | SHARADA VOWEL SIGN UUE | 1 |
+| [U+11B64](64.svgz) | SHARADA VOWEL SIGN SHORT E | 1 |
+| [U+11B65](65.svgz) | SHARADA VOWEL SIGN SHORT O | 1 |
+| [U+11B66](66.svgz) | SHARADA VOWEL SIGN CANDRA E | 1 |
+| [U+11B67](67.svgz) | SHARADA VOWEL SIGN CANDRA O | 1 |
+| [U+11BC0](C0.svgz) | SUNUWAR LETTER DEVI | 1 |
+| [U+11BC1](C1.svgz) | SUNUWAR LETTER TASLA | 1 |
+| [U+11BC2](C2.svgz) | SUNUWAR LETTER EKO | 1 |
+| [U+11BC3](C3.svgz) | SUNUWAR LETTER IMAR | 1 |
+| [U+11BC4](C4.svgz) | SUNUWAR LETTER REU | 1 |
+| [U+11BC5](C5.svgz) | SUNUWAR LETTER UTTHI | 1 |
+| [U+11BC6](C6.svgz) | SUNUWAR LETTER KIK | 1 |
+| [U+11BC7](C7.svgz) | SUNUWAR LETTER MA | 1 |
+| [U+11BC8](C8.svgz) | SUNUWAR LETTER APPHO | 1 |
+| [U+11BC9](C9.svgz) | SUNUWAR LETTER PIP | 1 |
+| [U+11BCA](CA.svgz) | SUNUWAR LETTER GIL | 1 |
+| [U+11BCB](CB.svgz) | SUNUWAR LETTER HAMSO | 1 |
+| [U+11BCC](CC.svgz) | SUNUWAR LETTER CARMI | 1 |
+| [U+11BCD](CD.svgz) | SUNUWAR LETTER NAH | 1 |
+| [U+11BCE](CE.svgz) | SUNUWAR LETTER BUR | 1 |
+| [U+11BCF](CF.svgz) | SUNUWAR LETTER JYAH | 1 |
+| [U+11BD0](D0.svgz) | SUNUWAR LETTER LOACHA | 1 |
+| [U+11BD1](D1.svgz) | SUNUWAR LETTER OTTHI | 1 |
+| [U+11BD2](D2.svgz) | SUNUWAR LETTER SHYELE | 1 |
+| [U+11BD3](D3.svgz) | SUNUWAR LETTER VARCA | 1 |
+| [U+11BD4](D4.svgz) | SUNUWAR LETTER YAT | 1 |
+| [U+11BD5](D5.svgz) | SUNUWAR LETTER AVA | 1 |
+| [U+11BD6](D6.svgz) | SUNUWAR LETTER AAL | 1 |
+| [U+11BD7](D7.svgz) | SUNUWAR LETTER DONGA | 1 |
+| [U+11BD8](D8.svgz) | SUNUWAR LETTER THARI | 1 |
+| [U+11BD9](D9.svgz) | SUNUWAR LETTER PHAR | 1 |
+| [U+11BDA](DA.svgz) | SUNUWAR LETTER NGAR | 1 |
+| [U+11BDB](DB.svgz) | SUNUWAR LETTER KHA | 1 |
+| [U+11BDC](DC.svgz) | SUNUWAR LETTER SHYER | 1 |
+| [U+11BDD](DD.svgz) | SUNUWAR LETTER CHELAP | 1 |
+| [U+11BDE](DE.svgz) | SUNUWAR LETTER TENTU | 1 |
+| [U+11BDF](DF.svgz) | SUNUWAR LETTER THELE | 1 |
+| [U+11BE0](E0.svgz) | SUNUWAR LETTER KLOKO | 1 |
+| [U+11BE1](E1.svgz) | SUNUWAR SIGN PVO | 1 |
+| [U+11BF0](F0.svgz) | SUNUWAR DIGIT ZERO | 1 |
+| [U+11BF1](F1.svgz) | SUNUWAR DIGIT ONE | 1 |
+| [U+11BF2](F2.svgz) | SUNUWAR DIGIT TWO | 1 |
+| [U+11BF3](F3.svgz) | SUNUWAR DIGIT THREE | 1 |
+| [U+11BF4](F4.svgz) | SUNUWAR DIGIT FOUR | 1 |
+| [U+11BF5](F5.svgz) | SUNUWAR DIGIT FIVE | 1 |
+| [U+11BF6](F6.svgz) | SUNUWAR DIGIT SIX | 1 |
+| [U+11BF7](F7.svgz) | SUNUWAR DIGIT SEVEN | 1 |
+| [U+11BF8](F8.svgz) | SUNUWAR DIGIT EIGHT | 1 |
+| [U+11BF9](F9.svgz) | SUNUWAR DIGIT NINE | 1 |
