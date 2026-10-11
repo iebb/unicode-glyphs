@@ -1,0 +1,12 @@
+# U+3D02F — <Seal Character>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=3D02F)
+
+| Specimen | PDF page |
+| --- | --- |
+| [C-00044](C-00044.svgz) | 3150 |
+| [D-00044](D-00044.svgz) | 3150 |
+| [K-00044](K-00044.svgz) | 3150 |
+| [TH-00044](TH-00044.svgz) | 3150 |

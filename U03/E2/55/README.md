@@ -1,0 +1,12 @@
+# U+3E255 — <Seal Character>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=3E255)
+
+| Specimen | PDF page |
+| --- | --- |
+| [C-04623](C-04623.svgz) | 3228 |
+| [D-04467](D-04467.svgz) | 3228 |
+| [K-04489](K-04489.svgz) | 3228 |
+| [TH-04482](TH-04482.svgz) | 3228 |

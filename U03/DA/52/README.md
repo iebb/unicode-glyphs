@@ -1,0 +1,12 @@
+# U+3DA52 — <Seal Character>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=3DA52)
+
+| Specimen | PDF page |
+| --- | --- |
+| [C-02605](C-02605.svgz) | 3194 |
+| [D-02499](D-02499.svgz) | 3194 |
+| [K-02523](K-02523.svgz) | 3194 |
+| [TH-02515](TH-02515.svgz) | 3194 |

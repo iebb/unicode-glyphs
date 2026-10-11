@@ -1,0 +1,12 @@
+# U+3D591 — <Seal Character>
+
+**Reference only. Restrictive source font licenses apply. No reuse or redistribution rights are granted.**
+
+[View all forms](https://iebb.github.io/unicode-glyphs/#cp=3D591)
+
+| Specimen | PDF page |
+| --- | --- |
+| [C-01402](C-01402.svgz) | 3173 |
+| [D-01337](D-01337.svgz) | 3173 |
+| [K-01351](K-01351.svgz) | 3173 |
+| [TH-01345](TH-01345.svgz) | 3173 |
